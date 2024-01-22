@@ -1,0 +1,524 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "KnowledgeArea": {
+          "options": [
+            "[[Integration Management]]",
+            "[[Scope Management]]"
+          ],
+          "richText": true
+        },
+        "ProcessGroup": {
+          "richText": true
+        },
+        "Pmbok6Page": {},
+        "tags": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Processes",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "Section",
+              "name",
+              "KnowledgeArea",
+              "ProcessGroup",
+              "Inputs",
+              "Pmbok6Page",
+              "path",
+              "tags"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 248
+              },
+              "KnowledgeArea": {
+                "width": 225,
+                "hide": true
+              },
+              "ProcessGroup": {
+                "width": 195,
+                "hide": true
+              },
+              "Pmbok6Page": {
+                "width": 198,
+                "hide": true
+              },
+              "Inputs": {
+                "width": 554
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "Section",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "731f0a46-4ad3-4a07-bca3-7dfd69180b49",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "KnowledgeArea",
+            "columns": {
+              "[[Integration Management]]": {
+                "weight": 0
+              },
+              "[[Scope Management]]": {
+                "weight": 1
+              },
+              "[[Stakeholder Management]]": {
+                "weight": 2
+              },
+              "[[Procurement Management]]": {
+                "weight": 3
+              },
+              "[[Risk Management]]": {
+                "weight": 4
+              },
+              "[[Resource Management]]": {
+                "weight": 5
+              },
+              "[[Communications Management]]": {
+                "weight": 6
+              },
+              "[[Quality Management]]": {
+                "weight": 7
+              },
+              "[[Cost Management]]": {
+                "weight": 8
+              },
+              "[[Schedule Management]]": {
+                "weight": 9
+              }
+            },
+            "includeFields": [
+              "ToolsAndTechniques",
+              "Outputs",
+              "Inputs"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e66b4ba6-cd42-4978-9629-81626c97d493",
+          "name": "By Knowledge Area",
+          "type": "board"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "Tools & Techniques"
+            ],
+            "groupByField": "ProcessGroup",
+            "columns": {
+              "[[Initiating]]": {
+                "weight": 0
+              },
+              "[[Planning]]": {
+                "weight": 1
+              },
+              "[[Executing]]": {
+                "weight": 2
+              },
+              "[[Monitoring and Controlling]]": {
+                "weight": 3
+              },
+              "[[Closing]]": {
+                "weight": 4
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#000000",
+                "condition": {
+                  "field": "KnowledgeArea",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "[[Integration Management]]"
+                }
+              },
+              {
+                "color": "#263e8e",
+                "condition": {
+                  "field": "KnowledgeArea",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "[[Scope Management]]"
+                }
+              },
+              {
+                "color": "#00aeef",
+                "condition": {
+                  "field": "KnowledgeArea",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "[[Schedule Management]]"
+                }
+              },
+              {
+                "color": "#993e8c",
+                "condition": {
+                  "field": "KnowledgeArea",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "[[Stakeholder Management]]"
+                }
+              },
+              {
+                "color": "#03803f",
+                "condition": {
+                  "field": "KnowledgeArea",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "[[Cost Management]]"
+                }
+              },
+              {
+                "color": "#f7a1a1",
+                "condition": {
+                  "field": "KnowledgeArea",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "[[Quality Management]]"
+                }
+              },
+              {
+                "color": "#86c43f",
+                "condition": {
+                  "field": "KnowledgeArea",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "[[Resource Management]]"
+                }
+              },
+              {
+                "color": "#e8b80a",
+                "condition": {
+                  "field": "KnowledgeArea",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "[[Risk Management]]"
+                }
+              },
+              {
+                "color": "#f7931e",
+                "condition": {
+                  "field": "KnowledgeArea",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "[[Procurement Management]]"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2c53ce86-97cd-4ced-b7a6-1be77fc2b432",
+          "name": "By Process Group",
+          "type": "board"
+        }
+      ],
+      "id": "94e80f37-7bc9-4be4-86dc-3d9ff8e3d55c",
+      "name": "Processes"
+    },
+    {
+      "fieldConfig": {
+        "page": {}
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Knowledge Areas",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "tags",
+              "PMBoK page"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "page",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "5b37e5c3-e4bd-4f32-a46e-c2fd9e3e2597",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "3a10507a-54ea-460b-a182-a7061eabfd78",
+      "name": "Knowledge Areas"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Process Groups",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "tags"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5a3b7636-895a-453c-ac88-a33fe46cda77",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "c54a8862-3694-49d3-85f6-13c435cb305d",
+      "name": "Process Groups"
+    },
+    {
+      "fieldConfig": {
+        "Description": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#business-document",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "Learn More": {
+                "width": 488
+              },
+              "Description": {
+                "width": 351
+              },
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "Description",
+              "Learn More",
+              "Section",
+              "tags",
+              "Page"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "fc24488e-e2ae-4641-a29e-6482470a2409",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "5d583e06-00e1-4b00-b02a-7c14ce6778aa",
+      "name": "Business Documents"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#project-document",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "Description",
+              "Page",
+              "Section",
+              "tags"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "28afb10e-faef-49e2-bb35-f2187aa963b2",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "5e6d6f81-a576-49cf-b332-54f26c41ae37",
+      "name": "Project Documents"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Tools and techniques",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "tags",
+              "page",
+              "section"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "51957d5b-e180-4115-95f0-ce077643aa06",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b19f6233-cc98-430e-885f-841f8554ad67",
+      "name": "Tools And Techniques"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "QUOTE_DOUBLE"
+    },
+    "commands": [
+      {
+        "project": "94e80f37-7bc9-4be4-86dc-3d9ff8e3d55c"
+      }
+    ],
+    "linkBehavior": "open-note"
+  }
+}

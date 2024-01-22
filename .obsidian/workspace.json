@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "dc5449299677b9cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "38621fdbd2dcd556",
+        "type": "split",
+        "children": [
+          {
+            "id": "4dc859ea77790568",
+            "type": "tabs",
+            "dimension": 63.81944444444444,
+            "children": [
+              {
+                "id": "99bf6bfec016f569",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "obsidian-projects",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "1677431ff9d59c0a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Process Groups/Planning.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "fed3941611d5a34a",
+            "type": "tabs",
+            "dimension": 36.18055555555556,
+            "children": [
+              {
+                "id": "f584f962f0bfbac7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "9a5e1502b153c10f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Processes Flow by Ricardo Vargas.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8a9616ba25f9573",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6f1264d5c703eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3632dba8c6711c61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9269b42da62cfda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce2f4e0758d6bd41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 458.5
+  },
+  "right": {
+    "id": "8ac93f681408532f",
+    "type": "split",
+    "children": [
+      {
+        "id": "77793a40bf34dd40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a45c5d2ccd094f78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5d2eedfc2404dbc0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8894ec8e635a8c07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd965bc9e993acf2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c461271a4d5a59c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "card-board:CardBoard": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "3d-graph:3D Graph": false,
+      "periodic-notes:Open this month": false
+    }
+  },
+  "active": "3632dba8c6711c61",
+  "lastOpenFiles": [
+    "Untitled",
+    "GitGit/fdsaasfdasdfsdf.md",
+    "GitGit",
+    "GitGit",
+    "Process Groups/Planning.md",
+    "Tools and techniques/Mind mapping.md",
+    "Knowledge Areas/Stakeholder Management.md",
+    "Knowledge Areas/Procurement Management.md",
+    "Knowledge Areas/Risk Management.md",
+    "Knowledge Areas/Communications Management.md",
+    "Knowledge Areas/Resource Management.md",
+    "Knowledge Areas/Quality Management.md",
+    "Knowledge Areas/Cost Management.md",
+    "Knowledge Areas/Schedule Management.md",
+    "Knowledge Areas/Scope Management.md",
+    "Knowledge Areas/Integration Management.md",
+    "Tools and techniques/Conflict management.md",
+    "Tools and techniques/Stakeholder mapping.md",
+    "Process Groups/Executing.md",
+    "Process Groups/Closing.md",
+    "Process Groups/Monitoring and Controlling.md",
+    "Process Groups/Initiating.md",
+    "Project Documents/Project charter.md",
+    "Processes/Develop project charter.md",
+    "Business Documents/Benefits management plan.md",
+    "Business Documents/Business case.md",
+    "Business Documents/Success Measures.md",
+    "Enterprise Environmental Factors.md",
+    "_attachments/PMBOK Processes Flow by Ricardo Vargas.pdf",
+    "_attachments",
+    "_attachments/Pasted image 20240121174229.png",
+    "_attachments",
+    "jerzydziewierz (from GitHub)/Process Groups/Untitled",
+    "Process Groups",
+    "_templates",
+    "Knowledge Areas",
+    "Project Management Plans/Additional components",
+    "_attachments/Pasted image 20240105130034.png",
+    "_attachments/Pasted image 20240105133635.png",
+    "Topics/Project Management/GENERAL/Communications/Классификация стейкхолдеров/_attachments/RACI Example.png",
+    "Jobs/VK/interview/_attachments/Pasted image 20240111104324.png",
+    "Topics/Project Management/GENERAL/Communications/Классификация стейкхолдеров/_attachments/Pasted image 20240108195153.png",
+    "Topics/Project Management/GENERAL/Communications/Классификация стейкхолдеров/_attachments/Pasted image 20240108194849.png",
+    "Topics/Project Management/GENERAL/Communications/Pasted image 20240108194154.png",
+    "Topics/Project Management/GENERAL/Классификация стейкхолдеров 1/Pasted image 20240108194714.png",
+    "Topics/Project Management/GENERAL/Классификация стейкхолдеров 1/Pasted image 20240108194633.png",
+    "Untitled.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

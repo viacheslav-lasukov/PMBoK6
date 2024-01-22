@@ -1,0 +1,65 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "YooMoney/Persons",
+      "template": "_templates/new_person.md"
+    },
+    {
+      "folder": "YooMoney/Teams",
+      "template": "_templates/new_team.md"
+    },
+    {
+      "folder": "VK/People",
+      "template": "_templates/new_person.md"
+    },
+    {
+      "folder": "VK/Teams",
+      "template": "_templates/new_team.md"
+    },
+    {
+      "folder": "VK/Projects",
+      "template": "_templates/new_project.md"
+    },
+    {
+      "folder": "VK/Domains",
+      "template": "_templates/new_domain.md"
+    },
+    {
+      "folder": "VK/Components",
+      "template": "_templates/new_component.md"
+    },
+    {
+      "folder": "VK/Meeting Notes",
+      "template": "_templates/new_meetingNote.md"
+    },
+    {
+      "folder": "jerzydziewierz (from GitHub)/Knowledge Areas",
+      "template": "_templates/new_knowledgeArea.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "_templates/toc.md",
+    "_templates/new_index.md",
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

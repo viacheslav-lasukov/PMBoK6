@@ -23,6 +23,7 @@
     "PMBoK page": "number",
     "Section": "text",
     "Page": "number",
-    "Learn More": "multitext"
+    "Learn More": "multitext",
+    "Components": "multitext"
   }
 }

@@ -1,10 +1,15 @@
 ---
 tags: "process-group"
 ---
+![[Planning Process Group.png]]
 # Processes
 ```dataview
-TABLE
-FROM #process 
+TABLE WITHOUT ID Section, file.link as "Name"
+FROM #process
 WHERE ProcessGroup=link(this.file.name)
-SORT file.name
+SORT page
 ```
+
+# In Adaptive Environments
+- Adaptive life cycles develop a set of high-level plans for the initial requirements and progressively elaborate requirements to an appropriate level of detail for the planning cycle.
+- Projects navigating high degrees of complexity and uncertainty should involve as many team members and stakeholders as possible in the planning processes. The intent is to overcome uncertainty by incorporating a wide band of input into planning.

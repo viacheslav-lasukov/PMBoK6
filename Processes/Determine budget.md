@@ -1,37 +1,40 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Cost Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsAndTechniques:
 Section: "7.3"
-Pmbok6Page: 248
-tags: "process"
+page: 248
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # .1 Inputs
 
-[root Project management plan](root%20Project%20management%20plan.md)
-* [qq Cost management plan](qq%20Cost%20management%20plan.md)
-* [qq Resource management plan](qq%20Resource%20management%20plan.md)
-* [qq Scope baseline](qq%20Scope%20baseline.md)
+[Project Management Plan](Project%20Management%20Plan.md)
+* [Cost management plan](Cost%20management%20plan.md)
+* [Resource management plan](Resource%20management%20plan.md)
+* [Scope Baseline](Scope%20Baseline.md)
 
 Project documents:
-* [dd Basis of estimates](dd%20Basis%20of%20estimates.md)
-* [dd Cost estimates](dd%20Cost%20estimates.md)
-* [dd Project schedule](dd%20Project%20schedule.md)
-* [dd Risk register](dd%20Risk%20register.md)
+* [Basis of estimates](Basis%20of%20estimates.md)
+* [Cost estimates](Cost%20estimates.md)
+* [Project schedule](Project%20schedule.md)
+* [Risk register](Risk%20register.md)
 
 Business documents:
 * [Business case](Business%20case.md)
 * [Benefits management plan](Benefits%20management%20plan.md)
 
-[Agreement list](Agreement%20list.md)
+[Agreements](Agreements.md)
 
-[Enterprise Environmental Factors](Enterprise%20Environmental%20Factors.md)
-[Organizational process assets](Organizational%20process%20assets.md)
+Enterprise Environmental Factors
+Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [dd Stakeholder register](dd%20Stakeholder%20register.md)
+Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
 Cost aggregation
 Data analysis
 * Reserve analysis
@@ -40,14 +43,14 @@ Funding limit reconciliation
 Financing
 
 # .3 Outputs
-new [qq Cost baseline](qq%20Cost%20baseline.md)
+new [Cost baseline](Cost%20baseline.md)
 
 [Project funding requirements](Project%20funding%20requirements.md)
 
 
 Project document updates:
-* updates to [dd Cost estimates](dd%20Cost%20estimates.md)
-* updates to [dd Project schedule](dd%20Project%20schedule.md)
-* updates to [dd Risk register](dd%20Risk%20register.md)
+* updates to [Cost estimates](Cost%20estimates.md)
+* updates to [Project schedule](Project%20schedule.md)
+* updates to [Risk register](Risk%20register.md)
 
 

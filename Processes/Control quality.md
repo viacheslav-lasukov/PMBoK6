@@ -1,32 +1,35 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Quality Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
-ToolsAndTechniques:
 Section: "8.3"
-Pmbok6Page: 298
-tags: "process"
+page: 298
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # .1 Inputs
 
-[root Project management plan](root%20Project%20management%20plan.md)
-* [qq Quality management plan](qq%20Quality%20management%20plan.md)
+[Project Management Plan](Project%20Management%20Plan.md)
+* [Quality management plan](Quality%20management%20plan.md)
 
 Project documents:
-* [dd Lessons learned register](dd%20Lessons%20learned%20register.md)
-* [dd Quality metrics](dd%20Quality%20metrics.md)
-* [dd Test and evaluation documents](dd%20Test%20and%20evaluation%20documents.md)
+* [Lessons learned register](Lessons%20learned%20register.md)
+* [Quality metrics](Quality%20metrics.md)
+* [Test and evaluation documents](Test%20and%20evaluation%20documents.md)
 
-approved change requests -- see [dd Change log](dd%20Change%20log.md)
+approved change requests -- see [Change Log](Change%20Log.md)
 
 [Deliverables](Deliverables.md)
 
 [Work performance data](Work%20performance%20data.md)
 
-[Enterprise Environmental Factors](Enterprise%20Environmental%20Factors.md)
+Enterprise Environmental Factors
 
-[Organizational process assets](Organizational%20process%20assets.md)
+Organizational process assets
 
 # .2 Tools & techniques
 Data gathering
@@ -41,7 +44,7 @@ Data analysis:
 
 Inspection
 
-Testing and product evaluations - see [dd Test and evaluation documents](dd%20Test%20and%20evaluation%20documents.md)
+Testing and product evaluations - see [Test and evaluation documents](Test%20and%20evaluation%20documents.md)
 
 Data representation:
 * Cause-and-effect diagrams
@@ -49,21 +52,21 @@ Data representation:
 * Histogram
 * Scatter diagrams
 
-Meetings - see [dd Meeting log](dd%20Meeting%20log.md)
+Meetings - see [Meeting log](Meeting%20log.md)
 
 # .3 Outputs
-new [dd Quality control measurements](dd%20Quality%20control%20measurements.md)
+new [Quality control measurements](Quality%20control%20measurements.md)
 new Verified [Deliverables](Deliverables.md)
 new [Work perfomance information](Work%20perfomance%20information.md)
-new [dd Change requests](dd%20Change%20requests.md)
+new [Change requests](Change%20requests.md)
 
-Project management plan updates: [root Project management plan](root%20Project%20management%20plan.md)
-* updates to [qq Quality management plan](qq%20Quality%20management%20plan.md)
+Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
+* updates to [Quality management plan](Quality%20management%20plan.md)
 
 Project document updates:
-* updates to [dd Issue log](dd%20Issue%20log.md)
-* updates to [dd Lessons learned register](dd%20Lessons%20learned%20register.md)
-* updates to [dd Risk register](dd%20Risk%20register.md)
-* updates to [dd Test and evaluation documents](dd%20Test%20and%20evaluation%20documents.md)
+* updates to [Issue log](Issue%20log.md)
+* updates to [Lessons learned register](Lessons%20learned%20register.md)
+* updates to [Risk register](Risk%20register.md)
+* updates to [Test and evaluation documents](Test%20and%20evaluation%20documents.md)
 
 

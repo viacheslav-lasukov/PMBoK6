@@ -1,24 +1,27 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Quality Management]]"
 ProcessGroup: "[[Executing]]"
-ToolsAndTechniques:
 Section: "8.2"
-Pmbok6Page: 288
-tags: "process"
+page: 288
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # .1 Inputs
-[root Project management plan](root%20Project%20management%20plan.md)
-* [qq Quality management plan](qq%20Quality%20management%20plan.md)
+[Project Management Plan](Project%20Management%20Plan.md)
+* [Quality management plan](Quality%20management%20plan.md)
 
 Project documents:
-* [dd Lessons learned register](dd%20Lessons%20learned%20register.md)
-* [dd Quality control measurements](dd%20Quality%20control%20measurements.md)
-* [dd Quality metrics](dd%20Quality%20metrics.md)
-* [dd Risk report](dd%20Risk%20report.md)
+* [Lessons learned register](Lessons%20learned%20register.md)
+* [Quality control measurements](Quality%20control%20measurements.md)
+* [Quality metrics](Quality%20metrics.md)
+* [Risk report](Risk%20report.md)
 
-[Organizational process assets](Organizational%20process%20assets.md)
+Organizational process assets
 
 # .2 Tools & techniques
 
@@ -47,21 +50,21 @@ Problem solving
 Quality improvement methods
 
 # .3 Outputs
-new [dd Quality report](dd%20Quality%20report.md)
-new [dd Test and evaluation documents](dd%20Test%20and%20evaluation%20documents.md)
-new [dd Change requests](dd%20Change%20requests.md)
+new [Quality report](Quality%20report.md)
+new [Test and evaluation documents](Test%20and%20evaluation%20documents.md)
+new [Change requests](Change%20requests.md)
 
 
-Project management plan updates: [root Project management plan](root%20Project%20management%20plan.md)
-* updates to [qq Quality management plan](qq%20Quality%20management%20plan.md)
-* updates to [qq Scope baseline](qq%20Scope%20baseline.md)
-* updates to [qq Schedule baseline](qq%20Schedule%20baseline.md)
-* updates to [qq Cost baseline](qq%20Cost%20baseline.md)
+Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
+* updates to [Quality management plan](Quality%20management%20plan.md)
+* updates to [Scope Baseline](Scope%20Baseline.md)
+* updates to [Schedule Baseline](Schedule%20Baseline.md)
+* updates to [Cost baseline](Cost%20baseline.md)
 
 
 Project document updates:
-* updates to [dd Issue log](dd%20Issue%20log.md)
-* updates to [dd Lessons learned register](dd%20Lessons%20learned%20register.md)
-* updates to [dd Risk register](dd%20Risk%20register.md)
+* updates to [Issue log](Issue%20log.md)
+* updates to [Lessons learned register](Lessons%20learned%20register.md)
+* updates to [Risk register](Risk%20register.md)
 
 

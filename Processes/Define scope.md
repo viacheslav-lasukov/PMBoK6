@@ -1,28 +1,31 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Scope Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsAndTechniques:
 Section: "5.3"
-Pmbok6Page: 150
-tags: "process"
+page: 150
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # .1 Inputs
-[Project charter](Project%20charter.md)
+[Project Charter](Project%20Charter.md)
 
-[root Project management plan](root%20Project%20management%20plan.md)
-* [qq Scope management plan](qq%20Scope%20management%20plan.md)
+[Project Management Plan](Project%20Management%20Plan.md)
+* [Scope management plan](Scope%20management%20plan.md)
 Project documents:
-* [dd Assumption log](dd%20Assumption%20log.md)
-* [dd Requirements documentation](dd%20Requirements%20documentation.md)
-* [dd Risk register](dd%20Risk%20register.md)
+* [Assumption Log](Assumption%20Log.md)
+* [Requirements documentation](Requirements%20documentation.md)
+* [Risk register](Risk%20register.md)
 
-[Enterprise Environmental Factors](Enterprise%20Environmental%20Factors.md)  .152
-[Organizational process assets](Organizational%20process%20assets.md) .152
+Enterprise Environmental Factors  .152
+Organizational process assets .152
 
 # .2 Tools & techniques
-Expert judgement - see [dd Stakeholder register](dd%20Stakeholder%20register.md)
+Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
 
 Data analysis
 * Alternatives analysis
@@ -37,12 +40,12 @@ Product analysis
 
 
 # .3 Outputs
-new [dd Project scope statement](dd%20Project%20scope%20statement.md)
+new [Project Scope Statement](Project%20Scope%20Statement.md)
 
 Project document updates:
-* updates to [dd Assumption log](dd%20Assumption%20log.md)
-* updates to [dd Requirements documentation](dd%20Requirements%20documentation.md)
-* updates to [dd Requirements traceability matrix](dd%20Requirements%20traceability%20matrix.md)
-* updates to [dd Stakeholder register](dd%20Stakeholder%20register.md)
+* updates to [Assumption Log](Assumption%20Log.md)
+* updates to [Requirements documentation](Requirements%20documentation.md)
+* updates to [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
+* updates to [Stakeholder register](Stakeholder%20register.md)
  
 

@@ -1,30 +1,33 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Stakeholder Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsAndTechniques:
 Section: "13.2"
-Pmbok6Page: 512
-tags: "process"
+page: 512
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # 13.2.1 Inputs
-[Project charter](Project%20charter.md)
+[Project Charter](Project%20Charter.md)
 Project management plan:
-* [qq Resource management plan](qq%20Resource%20management%20plan.md)
-* [qq Communications management plan](qq%20Communications%20management%20plan.md)
-* [qq Risk Management plan](qq%20Risk%20Management%20plan.md)
+* [Resource management plan](Resource%20management%20plan.md)
+* [Communications management plan](Communications%20management%20plan.md)
+* [Risk Management plan](Risk%20Management%20plan.md)
  Project Documents:
-* [dd Assumption log](dd%20Assumption%20log.md)
-* [dd Change log](dd%20Change%20log.md)
-* [dd Issue log](dd%20Issue%20log.md)
-* [dd Project schedule](dd%20Project%20schedule.md)
-* [dd Risk register](dd%20Risk%20register.md)
-* [dd Stakeholder register](dd%20Stakeholder%20register.md)
+* [Assumption Log](Assumption%20Log.md)
+* [Change Log](Change%20Log.md)
+* [Issue log](Issue%20log.md)
+* [Project schedule](Project%20schedule.md)
+* [Risk register](Risk%20register.md)
+* [Stakeholder register](Stakeholder%20register.md)
 
-[Agreement list](Agreement%20list.md)
-[Enterprise Environmental Factors](Enterprise%20Environmental%20Factors.md)
-[Organizational process assets](Organizational%20process%20assets.md)
+[Agreements](Agreements.md)
+Enterprise Environmental Factors
+Organizational process assets
 
 # 13.2.2 Tools & Techniques
 Expert judgement
@@ -36,10 +39,10 @@ Data analysis
 Decision making
 * [Prioritization and ranking](Prioritization%20and%20ranking.md)
 Data representation
-* [Mind mapping](Mind%20mapping.md)
+* [Mind Mapping](Mind%20Mapping.md)
 * [Stakeholder engagement assessment matrix](Stakeholder%20engagement%20assessment%20matrix.md)
 
-Meetings - see [dd Meeting log](dd%20Meeting%20log.md)
+Meetings - see [Meeting log](Meeting%20log.md)
 
 # 13.2.3 Outputs
-new [qq Stakeholder engagement plan](qq%20Stakeholder%20engagement%20plan.md)
+new [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)

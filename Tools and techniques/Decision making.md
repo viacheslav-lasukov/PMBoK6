@@ -1,7 +1,10 @@
 ---
-tags: "tool-technique"
 page: .nan
 section: ""
+ToolAndTechniqueGroup: "[[Interpersonal and Team Skills]]"
+tags: "tool-technique"
+Description: ""
+Type: ""
 ---
 
 >PMBOK 9.5.2.1 p.349

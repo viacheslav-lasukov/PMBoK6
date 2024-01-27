@@ -13,7 +13,7 @@
         "ProcessGroup": {
           "richText": true
         },
-        "Pmbok6Page": {},
+        "page": {},
         "tags": {
           "richText": true
         }
@@ -36,11 +36,16 @@
             "orderFields": [
               "Section",
               "name",
+              "page",
+              "EEFs",
+              "OPAs",
+              "ToolsTechniques",
+              "ExpertJudgmentTopics",
+              "Outputs",
+              "path",
               "KnowledgeArea",
               "ProcessGroup",
-              "Inputs",
-              "Pmbok6Page",
-              "path",
+              "Meetings",
               "tags"
             ],
             "fieldConfig": {
@@ -58,12 +63,8 @@
                 "width": 195,
                 "hide": true
               },
-              "Pmbok6Page": {
-                "width": 198,
+              "tags": {
                 "hide": true
-              },
-              "Inputs": {
-                "width": 554
               }
             }
           },
@@ -421,16 +422,32 @@
       "name": "Business Documents"
     },
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "Started By": {
+          "richText": true
+        },
+        "tags": {
+          "richText": true
+        },
+        "Category": {
+          "options": [
+            "Project Document",
+            "Business Document",
+            "Management Plan",
+            "Baseline",
+            "Baseline Component"
+          ]
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
       "isDefault": false,
       "dataSource": {
-        "kind": "tag",
+        "kind": "folder",
         "config": {
-          "tag": "#project-document",
-          "hierarchy": false
+          "path": "Artefacts",
+          "recursive": true
         }
       },
       "newNotesFolder": "",
@@ -440,12 +457,292 @@
             "orderFields": [
               "name",
               "path",
+              "tags",
+              "Page",
+              "Section",
+              "Started By",
+              "Components",
+              "Description",
+              "Category"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "hide": false
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "28afb10e-faef-49e2-bb35-f2187aa963b2",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": [
+              {
+                "field": "Category",
+                "operator": "is",
+                "enabled": true,
+                "value": "Business Document"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6bb42039-a15e-4d76-a077-4d2bb79450ab",
+          "name": "Business Documents",
+          "type": "table"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "Category": {
+                "hide": false
+              },
+              "name": {
+                "width": 337
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "Category",
+              "Page",
+              "Section",
+              "Started By",
+              "tags"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "521cb827-9353-4cee-8221-cab8064a1382",
+          "name": "Project Documents",
+          "type": "table"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "Category": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Category",
+                "operator": "is",
+                "enabled": true,
+                "value": "Management Plan"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "13c968e0-2107-46e6-9751-07cee6fc8562",
+          "name": "Management Plans",
+          "type": "table"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "tags",
+              "Components",
               "Description",
               "Page",
               "Section",
-              "tags"
+              "Started By",
+              "Category"
+            ]
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Category",
+                "operator": "is",
+                "enabled": true,
+                "value": "Baseline"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "559c63dc-feda-4135-bb58-f6c078ff646c",
+          "name": "Baselines",
+          "type": "table"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "Components": {
+                "hide": true
+              },
+              "name": {
+                "width": 287
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Category",
+                "operator": "is",
+                "enabled": true,
+                "value": "Baseline Component"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "ddec233c-7fb1-4001-8948-169c59108db7",
+          "name": "Baseline Components",
+          "type": "table"
+        }
+      ],
+      "id": "5e6d6f81-a576-49cf-b332-54f26c41ae37",
+      "name": "Artefacts"
+    },
+    {
+      "fieldConfig": {
+        "ToolAndTechniqueGroup": {
+          "richText": true
+        },
+        "Description": {
+          "richText": true
+        },
+        "Type": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Tools and Techniques",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "page",
+              "section",
+              "ToolAndTechniqueGroup",
+              "tags",
+              "Description",
+              "Category"
             ],
-            "fieldConfig": {}
+            "fieldConfig": {
+              "ToolAndTechniqueGroup": {
+                "width": 314
+              },
+              "name": {
+                "width": 315
+              },
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "ToolAndTechniqueGroup",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "51957d5b-e180-4115-95f0-ce077643aa06",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "ToolAndTechniqueGroup"
           },
           "filter": {
             "conditions": []
@@ -456,16 +753,21 @@
           "sort": {
             "criteria": []
           },
-          "id": "28afb10e-faef-49e2-bb35-f2187aa963b2",
-          "name": "Table",
-          "type": "table"
+          "id": "84f59796-52b9-43d0-adae-2247870dc4a0",
+          "name": "By Group",
+          "type": "board"
         }
       ],
-      "id": "5e6d6f81-a576-49cf-b332-54f26c41ae37",
-      "name": "Project Documents"
+      "id": "b19f6233-cc98-430e-885f-841f8554ad67",
+      "name": "Tools And Techniques"
     },
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "Description": {
+          "richText": true
+        },
+        "tags": {}
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
@@ -473,7 +775,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "Tools and techniques",
+          "path": "Tools and Techniques/Groups",
           "recursive": false
         }
       },
@@ -485,8 +787,459 @@
               "name",
               "path",
               "tags",
-              "page",
-              "section"
+              "Description"
+            ],
+            "fieldConfig": {
+              "Description": {
+                "width": 652
+              },
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d0222552-e893-4ac3-a289-78fe1ead4e4c",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "7bd38768-1088-44f5-803e-a971ccceaa97",
+      "name": "Tools & Techniques Groups"
+    },
+    {
+      "fieldConfig": {
+        "Type": {
+          "options": [
+            "Internal",
+            "External"
+          ]
+        },
+        "tags": {
+          "richText": true
+        },
+        "Examples": {
+          "richText": true
+        },
+        "Description": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Influences/Enterprise Environmental Factors",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "Type",
+              "tags",
+              "Examples"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 356
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "862ced2c-2a0e-4fce-ac65-b7b4608e36f5",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "Category"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Type",
+                "operator": "is",
+                "enabled": true,
+                "value": "Internal"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b4b6530a-1442-4e3d-b57b-9954ca3c980c",
+          "name": "Internal",
+          "type": "board"
+        },
+        {
+          "config": {
+            "groupByField": "Category"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Type",
+                "operator": "is",
+                "enabled": true,
+                "value": "External"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7b054b71-382e-454e-9284-829305bfcca5",
+          "name": "External",
+          "type": "board"
+        }
+      ],
+      "id": "c52a64f6-84a0-40d9-acc5-9ec4c2a019e4",
+      "name": "EEFs"
+    },
+    {
+      "fieldConfig": {
+        "tags": {
+          "richText": true
+        },
+        "Category": {
+          "options": [
+            "Policies, Processes, Procedures",
+            "Knowledge Bases"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Influences/Organizational Process Assets",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "tags",
+              "Category"
+            ],
+            "fieldConfig": {
+              "name": {
+                "width": 749
+              },
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4a7bbac7-a4da-4ce9-a2dc-8c757f0b3073",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "423bcfb1-7464-4323-9256-b5a7f6eab44f",
+      "name": "OPAs"
+    },
+    {
+      "fieldConfig": {
+        "tags": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Tools and Techniques/Expert Judgment Topics",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "width": 271
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "tags"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7b6fedf5-ffed-4fd3-94c5-4712a0744988",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "af0245b3-43fd-4f85-ba09-fdfbb1b3a460",
+      "name": "Expert Judgment Topics"
+    },
+    {
+      "fieldConfig": {
+        "tags": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Tools and Techniques/Meetings",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 480,
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "tags"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "415c3dde-0a59-4c7d-9dfa-ac9d2cfafc18",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "dd765d9c-e5ac-4577-8658-3e08007c4ab1",
+      "name": "Meetings"
+    },
+    {
+      "fieldConfig": {
+        "tags": {
+          "richText": true
+        },
+        "Category": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Artefacts/Project Management Plan/Subsidiary Management Plans",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 361
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "Section",
+              "Page",
+              "tags",
+              "Category"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a2998a7a-e5fe-49a1-881a-bb0ceb319a37",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "196ece43-6347-47b4-bba1-6cdce7aed74d",
+      "name": "PM Subsidiary Management Plans"
+    },
+    {
+      "fieldConfig": {
+        "tags": {
+          "richText": true
+        },
+        "Category": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Artefacts/Project Management Plan/Additional components",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 399
+              },
+              "tags": {
+                "hide": false,
+                "width": 372
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "tags",
+              "Category"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e53d764d-5738-4fd5-a386-bc86e9cd400a",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "aa377c2a-e80a-47ee-bb8c-4036d8504025",
+      "name": "PM Plan Additional Components"
+    },
+    {
+      "fieldConfig": {
+        "Category": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Artefacts/Project Management Plan/Baselines",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "Components",
+              "Page",
+              "Section",
+              "tags",
+              "Category"
             ],
             "fieldConfig": {}
           },
@@ -499,13 +1252,13 @@
           "sort": {
             "criteria": []
           },
-          "id": "51957d5b-e180-4115-95f0-ce077643aa06",
+          "id": "cc4284cb-93b7-4a43-a85c-82e2d459ebc6",
           "name": "Table",
           "type": "table"
         }
       ],
-      "id": "b19f6233-cc98-430e-885f-841f8554ad67",
-      "name": "Tools And Techniques"
+      "id": "43072bbb-3bff-448b-9886-ebb22204ad8b",
+      "name": "Baselines"
     }
   ],
   "archives": [],

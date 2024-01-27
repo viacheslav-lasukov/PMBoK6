@@ -2,7 +2,8 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./_attachments",
+  "attachmentFolderPath": "_attachments",
   "spellcheck": false,
-  "readableLineLength": false
+  "readableLineLength": true,
+  "propertiesInDocument": "hidden"
 }

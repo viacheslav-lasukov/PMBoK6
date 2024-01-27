@@ -1,29 +1,32 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Stakeholder Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
-ToolsAndTechniques:
 Section: "13.4"
-Pmbok6Page: 530
-tags: "process"
+page: 530
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # .1 Inputs
-[root Project management plan](root%20Project%20management%20plan.md)
-* [qq Resource management plan](qq%20Resource%20management%20plan.md)
-* [qq Communications management plan](qq%20Communications%20management%20plan.md)
-* [qq Stakeholder engagement plan](qq%20Stakeholder%20engagement%20plan.md)
+[Project Management Plan](Project%20Management%20Plan.md)
+* [Resource management plan](Resource%20management%20plan.md)
+* [Communications management plan](Communications%20management%20plan.md)
+* [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
 
 Project documents:
-* [dd Issue log](dd%20Issue%20log.md)
-* [dd Lessons learned register](dd%20Lessons%20learned%20register.md)
-* [dd Project communications](dd%20Project%20communications.md)
-* [dd Risk register](dd%20Risk%20register.md)
-* [dd Stakeholder register](dd%20Stakeholder%20register.md)
+* [Issue log](Issue%20log.md)
+* [Lessons learned register](Lessons%20learned%20register.md)
+* [Project communications](Project%20communications.md)
+* [Risk register](Risk%20register.md)
+* [Stakeholder register](Stakeholder%20register.md)
 
 [Work performance data](Work%20performance%20data.md)
-[Enterprise Environmental Factors](Enterprise%20Environmental%20Factors.md)
-[Organizational process assets](Organizational%20process%20assets.md)
+Enterprise Environmental Factors
+Organizational process assets
 
 # .2 Tools & techniques
 Data analysis:
@@ -49,20 +52,20 @@ Interpersonal and team skills:
 * Networking
 * Political awareness
 
-Meetings -- see [dd Meeting log](dd%20Meeting%20log.md)
+Meetings -- see [Meeting log](Meeting%20log.md)
 
 # .3 Outputs
 new [Work perfomance information](Work%20perfomance%20information.md)
-new [dd Change requests](dd%20Change%20requests.md)
+new [Change requests](Change%20requests.md)
 
-Project management plan updates: [root Project management plan](root%20Project%20management%20plan.md)
-* updates to [qq Resource management plan](qq%20Resource%20management%20plan.md)
-* updates to [qq Communications management plan](qq%20Communications%20management%20plan.md)
-* updates to [qq Stakeholder engagement plan](qq%20Stakeholder%20engagement%20plan.md)
+Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
+* updates to [Resource management plan](Resource%20management%20plan.md)
+* updates to [Communications management plan](Communications%20management%20plan.md)
+* updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
 
 Project document updates:
-* updates to [dd Issue log](dd%20Issue%20log.md)
-* updates to [dd Lessons learned register](dd%20Lessons%20learned%20register.md)
-* updates to [dd Risk register](dd%20Risk%20register.md)
-* updates to [dd Stakeholder register](dd%20Stakeholder%20register.md)
+* updates to [Issue log](Issue%20log.md)
+* updates to [Lessons learned register](Lessons%20learned%20register.md)
+* updates to [Risk register](Risk%20register.md)
+* updates to [Stakeholder register](Stakeholder%20register.md)
 

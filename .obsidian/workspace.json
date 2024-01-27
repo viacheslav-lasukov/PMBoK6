@@ -10,10 +10,10 @@
           {
             "id": "4dc859ea77790568",
             "type": "tabs",
-            "dimension": 63.81944444444444,
+            "dimension": 54.93055555555556,
             "children": [
               {
-                "id": "99bf6bfec016f569",
+                "id": "187d5aba59b639c8",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -23,12 +23,38 @@
                 }
               },
               {
-                "id": "1677431ff9d59c0a",
+                "id": "001def0c884bb9f8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Process Groups/Planning.md",
+                    "file": "Processes/Determine budget.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d23358b5dfe25b8c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Processes/Close project or phase.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3ad775138eacf0fe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Processes/Perform integrated change control.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -38,36 +64,54 @@
             ]
           },
           {
-            "id": "fed3941611d5a34a",
-            "type": "tabs",
-            "dimension": 36.18055555555556,
+            "id": "b800091ed8682f76",
+            "type": "split",
+            "dimension": 45.06944444444444,
             "children": [
               {
-                "id": "f584f962f0bfbac7",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
+                "id": "fed3941611d5a34a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f584f962f0bfbac7",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "ceb57b8ab0084554",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "_attachments/PMBOK Processes Flow by Ricardo Vargas.pdf"
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
               },
               {
-                "id": "9a5e1502b153c10f",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processes Flow by Ricardo Vargas.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "pinned": true
-                }
+                "id": "de6473f51c578f95",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1739f762f86d30b1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "3d_graph_view",
+                      "state": {}
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -99,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "business documents",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 299.5
   },
   "right": {
     "id": "8ac93f681408532f",
@@ -180,17 +224,24 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "200ff4c0d3b88505",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,48 +254,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "3d-graph:3D Graph": false,
-      "periodic-notes:Open this month": false
+      "periodic-notes:Open this month": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3632dba8c6711c61",
+  "active": "187d5aba59b639c8",
   "lastOpenFiles": [
-    "Untitled",
-    "GitGit/fdsaasfdasdfsdf.md",
-    "GitGit",
-    "GitGit",
-    "Process Groups/Planning.md",
-    "Tools and techniques/Mind mapping.md",
-    "Knowledge Areas/Stakeholder Management.md",
-    "Knowledge Areas/Procurement Management.md",
-    "Knowledge Areas/Risk Management.md",
-    "Knowledge Areas/Communications Management.md",
-    "Knowledge Areas/Resource Management.md",
-    "Knowledge Areas/Quality Management.md",
-    "Knowledge Areas/Cost Management.md",
-    "Knowledge Areas/Schedule Management.md",
-    "Knowledge Areas/Scope Management.md",
-    "Knowledge Areas/Integration Management.md",
-    "Tools and techniques/Conflict management.md",
-    "Tools and techniques/Stakeholder mapping.md",
-    "Process Groups/Executing.md",
-    "Process Groups/Closing.md",
-    "Process Groups/Monitoring and Controlling.md",
-    "Process Groups/Initiating.md",
-    "Project Documents/Project charter.md",
-    "Processes/Develop project charter.md",
-    "Business Documents/Benefits management plan.md",
-    "Business Documents/Business case.md",
-    "Business Documents/Success Measures.md",
-    "Enterprise Environmental Factors.md",
+    "Artefacts/Project Scope Statement.md",
+    "Artefacts/Source selection criteria.md",
+    "Processes/Manage project knowledge.md",
+    "Artefacts/Project Management Plan/Baselines/Scope Baseline.md",
+    "Artefacts/Planning Package.md",
+    "Artefacts/Work Package.md",
+    "Artefacts/WBS.md",
+    "Artefacts/WBS Dictionary.md",
+    "Artefacts/Project Management Plan/Project Management Plan.md",
+    "Processes/Determine budget.md",
+    "Artefacts/Benefits management plan.md",
+    "Processes/Perform integrated change control.md",
+    "Processes/4.1 Develop Project Charter.md",
+    "Artefacts/Business case.md",
+    "Artefacts/Project Management Plan/Additional components/Project life cycle description.md",
+    "Artefacts/Activity list.md",
+    "Processes/Close project or phase.md",
+    "Artefacts/Project Charter.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Stakeholder engagement plan.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Schedule management plan.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Resource management plan.md",
+    "Processes/Monitor and control project work.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Cost management plan.md",
+    "Processes/Direct and manage project work.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Communications management plan.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Procurement management plan.md",
     "_attachments/PMBOK Processes Flow by Ricardo Vargas.pdf",
-    "_attachments",
-    "_attachments/Pasted image 20240121174229.png",
-    "_attachments",
-    "jerzydziewierz (from GitHub)/Process Groups/Untitled",
-    "Process Groups",
+    "_attachments/Project Budget Components.png",
+    "_attachments/Planning Process Group.png",
+    "Project Management Plan/Baselines/_attachments",
+    "Project Management Plan/Baselines/Components",
+    "Artefacts/Project Management Plan/Baselines",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans",
+    "Tools and Techniques/Meetings",
     "_templates",
-    "Knowledge Areas",
-    "Project Management Plans/Additional components",
+    "Tools and Techniques/Expert Judgment Topics",
+    "Influences",
+    "Influences/Enterprise Environmental Factors",
+    "_attachments/Pasted image 20240121174229.png",
     "_attachments/Pasted image 20240105130034.png",
     "_attachments/Pasted image 20240105133635.png",
     "Topics/Project Management/GENERAL/Communications/Классификация стейкхолдеров/_attachments/RACI Example.png",
@@ -252,8 +306,6 @@
     "Topics/Project Management/GENERAL/Communications/Классификация стейкхолдеров/_attachments/Pasted image 20240108195153.png",
     "Topics/Project Management/GENERAL/Communications/Классификация стейкхолдеров/_attachments/Pasted image 20240108194849.png",
     "Topics/Project Management/GENERAL/Communications/Pasted image 20240108194154.png",
-    "Topics/Project Management/GENERAL/Классификация стейкхолдеров 1/Pasted image 20240108194714.png",
-    "Topics/Project Management/GENERAL/Классификация стейкхолдеров 1/Pasted image 20240108194633.png",
     "Untitled.canvas",
     "Untitled 6.canvas",
     "Untitled 5.canvas",

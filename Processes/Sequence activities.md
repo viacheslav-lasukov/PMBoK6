@@ -1,27 +1,30 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Schedule Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsAndTechniques:
 Section: "6.3"
-Pmbok6Page: 187
-tags: "process"
+page: 187
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # .1 Inputs
 
-[root Project management plan](root%20Project%20management%20plan.md)
-* [qq Schedule management plan](qq%20Schedule%20management%20plan.md)
-* [qq Scope baseline](qq%20Scope%20baseline.md)
+[Project Management Plan](Project%20Management%20Plan.md)
+* [Schedule management plan](Schedule%20management%20plan.md)
+* [Scope Baseline](Scope%20Baseline.md)
 
 Project documents:
-* [dd Activity attributes](dd%20Activity%20attributes.md)
-* [dd Activity list](dd%20Activity%20list.md)
-* [dd Assumption log](dd%20Assumption%20log.md)
-* [dd Milestone list](dd%20Milestone%20list.md)
+* [Activity attributes](Activity%20attributes.md)
+* [Activity list](Activity%20list.md)
+* [Assumption Log](Assumption%20Log.md)
+* [Milestone list](Milestone%20list.md)
 
-[Enterprise Environmental Factors](Enterprise%20Environmental%20Factors.md) .189
-[Organizational process assets](Organizational%20process%20assets.md) .189
+Enterprise Environmental Factors .189
+Organizational process assets .189
 
 # .2 Tools & techniques
 Precedence diagramming method .189
@@ -30,13 +33,13 @@ Leads and lags .192
 Project management information system
 
 # .3 Outputs
-new [dd Project schedule network diagram](dd%20Project%20schedule%20network%20diagram.md)
+new [Project schedule network diagram](Project%20schedule%20network%20diagram.md)
 
 Project document updates:
-* updates to [dd Activity attributes](dd%20Activity%20attributes.md)
-* updates to [dd Activity list](dd%20Activity%20list.md)
-* updates to [dd Assumption log](dd%20Assumption%20log.md)
-* updates to [dd Milestone list](dd%20Milestone%20list.md)
+* updates to [Activity attributes](Activity%20attributes.md)
+* updates to [Activity list](Activity%20list.md)
+* updates to [Assumption Log](Assumption%20Log.md)
+* updates to [Milestone list](Milestone%20list.md)
 
 
 

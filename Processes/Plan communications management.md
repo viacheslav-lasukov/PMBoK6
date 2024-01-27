@@ -1,28 +1,31 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Communications Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsAndTechniques:
 Section: "10.1"
-Pmbok6Page: 359
-tags: "process"
+page: 359
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # .1 Inputs
-[Project charter](Project%20charter.md)
-[root Project management plan](root%20Project%20management%20plan.md)
-* [qq Resource management plan](qq%20Resource%20management%20plan.md)
-* [qq Stakeholder engagement plan](qq%20Stakeholder%20engagement%20plan.md)
+[Project Charter](Project%20Charter.md)
+[Project Management Plan](Project%20Management%20Plan.md)
+* [Resource management plan](Resource%20management%20plan.md)
+* [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
 
 Project documents:
-* [dd Requirements documentation](dd%20Requirements%20documentation.md)
-* [dd Stakeholder register](dd%20Stakeholder%20register.md)
+* [Requirements documentation](Requirements%20documentation.md)
+* [Stakeholder register](Stakeholder%20register.md)
 
-[Enterprise Environmental Factors](Enterprise%20Environmental%20Factors.md)
-[Organizational process assets](Organizational%20process%20assets.md)
+Enterprise Environmental Factors
+Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [dd Stakeholder register](dd%20Stakeholder%20register.md)
+Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
 Communication requirements analysis
 Communication technology
 Communication models
@@ -33,16 +36,16 @@ Interpersonal and team skills:
 * Cultural awareness
 Data representation:
 * * [Stakeholder engagement assessment matrix](Stakeholder%20engagement%20assessment%20matrix.md)
-Meetings - see [dd Meeting log](dd%20Meeting%20log.md)
+Meetings - see [Meeting log](Meeting%20log.md)
 
 # .3 Outputs
-new [qq Communications management plan](qq%20Communications%20management%20plan.md)
+new [Communications management plan](Communications%20management%20plan.md)
 
-Project management plan updates: [root Project management plan](root%20Project%20management%20plan.md)
-* updates to [qq Stakeholder engagement plan](qq%20Stakeholder%20engagement%20plan.md)
+Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
+* updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
 
 Project document updates:
-* updates to [dd Project schedule](dd%20Project%20schedule.md)
-* updates to [dd Stakeholder register](dd%20Stakeholder%20register.md)
+* updates to [Project schedule](Project%20schedule.md)
+* updates to [Stakeholder register](Stakeholder%20register.md)
 
 

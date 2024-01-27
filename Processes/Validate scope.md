@@ -1,23 +1,26 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Scope Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
-ToolsAndTechniques:
 Section: "5.5"
-Pmbok6Page: 163
-tags: "process"
+page: 163
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # .1 Inputs
-[root Project management plan](root%20Project%20management%20plan.md)
-* [qq Scope management plan](qq%20Scope%20management%20plan.md)
-* [qq Requirements management plan](qq%20Requirements%20management%20plan.md)
+[Project Management Plan](Project%20Management%20Plan.md)
+* [Scope management plan](Scope%20management%20plan.md)
+* [Requirements management plan](Requirements%20management%20plan.md)
 
 Project documents:
-* [dd Lessons learned register](dd%20Lessons%20learned%20register.md)
-* [dd Quality report](dd%20Quality%20report.md)
-* [dd Requirements documentation](dd%20Requirements%20documentation.md)
-* [dd Requirements traceability matrix](dd%20Requirements%20traceability%20matrix.md)
+* [Lessons learned register](Lessons%20learned%20register.md)
+* [Quality report](Quality%20report.md)
+* [Requirements documentation](Requirements%20documentation.md)
+* [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 
 Verified [Deliverables](Deliverables.md)
 [Work performance data](Work%20performance%20data.md)
@@ -31,12 +34,12 @@ Decision making:
 # .3 Outputs
 new Accepted [Deliverables](Deliverables.md)
 new [Work perfomance information](Work%20perfomance%20information.md)
-new [dd Change requests](dd%20Change%20requests.md)
+new [Change requests](Change%20requests.md)
 
 Project document updates:
-* Updates to [dd Lessons learned register](dd%20Lessons%20learned%20register.md)
-* updates to [dd Requirements documentation](dd%20Requirements%20documentation.md)
-* updates to [dd Requirements traceability matrix](dd%20Requirements%20traceability%20matrix.md)
+* Updates to [Lessons learned register](Lessons%20learned%20register.md)
+* updates to [Requirements documentation](Requirements%20documentation.md)
+* updates to [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 
 
 

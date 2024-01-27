@@ -1,33 +1,39 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Quality Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsAndTechniques:
 Section: "8.1"
-Pmbok6Page: 277
-tags: "process"
+page: 277
+ToolsTechniques:
+  - "[[Brainstorming]]"
+  - "[[Interviews]]"
+  - "[[Benchmarking]]"
+EEFs:
+OPAs:
+Outputs:
+ExpertJudgmentTopics:
+Meetings:
+tags: "#process"
 ---
-# .1 Inputs
-[Project charter](Project%20charter.md)
-[root Project management plan](root%20Project%20management%20plan.md):
-* [qq Requirements management plan](qq%20Requirements%20management%20plan.md)
-* [qq Risk Management plan](qq%20Risk%20Management%20plan.md)
-* [qq Stakeholder engagement plan](qq%20Stakeholder%20engagement%20plan.md)
-* [qq Scope baseline](qq%20Scope%20baseline.md)
+# Inputs
+[Project Charter](Project%20Charter.md)
+[Project Management Plan](Project%20Management%20Plan.md):
+* [Requirements management plan](Requirements%20management%20plan.md)
+* [Risk Management plan](Risk%20Management%20plan.md)
+* [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* [Scope Baseline](Scope%20Baseline.md)
 
 Project documents:
-* [dd Assumption log](dd%20Assumption%20log.md)
-* [dd Requirements documentation](dd%20Requirements%20documentation.md)
-* [dd Requirements traceability matrix](dd%20Requirements%20traceability%20matrix.md)
-* [dd Risk register](dd%20Risk%20register.md)
-* [dd Stakeholder register](dd%20Stakeholder%20register.md)
+* [Assumption Log](Assumption%20Log.md)
+* [Requirements documentation](Requirements%20documentation.md)
+* [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
+* [Risk register](Risk%20register.md)
+* [Stakeholder register](Stakeholder%20register.md)
 
-[Enterprise Environmental Factors](Enterprise%20Environmental%20Factors.md)
-[Organizational process assets](Organizational%20process%20assets.md)
+Enterprise Environmental Factors
+Organizational process assets
 
-# .2 Tools & techniques
-Expert judgement - see [dd Stakeholder register](dd%20Stakeholder%20register.md)
+# Tools & techniques
+Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
 Data gathering
 * [Benchmarking](Benchmarking.md)
 * [Brainstorming](Brainstorming.md)
@@ -48,21 +54,20 @@ Data representation:
 
 Test and inspection planning
 
-Meetings - see [dd Meeting log](dd%20Meeting%20log.md)
+Meetings - see [Meeting log](Meeting%20log.md)
+# Outputs
+new [Quality management plan](Quality%20management%20plan.md)
+new [Quality metrics](Quality%20metrics.md)
 
-# .3 Outputs
-new [qq Quality management plan](qq%20Quality%20management%20plan.md)
-new [dd Quality metrics](dd%20Quality%20metrics.md)
-
-Project management plan updates: [root Project management plan](root%20Project%20management%20plan.md)
-* updates to [qq Risk Management plan](qq%20Risk%20Management%20plan.md)
-* updates to [qq Scope baseline](qq%20Scope%20baseline.md)
+Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
+* updates to [Risk Management plan](Risk%20Management%20plan.md)
+* updates to [Scope Baseline](Scope%20Baseline.md)
 
 
 Project document updates:
-* updates to [dd Lessons learned register](dd%20Lessons%20learned%20register.md)
-* updates to [dd Requirements traceability matrix](dd%20Requirements%20traceability%20matrix.md)
-* updates to [dd Risk register](dd%20Risk%20register.md)
-* updates to [dd Stakeholder register](dd%20Stakeholder%20register.md)
+* updates to [Lessons learned register](Lessons%20learned%20register.md)
+* updates to [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
+* updates to [Risk register](Risk%20register.md)
+* updates to [Stakeholder register](Stakeholder%20register.md)
 
 

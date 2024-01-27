@@ -1,28 +1,31 @@
 ---
-Inputs:
-Outputs:
 KnowledgeArea: "[[Stakeholder Management]]"
 ProcessGroup: "[[Initiating]]"
-ToolsAndTechniques:
 Section: "13.1"
-Pmbok6Page: 507
-tags: "process"
+page: 507
+ToolsTechniques: []
+EEFs: []
+OPAs: []
+Outputs: []
+ExpertJudgmentTopics: []
+Meetings: []
+tags: "#process"
 ---
 # .1 Inputs
-[Project charter](Project%20charter.md)
+[Project Charter](Project%20Charter.md)
 
  Business documents:
 * [Business case](Business%20case.md)
 * [Benefits management plan](Benefits%20management%20plan.md)
 
 Project Documents:
-* [dd Change log](dd%20Change%20log.md)
-* [dd Issue log](dd%20Issue%20log.md)
-* [dd Requirements documentation](dd%20Requirements%20documentation.md)
+* [Change Log](Change%20Log.md)
+* [Issue log](Issue%20log.md)
+* [Requirements documentation](Requirements%20documentation.md)
 
-[Agreement list](Agreement%20list.md)
-[Enterprise Environmental Factors](Enterprise%20Environmental%20Factors.md)
-[Organizational process assets](Organizational%20process%20assets.md)
+[Agreements](Agreements.md)
+Enterprise Environmental Factors
+Organizational process assets
 
 # .2 Tools and Techniques
 * 13.1.2.1 Expert Judgement
@@ -36,24 +39,24 @@ Project Documents:
 ** [Brainstorming](Brainstorming.md)
 * 13.1.2.3 Data analysis
 ** [Stakeholder analysis](Stakeholder%20analysis.md)
-** [Document analysis](Document%20analysis.md)
+** [Document Analysis](Document%20Analysis.md)
 * 13.1.2.4 Data representation
-** [Stakeholder mapping](Stakeholder%20mapping.md)
+** [Stakeholder Mapping (Representation)](Stakeholder%20Mapping%20(Representation).md)
 * 13.1.2.5 Meetings
-** [dd Meeting log](dd%20Meeting%20log.md)
+** [Meeting log](Meeting%20log.md)
 
 # .3 Outputs
-new [dd Stakeholder register](dd%20Stakeholder%20register.md)
+new [Stakeholder register](Stakeholder%20register.md)
 
 Project document updates:
-* updates to [dd Change log](dd%20Change%20log.md)
-* updates to [qq Requirements management plan](qq%20Requirements%20management%20plan.md)
-* updates to [qq Communications management plan](qq%20Communications%20management%20plan.md)
-* updates to [qq Risk Management plan](qq%20Risk%20Management%20plan.md)
-* updates to [qq Stakeholder engagement plan](qq%20Stakeholder%20engagement%20plan.md)
-* updates to [dd Assumption log](dd%20Assumption%20log.md)
-* updates to [dd Issue log](dd%20Issue%20log.md)
-* updates to [dd Risk register](dd%20Risk%20register.md)
+* updates to [Change Log](Change%20Log.md)
+* updates to [Requirements management plan](Requirements%20management%20plan.md)
+* updates to [Communications management plan](Communications%20management%20plan.md)
+* updates to [Risk Management plan](Risk%20Management%20plan.md)
+* updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* updates to [Assumption Log](Assumption%20Log.md)
+* updates to [Issue log](Issue%20log.md)
+* updates to [Risk register](Risk%20register.md)
 
 
 

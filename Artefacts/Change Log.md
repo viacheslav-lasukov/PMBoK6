@@ -1,11 +1,12 @@
 ---
-Page: 120
+Page: "120"
 Section: "4.6.3.3"
 tags: "#project-document"
-Category: "Project Document"
+Categories:
+  - "Project Document"
 ---
 
-> Note that this is very different from [Change requests](Change%20requests.md) in that only approved changes land here.
+> Note that this is very different from [Change Requests](Change%20Requests.md) in that only approved changes land here.
 
 date : change name : change description
 

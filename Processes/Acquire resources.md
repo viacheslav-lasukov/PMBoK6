@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Resource Management]]"
 ProcessGroup: "[[Executing]]"
 Section: "9.3"
-page: 328
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 328
 ---
 # .1 Inputs
 
@@ -41,7 +45,7 @@ Virtual teams
 new [Physical resource assignments](Physical%20resource%20assignments.md)
 new [Project team assignments](Project%20team%20assignments.md)
 new [Resource calendars](Resource%20calendars.md)
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Resource management plan](Resource%20management%20plan.md)

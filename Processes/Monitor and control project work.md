@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Integration Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
 Section: "4.5"
-page: 105
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,13 +9,18 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 105
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
 Project documents:
 * [Assumption Log](Assumption%20Log.md)
 * [Basis of estimates](Basis%20of%20estimates.md)
-* [Issue log](Issue%20log.md)
+* [Issue Log](Issue%20Log.md)
 * [Lessons learned register](Lessons%20learned%20register.md)
 * [Milestone list](Milestone%20list.md)
 * [Quality report](Quality%20report.md)
@@ -45,13 +49,13 @@ Meetings -- see [Meeting log](Meeting%20log.md)
 
 # .3 Outputs
 new [Work performance reports](Procurement%20documentation.md)
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 
 Project document updates:
 * updates to [Cost forecasts](Cost%20forecasts.md)
-* updates to [Issue log](Issue%20log.md)
+* updates to [Issue Log](Issue%20Log.md)
 * updates to [Lessons learned register](Lessons%20learned%20register.md)
 * updates to [Risk register](Risk%20register.md)
 * updates to [Schedule forecasts](Schedule%20forecasts.md)

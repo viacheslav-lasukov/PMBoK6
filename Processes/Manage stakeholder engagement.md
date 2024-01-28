@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Stakeholder Management]]"
 ProcessGroup: "[[Executing]]"
 Section: "13.3"
-page: 523
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 523
 ---
 # 13.3.1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
@@ -19,7 +23,7 @@ tags: "#process"
 * [Change management Plan](Change%20management%20Plan.md)
 Project documents:
 * [Change Log](Change%20Log.md)
-* [Issue log](Issue%20log.md)
+* [Issue Log](Issue%20Log.md)
 * [Lessons learned register](Lessons%20learned%20register.md)
 * [Stakeholder register](Stakeholder%20register.md)
 Enterprise Environmental Factors
@@ -38,7 +42,7 @@ Ground rules
 Meetings - see [Meeting log](Meeting%20log.md)
 
 # 13.3.3 Outputs
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Communications management plan](Communications%20management%20plan.md)
@@ -46,7 +50,7 @@ Project management plan updates: [Project Management Plan](Project%20Management%
 
 Project documents updates:
 * updates to [Change Log](Change%20Log.md)
-* updates to [Issue log](Issue%20log.md)
+* updates to [Issue Log](Issue%20Log.md)
 * updates to [Lessons learned register](Lessons%20learned%20register.md)
 * updates to [Stakeholder register](Stakeholder%20register.md)
 

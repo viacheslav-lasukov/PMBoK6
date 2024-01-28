@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Scope Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
 Section: "5.5"
-page: 163
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 163
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
@@ -23,7 +27,7 @@ Project documents:
 * [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 
 Verified [Deliverables](Deliverables.md)
-[Work performance data](Work%20performance%20data.md)
+[Work Performance Data](Work%20Performance%20Data.md)
 
 # .2 Tools & techniques
 Inspection
@@ -33,8 +37,8 @@ Decision making:
 
 # .3 Outputs
 new Accepted [Deliverables](Deliverables.md)
-new [Work perfomance information](Work%20perfomance%20information.md)
-new [Change requests](Change%20requests.md)
+new [Work Perfomance Information](Work%20Perfomance%20Information.md)
+new [Change Requests](Change%20Requests.md)
 
 Project document updates:
 * Updates to [Lessons learned register](Lessons%20learned%20register.md)

@@ -2,7 +2,8 @@
 Section: "12.2.3.2"
 Page: "489"
 tags: "#project-document"
-Category: "Project Document"
+Categories:
+  - "Project Document"
 ---
 A contract is a mutually binding agreement that obligates the seller to provide the specified products, services, or results; obligates the buyer to compensate the seller; represents a legal relationship that is subject to remedy in the courts.
 The major components in an agreement document will vary, and may include but are not limited to:

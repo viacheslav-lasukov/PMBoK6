@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Cost Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
 Section: "7.4"
-page: 257
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 257
 ---
 # .1 Inputs
 
@@ -39,9 +43,9 @@ To-complete performance index
 Project management information system
 
 # .3 Outputs
-new [Work perfomance information](Work%20perfomance%20information.md)
+new [Work Perfomance Information](Work%20Perfomance%20Information.md)
 new [Cost forecasts](Cost%20forecasts.md)
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)

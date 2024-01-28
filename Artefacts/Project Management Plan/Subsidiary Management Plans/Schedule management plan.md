@@ -1,5 +1,6 @@
 ---
 tags: "#management-plan"
-Category: "Management Plan"
+Categories:
+  - "Management Plan"
 ---
 How will you do scheduling?

@@ -1,11 +1,14 @@
 ---
 tags:
   - tool-technique
-Description: ""
 Type: Meeting
 ---
 # Description
-`=this.Description`
+## Meetings
+```dataview
+LIST
+FROM #meeting 
+```
 # Used in Processes
 ## By Knowledge Area
 ```dataview

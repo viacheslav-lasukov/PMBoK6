@@ -1,8 +1,8 @@
 ---
 Section: "1.2.6.4"
 Page: "34"
-tags: ""
-Category: ""
+tags:
+Categories: []
 ---
 # Description
 Project should meet not only time, cost, scope, and quality. What does success look like for this project? How will success be measured? What factors may impact success?

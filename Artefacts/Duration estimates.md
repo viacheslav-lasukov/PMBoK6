@@ -1,6 +1,7 @@
 ---
 tags: "#project-document"
-Category: "Project Document"
+Categories:
+  - "Project Document"
 ---
 # Included In
 ```dataview

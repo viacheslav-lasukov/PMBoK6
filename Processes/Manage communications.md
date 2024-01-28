@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Communications Management]]"
 ProcessGroup: "[[Executing]]"
 Section: "10.2"
-page: 379
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 379
 ---
 # .1 Inputs
 
@@ -20,7 +24,7 @@ tags: "#process"
 
 Project documents:
 * [Change Log](Change%20Log.md)
-* [Issue log](Issue%20log.md)
+* [Issue Log](Issue%20Log.md)
 * [Lessons learned register](Lessons%20learned%20register.md)
 * [Quality report](Quality%20report.md)
 * [Risk report](Risk%20report.md)
@@ -58,7 +62,7 @@ Project management plan updates: [Project Management Plan](Project%20Management%
 * updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
 
 Project document updates:
-* updates to [Issue log](Issue%20log.md)
+* updates to [Issue Log](Issue%20Log.md)
 * updates to [Lessons learned register](Lessons%20learned%20register.md)
 * updates to [Project schedule](Project%20schedule.md)
 * updates to [Risk register](Risk%20register.md)

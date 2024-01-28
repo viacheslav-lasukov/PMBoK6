@@ -1,8 +1,9 @@
 ---
 Section: "5.1.3.2"
-Page: 137
+Page: "137"
 tags: "#management-plan"
-Category: "Management Plan"
+Categories:
+  - "Management Plan"
 ---
 
 How do you get and organize requirements?

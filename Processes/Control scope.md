@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Scope Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
 Section: "5.6"
-page: 167
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 167
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md):
@@ -34,8 +38,8 @@ Data analysis:
 
 # .3 Outputs
 
-new [Work perfomance information](Work%20perfomance%20information.md)
-new [Change requests](Change%20requests.md)
+new [Work Perfomance Information](Work%20Perfomance%20Information.md)
+new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Scope management plan](Scope%20management%20plan.md)

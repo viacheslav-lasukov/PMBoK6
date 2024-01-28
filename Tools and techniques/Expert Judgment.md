@@ -6,6 +6,11 @@ Type: ""
 ---
 # Description
 `=this.Description`
+# Topics
+```dataview
+LIST
+FROM #expert-judgment-topic
+```
 # Used in Processes
 ## By Knowledge Area
 ```dataview
@@ -20,9 +25,4 @@ TABLE rows.file.link as Processes
 FROM #process 
 WHERE contains(ToolsTechniques, link(this.file.name))
 GROUP BY ProcessGroup
-```
-# Topics
-```dataview
-LIST
-FROM #expert-judgment-topic
 ```

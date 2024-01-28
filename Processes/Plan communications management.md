@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Communications Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "10.1"
-page: 359
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 359
 ---
 # .1 Inputs
 [Project Charter](Project%20Charter.md)

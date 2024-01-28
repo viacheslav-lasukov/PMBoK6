@@ -13,22 +13,20 @@
             "dimension": 54.93055555555556,
             "children": [
               {
-                "id": "187d5aba59b639c8",
+                "id": "348c2d736c9a6c7d",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "obsidian-projects",
-                  "state": {},
-                  "pinned": true
+                  "state": {}
                 }
               },
               {
-                "id": "001def0c884bb9f8",
+                "id": "e34de8f20a98ebff",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Processes/Determine budget.md",
+                    "file": "Processes/4.4 Manage Project Knowledge.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -36,35 +34,23 @@
                 }
               },
               {
-                "id": "d23358b5dfe25b8c",
+                "id": "7f66fb258be4861f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Processes/Close project or phase.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3ad775138eacf0fe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processes/Perform integrated change control.md",
+                    "file": "Tools and Techniques/Leadership.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
-            "id": "b800091ed8682f76",
+            "id": "2808bdb1360d8685",
             "type": "split",
             "dimension": 45.06944444444444,
             "children": [
@@ -83,6 +69,19 @@
                     }
                   },
                   {
+                    "id": "81cc9c8959472933",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Influences/Performance Management Database.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  },
+                  {
                     "id": "ceb57b8ab0084554",
                     "type": "leaf",
                     "pinned": true,
@@ -97,11 +96,11 @@
                 ]
               },
               {
-                "id": "de6473f51c578f95",
+                "id": "a2df0dec8b748834",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "1739f762f86d30b1",
+                    "id": "d23358b5dfe25b8c",
                     "type": "leaf",
                     "state": {
                       "type": "3d_graph_view",
@@ -143,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "business documents",
+                "query": "networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +159,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools and Techniques/Leadership.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tools and Techniques/Leadership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tools and Techniques/Leadership.md"
+              }
             }
           },
           {
@@ -233,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Tools and Techniques/Leadership.md"
+              }
             }
           }
         ],
@@ -241,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 549.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,38 +260,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "3d-graph:3D Graph": false,
-      "periodic-notes:Open this month": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open this month": false
     }
   },
-  "active": "187d5aba59b639c8",
+  "active": "7f66fb258be4861f",
   "lastOpenFiles": [
-    "Artefacts/Project Scope Statement.md",
-    "Artefacts/Source selection criteria.md",
-    "Processes/Manage project knowledge.md",
-    "Artefacts/Project Management Plan/Baselines/Scope Baseline.md",
-    "Artefacts/Planning Package.md",
-    "Artefacts/Work Package.md",
-    "Artefacts/WBS.md",
-    "Artefacts/WBS Dictionary.md",
-    "Artefacts/Project Management Plan/Project Management Plan.md",
-    "Processes/Determine budget.md",
-    "Artefacts/Benefits management plan.md",
-    "Processes/Perform integrated change control.md",
+    "Processes/4.4 Manage Project Knowledge.md",
+    "Tools and Techniques/Leadership.md",
+    "Tools and Techniques/Active Listening.md",
+    "Tools and Techniques/Facilitation.md",
+    "Tools and Techniques/Information Management.md",
+    "Tools and Techniques/Knowledge Management.md",
+    "Tools and Techniques/Networking.md",
+    "Tools and Techniques/Expert Judgment Topics/Knowledge and Information Management Tools (Topic).md",
+    "Tools and Techniques/Expert Judgment Topics/Information Management (Topic).md",
+    "Tools and Techniques/Expert Judgment Topics/Relevant Information from Other Projects.md",
+    "Tools and Techniques/Expert Judgment Topics/Organizational Learning.md",
+    "Tools and Techniques/Expert Judgment Topics/Knowledge Management (Topic)).md",
     "Processes/4.1 Develop Project Charter.md",
-    "Artefacts/Business case.md",
-    "Artefacts/Project Management Plan/Additional components/Project life cycle description.md",
-    "Artefacts/Activity list.md",
-    "Processes/Close project or phase.md",
-    "Artefacts/Project Charter.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Stakeholder engagement plan.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Schedule management plan.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Resource management plan.md",
-    "Processes/Monitor and control project work.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Cost management plan.md",
-    "Processes/Direct and manage project work.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Communications management plan.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Procurement management plan.md",
+    "Influences/Enterprise Environmental Factors/Organizational Culture and Climate.md",
+    "Influences/Formal Knowledge-Sharing and Information-Sharing Procedures.md",
+    "Influences/Organizational Communication Requirements.md",
+    "Influences/Personnel Administration.md",
+    "Influences/Organizational Knowledge Expetrs.md",
+    "Influences/Enterprise Environmental Factors/Legal and Regulatory Requirements.md",
+    "Influences/Geographic Distribution of Facilities and Resources.md",
+    "Influences/Customer Culture.md",
+    "Influences/Stakeholder Culture.md",
+    "Artefacts/Stakeholder register.md",
+    "Artefacts/Resource breakdown structure.md",
+    "_attachments/Sample Resource Breakdown Structure.png",
+    "Artefacts/Project team assignments.md",
+    "Artefacts/Lessons learned register.md",
     "_attachments/PMBOK Processes Flow by Ricardo Vargas.pdf",
     "_attachments/Project Budget Components.png",
     "_attachments/Planning Process Group.png",
@@ -305,7 +312,6 @@
     "Jobs/VK/interview/_attachments/Pasted image 20240111104324.png",
     "Topics/Project Management/GENERAL/Communications/Классификация стейкхолдеров/_attachments/Pasted image 20240108195153.png",
     "Topics/Project Management/GENERAL/Communications/Классификация стейкхолдеров/_attachments/Pasted image 20240108194849.png",
-    "Topics/Project Management/GENERAL/Communications/Pasted image 20240108194154.png",
     "Untitled.canvas",
     "Untitled 6.canvas",
     "Untitled 5.canvas",

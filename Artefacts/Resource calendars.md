@@ -1,5 +1,6 @@
 ---
 Section: "9.2.1.2"
 tags: "#project-document"
-Category: "Project Document"
+Categories:
+  - "Project Document"
 ---

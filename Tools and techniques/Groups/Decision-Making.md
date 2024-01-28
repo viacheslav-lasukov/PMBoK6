@@ -1,7 +1,8 @@
 ---
-Description: "Used to select a course of action from different alternatives"
+Description: Used to select a course of action from different alternatives
 tags:
-  - "tool-technique-group"
+  - tool-technique-group
+  - meeting
 ---
 # Tools & Techniques
 ```dataview

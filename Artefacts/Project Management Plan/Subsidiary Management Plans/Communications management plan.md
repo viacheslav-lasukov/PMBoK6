@@ -1,8 +1,9 @@
 ---
 Section: ""
-Page: .nan
+Page: "NaN"
 tags: "#management-plan"
-Category: "Management Plan"
+Categories:
+  - "Management Plan"
 ---
 
 How will you deal with communications?

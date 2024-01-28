@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Schedule Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "6.3"
-page: 187
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 187
 ---
 # .1 Inputs
 

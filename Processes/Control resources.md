@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Resource Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
 Section: "9.6"
-page: 352
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 352
 ---
 # .1 Inputs
 
@@ -17,7 +21,7 @@ tags: "#process"
 * [Resource management plan](Resource%20management%20plan.md)
 
 Project documents:
-* [Issue log](Issue%20log.md)
+* [Issue Log](Issue%20Log.md)
 * [Lessons learned register](Lessons%20learned%20register.md)
 * [Physical resource assignments](Physical%20resource%20assignments.md)
 * [Project schedule](Project%20schedule.md)
@@ -25,7 +29,7 @@ Project documents:
 * [Resource requirements](Resource%20requirements.md)
 * [Risk register](Risk%20register.md)
 
-[Work performance data](Work%20performance%20data.md)
+[Work Performance Data](Work%20Performance%20Data.md)
 [Agreements](Agreements.md)
 Organizational process assets
 
@@ -43,8 +47,8 @@ Interpersonal and team skills
 Project management information system
 
 # .3 Outputs
-new [Work perfomance information](Work%20perfomance%20information.md)
-new [Change requests](Change%20requests.md)
+new [Work Perfomance Information](Work%20Perfomance%20Information.md)
+new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Resource management plan](Resource%20management%20plan.md)
@@ -53,7 +57,7 @@ Project management plan updates: [Project Management Plan](Project%20Management%
 
 Project document updates:
 * updates to [Assumption Log](Assumption%20Log.md)
-* updates to [Issue log](Issue%20log.md)
+* updates to [Issue Log](Issue%20Log.md)
 * updates to [Lessons learned register](Lessons%20learned%20register.md)
 * updates to [Physical resource assignments](Physical%20resource%20assignments.md)
 * updates to [Resource breakdown structure](Resource%20breakdown%20structure.md)

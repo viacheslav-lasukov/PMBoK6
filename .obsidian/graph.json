@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "file: -Ricardo",
+  "search": "file: -Ricardo path:-\"_templates\" path:-\"_attachments\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -55,9 +55,51 @@
         "a": 1,
         "rgb": 11361494
       }
+    },
+    {
+      "query": "tag:#baseline  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "tag:#management-plan  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
+    },
+    {
+      "query": "tag:#meeting  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#eef  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#opa  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#expert-judgment-topic  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.3,
   "nodeSizeMultiplier": 1,
@@ -67,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.14663557277179556,
+  "scale": 0.31215557298069607,
   "close": true
 }

@@ -1,9 +1,9 @@
 ---
-tags: "#meeting"
+tags:
+  - meeting
 ---
 
 # Description
-`=this.Description`
 # Used in Processes
 ## By Knowledge Area
 ```dataview

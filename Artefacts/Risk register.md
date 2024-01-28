@@ -1,6 +1,7 @@
 ---
 tags: "#project-document"
-Category: "Project Document"
+Categories:
+  - "Project Document"
 ---
 
 > PMBOK 11.2.3.1 p.417

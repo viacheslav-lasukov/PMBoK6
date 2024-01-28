@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Integration Management]]"
 ProcessGroup: "[[Closing]]"
 Section: "4.7"
-page: 121
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 121
 ---
 # .1 Inputs
 [Project Charter](Project%20Charter.md)
@@ -18,7 +22,7 @@ Project documents:
 * [Assumption Log](Assumption%20Log.md)
 * [Basis of estimates](Basis%20of%20estimates.md)
 * [Change Log](Change%20Log.md)
-* [Issue log](Issue%20log.md)
+* [Issue Log](Issue%20Log.md)
 * [Lessons learned register](Lessons%20learned%20register.md)
 * [Milestone list](Milestone%20list.md)
 * [Project communications](Project%20communications.md)

@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Procurement Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
 Section: "12.3"
-page: 492
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 492
 ---
 # .1 Inputs
 
@@ -32,8 +36,8 @@ Project documents:
 
 [Agreements](Agreements.md)
 [Procurement documentation](Procurement%20documentation.md)
-Approved [Change requests](Change%20requests.md)
-[Work performance data](Work%20performance%20data.md)
+Approved [Change Requests](Change%20Requests.md)
+[Work Performance Data](Work%20Performance%20Data.md)
 
 Enterprise Environmental Factors
 Organizational process assets
@@ -50,9 +54,9 @@ Audits
 
 # .3 Outputs
 new Closed procurements
-new [Work perfomance information](Work%20perfomance%20information.md)
+new [Work Perfomance Information](Work%20Perfomance%20Information.md)
 updates to [Procurement documentation](Procurement%20documentation.md)
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Risk Management plan](Risk%20Management%20plan.md)

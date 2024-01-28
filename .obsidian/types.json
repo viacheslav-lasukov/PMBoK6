@@ -24,6 +24,7 @@
     "Section": "text",
     "Page": "number",
     "Learn More": "multitext",
-    "Components": "multitext"
+    "Components": "multitext",
+    "Updates": "multitext"
   }
 }

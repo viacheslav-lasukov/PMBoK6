@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Scope Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "5.4"
-page: 156
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 156
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)

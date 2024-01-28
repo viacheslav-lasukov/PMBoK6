@@ -1,8 +1,9 @@
 ---
-Section: 5.4.3.1
+Section: "5.4.3.1"
 tags:
-  - baseline-component
-Category: Baseline Component
+  - "baseline-component"
+Categories:
+  - "Baseline Component"
 ---
 # Description
 Hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables. Each descending level of the WBS represents an increasingly detailed definition of the project work.

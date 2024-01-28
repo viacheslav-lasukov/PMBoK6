@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Resource Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "9.2"
-page: 320
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 320
 ---
 # .1 Inputs
 

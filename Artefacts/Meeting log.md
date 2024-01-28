@@ -1,6 +1,7 @@
 ---
 tags: "#project-document"
-Category: "Project Document"
+Categories:
+  - "Project Document"
 ---
 Template for `Meeting Log`
 

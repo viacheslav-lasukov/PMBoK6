@@ -1,7 +1,8 @@
 ---
 tags:
   - "#project-document"
-Category: "Project Document"
+Categories:
+  - "Project Document"
 ---
 # Description
 The document that describes how the project will be executed, monitored and controlled, and closed. It integrates and consolidates all of the subsidiary management plans and baselines, and other information necessary to manage the project. The needs of the project determine which components of the project management plan are needed.

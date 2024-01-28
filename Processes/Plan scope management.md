@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Scope Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "5.1"
-page: 134
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 134
 ---
 # .1 Inputs
 [Project Charter](Project%20Charter.md)

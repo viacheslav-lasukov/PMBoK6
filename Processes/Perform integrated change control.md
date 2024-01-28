@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Integration Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
 Section: "4.6"
-page: 113
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 113
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
@@ -25,7 +29,7 @@ Project documents:
 * [Risk report](Risk%20report.md)
 
 Work performance reports
-[Change requests](Change%20requests.md)
+[Change Requests](Change%20Requests.md)
 Enterprise Environmental Factors
 Organizational process assets
 

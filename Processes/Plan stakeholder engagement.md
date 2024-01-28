@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Stakeholder Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "13.2"
-page: 512
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 512
 ---
 # 13.2.1 Inputs
 [Project Charter](Project%20Charter.md)
@@ -20,7 +24,7 @@ Project management plan:
  Project Documents:
 * [Assumption Log](Assumption%20Log.md)
 * [Change Log](Change%20Log.md)
-* [Issue log](Issue%20log.md)
+* [Issue Log](Issue%20Log.md)
 * [Project schedule](Project%20schedule.md)
 * [Risk register](Risk%20register.md)
 * [Stakeholder register](Stakeholder%20register.md)

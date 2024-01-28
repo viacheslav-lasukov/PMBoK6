@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Risk Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "11.3"
-page: 419
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 419
 ---
 # .1 Inputs
 
@@ -43,7 +47,7 @@ Meetings - see [Meeting log](Meeting%20log.md)
 # .3 Outputs
 Project document updates:
 * updates to [Assumption Log](Assumption%20Log.md)
-* updates to [Issue log](Issue%20log.md)
+* updates to [Issue Log](Issue%20Log.md)
 * updates to [Risk register](Risk%20register.md)
 * updates to [Risk report](Risk%20report.md)
 

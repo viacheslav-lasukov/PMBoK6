@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Cost Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "7.2"
-page: 240
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 240
 ---
 # .1 Inputs
 

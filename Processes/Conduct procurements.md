@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Procurement Management]]"
 ProcessGroup: "[[Executing]]"
 Section: "12.2"
-page: 482
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 482
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
@@ -45,7 +49,7 @@ Interpersonal and team skills
 # .3 Outputs
 new Selected sellers
 new Agreements -- see [Agreements](Agreements.md)
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Requirements management plan](Requirements%20management%20plan.md)

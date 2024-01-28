@@ -1,7 +1,8 @@
 ---
 Section: "6.5.3.2"
 tags: "#project-document"
-Category: "Project Document"
+Categories:
+  - "Project Document"
 ---
 
 * Bar charts

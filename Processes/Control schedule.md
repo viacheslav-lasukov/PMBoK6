@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Schedule Management]]"
 ProcessGroup: "[[Monitoring and Controlling]]"
 Section: "6.6"
-page: 222
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 222
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
@@ -25,7 +29,7 @@ Project documents:
 * [Resource calendars](Resource%20calendars.md)
 * [Schedule data](Schedule%20data.md)
 
-[Work performance data](Work%20performance%20data.md)
+[Work Performance Data](Work%20Performance%20Data.md)
 Organizational process assets
 
 # .2 Tools & techniques
@@ -44,9 +48,9 @@ Leads and lags
 Schedule compression
 
 # .3 Outputs
-new [Work perfomance information](Work%20perfomance%20information.md)
+new [Work Perfomance Information](Work%20Perfomance%20Information.md)
 new [Schedule forecasts](Schedule%20forecasts.md)
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Schedule management plan](Schedule%20management%20plan.md)

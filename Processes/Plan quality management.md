@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Quality Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "8.1"
-page: 277
 ToolsTechniques:
   - "[[Brainstorming]]"
   - "[[Interviews]]"
@@ -13,6 +12,11 @@ Outputs:
 ExpertJudgmentTopics:
 Meetings:
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 277
 ---
 # Inputs
 [Project Charter](Project%20Charter.md)

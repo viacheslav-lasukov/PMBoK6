@@ -3,7 +3,8 @@ Section: "1.2.6.2"
 Page: "33"
 tags:
   - "#business-document"
-Category: "Business Document"
+Categories:
+  - "Business Document"
 ---
 # Description
 Describes how and when the benefits of the project will be delivered, and describes the mechanisms that should be in place to measure those benefits. A project benefit is defined as an outcome of actions, behaviours, products, services, or results that provide value to the sponsoring organization as well as to the project's intended beneficiaries

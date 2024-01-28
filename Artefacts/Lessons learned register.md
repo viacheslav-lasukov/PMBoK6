@@ -1,18 +1,24 @@
 ---
 Page: 104
-Section: "4.4.3.1"
-tags: "#project-document"
-Category: "Project Document"
+Section: 4.4.3.1
+tags:
+  - "#project-document"
+Categories:
+  - Project Document
+Started By: "[[4.4 Manage Project Knowledge]]"
 ---
-
+# Description
 Used to improve the performance of the project and to avoid repeating mistakes. 
 The register helps identify where to set rules or guidelines so the team's actions are aligned.
-
-may include:
+# Consists of
  * Category and description of the situation
- * impact, recommendations, proposed actions
- * challenges, problems realized risks, realized opportunities, 
- * and more.
+ * impact
+ * recommendations
+ * proposed actions
+ * challenges
+ * problems
+ * realized risks
+ * realized opportunities
 # Included In
 ```dataview
 TABLE tags

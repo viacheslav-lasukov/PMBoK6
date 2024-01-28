@@ -2,7 +2,9 @@
 tags:
   - "baseline-component"
   - "#project-document"
-Category: "Baseline Component"
+Categories:
+  - "Baseline Component"
+  - "Project Document"
 ---
 # Description
 Description of the project scope, major deliverables, assumptions, and constraints. The project scope statement documents the entire scope, including project and product scope. It describes the project's deliverables in detail. It also provides a common understanding of the project scope among project stakeholders. It may contain explicit scope exclusions that can assist in managing stakeholder expectations. It enables the project team to perform more detailed planning, guides the project team's work during execution, and provides the baseline for evaluating whether requests for changes or additional work are contained within or outside the project's boundaries.

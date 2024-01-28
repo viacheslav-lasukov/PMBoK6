@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Risk Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "11.2"
-page: 409
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 409
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
@@ -27,7 +31,7 @@ Project documents:
 * [Assumption Log](Assumption%20Log.md)
 * [Cost estimates](Cost%20estimates.md)
 * [Duration estimates](Duration%20estimates.md)
-* [Issue log](Issue%20log.md)
+* [Issue Log](Issue%20Log.md)
 * [Lessons learned register](Lessons%20learned%20register.md)
 * [Requirements documentation](Requirements%20documentation.md)
 * [Resource requirements](Resource%20requirements.md)

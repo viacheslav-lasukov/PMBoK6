@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Scope Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "5.2"
-page: 138
 ToolsTechniques:
   - "[[Brainstorming]]"
   - "[[Focus Groups]]"
@@ -13,6 +12,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 138
 ---
 # .1 Inputs
 [Project Charter](Project%20Charter.md)

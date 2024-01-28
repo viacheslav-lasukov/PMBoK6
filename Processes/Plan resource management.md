@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Resource Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "9.1"
-page: 312
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 312
 ---
 # .1 Inputs
 [Project Charter](Project%20Charter.md)

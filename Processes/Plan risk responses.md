@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Risk Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "11.5"
-page: 437
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 437
 ---
 # .1 Inputs
 
@@ -46,7 +50,7 @@ Decision making:
 * Multicriteria decision analysis
 
 # .3 Outputs
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Schedule management plan](Schedule%20management%20plan.md)

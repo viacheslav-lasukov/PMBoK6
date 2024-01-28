@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Stakeholder Management]]"
 ProcessGroup: "[[Initiating]]"
 Section: "13.1"
-page: 507
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 507
 ---
 # .1 Inputs
 [Project Charter](Project%20Charter.md)
@@ -20,7 +24,7 @@ tags: "#process"
 
 Project Documents:
 * [Change Log](Change%20Log.md)
-* [Issue log](Issue%20log.md)
+* [Issue Log](Issue%20Log.md)
 * [Requirements documentation](Requirements%20documentation.md)
 
 [Agreements](Agreements.md)
@@ -55,7 +59,7 @@ Project document updates:
 * updates to [Risk Management plan](Risk%20Management%20plan.md)
 * updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
 * updates to [Assumption Log](Assumption%20Log.md)
-* updates to [Issue log](Issue%20log.md)
+* updates to [Issue Log](Issue%20Log.md)
 * updates to [Risk register](Risk%20register.md)
 
 

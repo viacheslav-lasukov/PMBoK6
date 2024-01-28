@@ -1,7 +1,8 @@
 ---
 Section: ""
-Page: .nan
+Page: "NaN"
 tags: "#management-plan"
-Category: "Management Plan"
+Categories:
+  - "Management Plan"
 ---
 How do you deal with resources?

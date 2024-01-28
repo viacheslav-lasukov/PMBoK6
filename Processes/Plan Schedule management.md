@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Schedule Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "6.1"
-page: 179
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 179
 ---
 # .1 Inputs 
 [Project Charter](Project%20Charter.md)

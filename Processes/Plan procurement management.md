@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Procurement Management]]"
 ProcessGroup: "[[Planning]]"
 Section: "12.1"
-page: 466
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 466
 ---
 # .1 Inputs
 [Project Charter](Project%20Charter.md)
@@ -53,7 +57,7 @@ new Procurement statement of work
 new Source selection criteria
 new Make-or-buy decisions
 new Independent cost estimates
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 Project document updates:
 * updates to [Lessons learned register](Lessons%20learned%20register.md)

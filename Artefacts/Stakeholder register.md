@@ -1,15 +1,18 @@
 ---
 Page: 514
-Section: "13.1.3.1"
-tags: "#project-document"
-Category: "Project Document"
+Section: 13.1.3.1
+tags:
+  - "#project-document"
+Categories:
+  - Project Document
+Started By: "[[Identify stakeholders]]"
 ---
-* Identification information
-* Assessment information
-* Stakeholder classification
+# Contains Information about Stakeholders
+* **Identification information** — Name, organizational position, location and contact details, and role on the project.
+* **Assessment information** — Major requirements, expectations, potential for influencing project outcomes, and the phase of the project life cycle where the stakeholder has the most influence or impact.
+* **Stakeholder classification** — Internal/external, impact/influence/power/interest, upward/downward/outward/sideward.
 
-first created in [Identify stakeholders](Identify%20stakeholders.md)
-may use [Stakeholder engagement assessment matrix](Stakeholder%20engagement%20assessment%20matrix.md)
+may use [[Stakeholder engagement assessment matrix]]
 
 Levels of engagement:
 * Unaware

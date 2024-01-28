@@ -2,7 +2,6 @@
 KnowledgeArea: "[[Quality Management]]"
 ProcessGroup: "[[Executing]]"
 Section: "8.2"
-page: 288
 ToolsTechniques: []
 EEFs: []
 OPAs: []
@@ -10,6 +9,11 @@ Outputs: []
 ExpertJudgmentTopics: []
 Meetings: []
 tags: "#process"
+Updates: []
+TimesPerformed: ""
+KeyBenefits: ""
+Description: ""
+Page: 288
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
@@ -52,7 +56,7 @@ Quality improvement methods
 # .3 Outputs
 new [Quality report](Quality%20report.md)
 new [Test and evaluation documents](Test%20and%20evaluation%20documents.md)
-new [Change requests](Change%20requests.md)
+new [Change Requests](Change%20Requests.md)
 
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
@@ -63,7 +67,7 @@ Project management plan updates: [Project Management Plan](Project%20Management%
 
 
 Project document updates:
-* updates to [Issue log](Issue%20log.md)
+* updates to [Issue Log](Issue%20Log.md)
 * updates to [Lessons learned register](Lessons%20learned%20register.md)
 * updates to [Risk register](Risk%20register.md)
 

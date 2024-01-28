@@ -1,5 +1,7 @@
 ---
-tags: "#opa"
-Category: "Policies, Processes, Procedures"
+tags:
+  - opa
+Category: Policies, Processes, Procedures
+Type: OPA
 ---
 

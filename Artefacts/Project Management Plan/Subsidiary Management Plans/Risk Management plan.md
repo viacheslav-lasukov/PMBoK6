@@ -1,8 +1,9 @@
 ---
 Section: "11.1.3.1"
-Page: 405
+Page: "405"
 tags: "#management-plan"
-Category: "Management Plan"
+Categories:
+  - "Management Plan"
 ---
 
 How will you deal with risk?

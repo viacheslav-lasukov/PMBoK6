@@ -1,5 +1,6 @@
 ---
-tags: "#meeting"
+tags:
+  - meeting
 ---
 
 # Description

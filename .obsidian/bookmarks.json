@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1704378234023,
+      "title": "Untitled Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path: \"templater\" -path:\"YooMoney/Daily Standup\"  ",
+        "showTags": true,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 1.0816988049857805,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1705833125988,
+      "title": "First Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "file: -_index path: -_templates",
+        "showTags": true,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.8161612673943404,
+        "close": true
+      }
+    }
+  ]
+}

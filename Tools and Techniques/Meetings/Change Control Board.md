@@ -1,0 +1,7 @@
+---
+tags:
+  - "meeting"
+aliases:
+  - "CCB"
+---
+

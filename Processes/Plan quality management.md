@@ -31,7 +31,7 @@ Project documents:
 Enterprise Environmental Factors
 Organizational Process Assets
 
-# Tools & techniques
+# Tools & Techniques
 Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Data gathering
 * [Benchmarking](Benchmarking.md)

@@ -1,0 +1,22 @@
+{
+  "version": "0.12.0",
+  "data": {
+    "boardConfigs": [],
+    "globalSettings": {
+      "defaultColumnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "otherTags": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "filters": [],
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": true
+    }
+  }
+}

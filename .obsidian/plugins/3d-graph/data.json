@@ -1,0 +1,40 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "tag:#process",
+        "color": "#d65c5b"
+      },
+      {
+        "query": "tag:#knowledge-area  ",
+        "color": "#d6ad5c"
+      },
+      {
+        "query": "tag:#process-group  ",
+        "color": "#add65c"
+      },
+      {
+        "query": "tag:#business-document  ",
+        "color": "#5cd65c"
+      },
+      {
+        "query": "tag:#tool-technique  ",
+        "color": "#5cadd6"
+      },
+      {
+        "query": "tag:#project-document",
+        "color": "#5c5cd6"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 2,
+    "linkThickness": 1,
+    "particleSize": 5,
+    "particleCount": 2
+  }
+}

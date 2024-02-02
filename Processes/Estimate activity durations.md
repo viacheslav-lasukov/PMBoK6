@@ -29,7 +29,7 @@ Project documents:
 * [Risk register](Risk%20register.md)
 
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 > PMBOK p.200

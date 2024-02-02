@@ -24,7 +24,7 @@ Project documents:
 [Work performance reports](Procurement%20Documentation.md)
 [dd Team performance assessments](Procurement%20Documentation.md)
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Interpersonal and team skills:

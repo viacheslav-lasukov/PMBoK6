@@ -28,7 +28,7 @@ Project documents:
 [Work performance reports](Procurement%20Documentation.md)
 
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Communication technology
@@ -63,4 +63,4 @@ Project document updates:
 * updates to [Risk register](Risk%20register.md)
 * updates to [Stakeholder Register](Stakeholder%20Register.md)
 
-updates to Organizational process assets
+updates to Organizational Process Assets

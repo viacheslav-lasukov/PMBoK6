@@ -24,7 +24,7 @@ Project Documents:
 
 [Agreements](Agreements.md)
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools and Techniques
 * 13.1.2.1 Expert Judgement

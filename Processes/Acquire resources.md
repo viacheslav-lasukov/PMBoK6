@@ -24,7 +24,7 @@ Project documents:
 * [Stakeholder Register](Stakeholder%20Register.md)
 
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Decision making
@@ -55,5 +55,5 @@ Project document updates:
 * updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 updates to Enterprise Environmental Factors
-updates to Organizational process assets
+updates to Organizational Process Assets
 

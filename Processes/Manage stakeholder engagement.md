@@ -22,7 +22,7 @@ Project documents:
 * [Lessons Learned Register](Lessons%20Learned%20Register.md)
 * [Stakeholder Register](Stakeholder%20Register.md)
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 # 13.3.2 Tools & Techniques
 Expert Judgement
 Communication Skills

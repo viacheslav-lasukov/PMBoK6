@@ -35,7 +35,7 @@ Approved [Change Requests](Change%20Requests.md)
 [Work Performance Data](Work%20Performance%20Data.md)
 
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
@@ -66,5 +66,5 @@ Project document updates:
 * updates to [Risk register](Risk%20register.md)
 * updates to [Stakeholder Register](Stakeholder%20Register.md)
 
-updates to Organizational process assets
+updates to Organizational Process Assets
 

@@ -12,7 +12,7 @@ FROM #eef
 WHERE contains(this.EEFs, file.link)
 GROUP BY Category
 ```
-## Organizational process assets
+## Organizational Process Assets
 ```dataview
 TABLE WITHOUT ID rows.file.link as "OPAs", Category
 FROM #opa

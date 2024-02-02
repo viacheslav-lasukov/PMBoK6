@@ -35,7 +35,7 @@ Project documents:
 [Procurement Documentation](Procurement%20Documentation.md)
 
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)

@@ -16,7 +16,7 @@ Section: "6.2"
 * [Scope Baseline](Scope%20Baseline.md)
 
 Enterprise Environmental Factors .184
-Organizational process assets .184
+Organizational Process Assets .184
 
 # .2 Tools & techniques
 Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)

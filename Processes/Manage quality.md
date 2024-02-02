@@ -20,7 +20,7 @@ Project documents:
 * [Quality metrics](Quality%20metrics.md)
 * [Risk report](Risk%20report.md)
 
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 

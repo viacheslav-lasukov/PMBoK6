@@ -28,7 +28,7 @@ approved change requests -- see [Change Log](Change%20Log.md)
 
 Enterprise Environmental Factors
 
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Data gathering

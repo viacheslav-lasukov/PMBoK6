@@ -26,7 +26,7 @@ Project documents:
 
 [Work Performance Data](Work%20Performance%20Data.md)
 [Agreements](Agreements.md)
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Data analysis:

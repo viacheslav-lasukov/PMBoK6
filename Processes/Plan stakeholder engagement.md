@@ -26,7 +26,7 @@ Project management plan:
 
 [Agreements](Agreements.md)
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 
 # 13.2.2 Tools & Techniques
 Expert judgement

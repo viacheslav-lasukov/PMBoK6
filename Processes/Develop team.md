@@ -23,7 +23,7 @@ Project documents:
 * [Team charter](Team%20charter.md)
 
 Enterprise Environmental Factors .339 HR Policies; Team member skills; Geographic distribution of team members;
-Organizational process assets .340 Historical information, lessons learned repository <[Lessons Learned Register](Lessons%20Learned%20Register.md);
+Organizational Process Assets .340 Historical information, lessons learned repository <[Lessons Learned Register](Lessons%20Learned%20Register.md);
 
 # .2 Tools & techniques
 Colocation
@@ -56,4 +56,4 @@ Project document updates:
 * updates to [Team charter](Team%20charter.md)
 
 updates to Enterprise Environmental Factors 
-updates to Organizational process assets 
+updates to Organizational Process Assets 

@@ -23,7 +23,7 @@ Project documents:
 * [Milestone list](Milestone%20list.md)
 
 Enterprise Environmental Factors .189
-Organizational process assets .189
+Organizational Process Assets .189
 
 # .2 Tools & techniques
 Precedence diagramming method .189

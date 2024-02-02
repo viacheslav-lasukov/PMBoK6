@@ -17,7 +17,7 @@ Section: "7.1"
 * [Risk Management plan](Risk%20Management%20plan.md)
 
 Enterprise Environmental Factors
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)

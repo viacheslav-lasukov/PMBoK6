@@ -21,7 +21,7 @@ Project documents:
 * [Risk register](Risk%20register.md)
 
 Enterprise Environmental Factors  .152
-Organizational process assets .152
+Organizational Process Assets .152
 
 # .2 Tools & techniques
 Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)

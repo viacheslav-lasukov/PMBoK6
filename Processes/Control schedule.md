@@ -25,7 +25,7 @@ Project documents:
 * [Schedule data](Schedule%20data.md)
 
 [Work Performance Data](Work%20Performance%20Data.md)
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Data analysis:

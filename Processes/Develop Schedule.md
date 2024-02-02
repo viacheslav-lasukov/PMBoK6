@@ -32,7 +32,7 @@ Project documents:
 [Agreements](Agreements.md)
 
 Enterprise Environmental Factors .209
-Organizational process assets .209
+Organizational Process Assets .209
 
 # .2 Tools & techniques
 Schedule network analysis

@@ -17,7 +17,7 @@ Section: "6.1"
 * [Development approach](Development%20approach.md)
 
 Enterprise Environmental Factors p.180
-Organizational process assets p.180
+Organizational Process Assets p.180
 
 # .2 Tools & techniques
 Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)

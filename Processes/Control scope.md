@@ -24,7 +24,7 @@ Project documents:
 * [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 
 Work performance data
-Organizational process assets
+Organizational Process Assets
 
 # .2 Tools & techniques
 Data analysis:

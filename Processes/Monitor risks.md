@@ -45,5 +45,5 @@ Project document updates:
 * updates to [Risk register](Risk%20register.md)
 * updates to [Risk report](Risk%20report.md)
 
-updates to Organizational process assets
+updates to Organizational Process Assets
 

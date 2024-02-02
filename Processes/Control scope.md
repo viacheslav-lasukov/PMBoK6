@@ -12,8 +12,8 @@ Section: "5.6"
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md):
-* [Scope management plan](Scope%20management%20plan.md)
-* [Requirements management plan](Requirements%20management%20plan.md)
+* [Scope Management Plan](Scope%20Management%20Plan.md)
+* [Requirements Management Plan](Requirements%20Management%20Plan.md)
 * [Configuration management plan](Configuration%20management%20plan.md)
 * [Scope Baseline](Scope%20Baseline.md)
 * [Performance measurement baseline](Performance%20measurement%20baseline.md)
@@ -37,7 +37,7 @@ new [Work Perfomance Information](Work%20Perfomance%20Information.md)
 new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
-* updates to [Scope management plan](Scope%20management%20plan.md)
+* updates to [Scope Management Plan](Scope%20Management%20Plan.md)
 * updates to [Scope Baseline](Scope%20Baseline.md)
 * updates to [Schedule Baseline](Schedule%20Baseline.md)
 * updates to [Cost baseline](Cost%20baseline.md)

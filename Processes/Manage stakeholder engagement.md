@@ -14,13 +14,13 @@ Section: "13.3"
 [Project Management Plan](Project%20Management%20Plan.md)
 * [Communications management plan](Communications%20management%20plan.md)
 * [Risk Management plan](Risk%20Management%20plan.md)
-* [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 * [Change management Plan](Change%20management%20Plan.md)
 Project documents:
 * [Change Log](Change%20Log.md)
 * [Issue Log](Issue%20Log.md)
 * [Lessons Learned Register](Lessons%20Learned%20Register.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 Enterprise Environmental Factors
 Organizational process assets
 # 13.3.2 Tools & Techniques
@@ -41,12 +41,12 @@ new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Communications management plan](Communications%20management%20plan.md)
-* updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* updates to [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 
 Project documents updates:
 * updates to [Change Log](Change%20Log.md)
 * updates to [Issue Log](Issue%20Log.md)
 * updates to [Lessons Learned Register](Lessons%20Learned%20Register.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 

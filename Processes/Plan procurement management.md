@@ -18,7 +18,7 @@ Business documents:
 
 
 [Project Management Plan](Project%20Management%20Plan.md)
-* [Scope management plan](Scope%20management%20plan.md)
+* [Scope Management Plan](Scope%20Management%20Plan.md)
 * [Quality management plan](Quality%20management%20plan.md)
 * [Resource management plan](Resource%20management%20plan.md)
 * [Scope Baseline](Scope%20Baseline.md)
@@ -30,13 +30,13 @@ Project documents:
 * [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 * [Resource requirements](Resource%20requirements.md)
 * [Risk register](Risk%20register.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 
 Enterprise Environmental Factors
 Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Data gathering:
 * Market research
 Data analysis:
@@ -60,7 +60,7 @@ Project document updates:
 * updates to [Requirements documentation](Requirements%20documentation.md)
 * updates to [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 * updates to [Risk register](Risk%20register.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 updates to Organizational process assets
 

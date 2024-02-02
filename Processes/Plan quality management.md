@@ -16,9 +16,9 @@ Section: "8.1"
 # Inputs
 [Project Charter](Project%20Charter.md)
 [Project Management Plan](Project%20Management%20Plan.md):
-* [Requirements management plan](Requirements%20management%20plan.md)
+* [Requirements Management Plan](Requirements%20Management%20Plan.md)
 * [Risk Management plan](Risk%20Management%20plan.md)
-* [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 * [Scope Baseline](Scope%20Baseline.md)
 
 Project documents:
@@ -26,13 +26,13 @@ Project documents:
 * [Requirements documentation](Requirements%20documentation.md)
 * [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 * [Risk register](Risk%20register.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 
 Enterprise Environmental Factors
 Organizational process assets
 
 # Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Data gathering
 * [Benchmarking](Benchmarking.md)
 * [Brainstorming](Brainstorming.md)
@@ -67,6 +67,6 @@ Project document updates:
 * updates to [Lessons Learned Register](Lessons%20Learned%20Register.md)
 * updates to [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 * updates to [Risk register](Risk%20register.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 

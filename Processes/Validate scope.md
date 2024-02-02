@@ -12,8 +12,8 @@ Section: "5.5"
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
-* [Scope management plan](Scope%20management%20plan.md)
-* [Requirements management plan](Requirements%20management%20plan.md)
+* [Scope Management Plan](Scope%20Management%20Plan.md)
+* [Requirements Management Plan](Requirements%20Management%20Plan.md)
 
 Project documents:
 * [Lessons Learned Register](Lessons%20Learned%20Register.md)

@@ -14,7 +14,7 @@ Section: "5.3"
 [Project Charter](Project%20Charter.md)
 
 [Project Management Plan](Project%20Management%20Plan.md)
-* [Scope management plan](Scope%20management%20plan.md)
+* [Scope Management Plan](Scope%20Management%20Plan.md)
 Project documents:
 * [Assumption Log](Assumption%20Log.md)
 * [Requirements documentation](Requirements%20documentation.md)
@@ -24,7 +24,7 @@ Enterprise Environmental Factors  .152
 Organizational process assets .152
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 
 Data analysis
 * Alternatives analysis
@@ -45,6 +45,6 @@ Project document updates:
 * updates to [Assumption Log](Assumption%20Log.md)
 * updates to [Requirements documentation](Requirements%20documentation.md)
 * updates to [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
  
 

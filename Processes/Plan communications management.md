@@ -14,17 +14,17 @@ Section: "10.1"
 [Project Charter](Project%20Charter.md)
 [Project Management Plan](Project%20Management%20Plan.md)
 * [Resource management plan](Resource%20management%20plan.md)
-* [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 
 Project documents:
 * [Requirements documentation](Requirements%20documentation.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 
 Enterprise Environmental Factors
 Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Communication requirements analysis
 Communication technology
 Communication models
@@ -41,10 +41,10 @@ Meetings - see [Meeting Log](Meeting%20Log.md)
 new [Communications management plan](Communications%20management%20plan.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
-* updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* updates to [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 
 Project document updates:
 * updates to [Project schedule](Project%20schedule.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 

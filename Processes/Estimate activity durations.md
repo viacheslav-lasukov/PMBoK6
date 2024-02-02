@@ -34,7 +34,7 @@ Organizational process assets
 # .2 Tools & techniques
 > PMBOK p.200
 
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Analogous estimating
 Parametric estimating 
 Three-point estimating

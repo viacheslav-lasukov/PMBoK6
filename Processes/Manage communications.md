@@ -15,7 +15,7 @@ Section: "10.2"
 [Project Management Plan](Project%20Management%20Plan.md)
 * [Resource management plan](Resource%20management%20plan.md)
 * [Communications management plan](Communications%20management%20plan.md)
-* [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 
 Project documents:
 * [Change Log](Change%20Log.md)
@@ -23,7 +23,7 @@ Project documents:
 * [Lessons Learned Register](Lessons%20Learned%20Register.md)
 * [Quality report](Quality%20report.md)
 * [Risk report](Risk%20report.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 
 [Work performance reports](Procurement%20Documentation.md)
 
@@ -54,13 +54,13 @@ Meetings - see [Meeting Log](Meeting%20Log.md)
 new Project communications
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Communications management plan](Communications%20management%20plan.md)
-* updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* updates to [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 
 Project document updates:
 * updates to [Issue Log](Issue%20Log.md)
 * updates to [Lessons Learned Register](Lessons%20Learned%20Register.md)
 * updates to [Project schedule](Project%20schedule.md)
 * updates to [Risk register](Risk%20register.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 updates to Organizational process assets

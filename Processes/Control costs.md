@@ -26,7 +26,7 @@ Enterprise Environmental Factors
 Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Data analysis:
 * Earned value analysis
 * Variance analysis

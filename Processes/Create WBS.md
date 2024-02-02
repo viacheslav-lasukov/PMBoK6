@@ -12,7 +12,7 @@ Section: "5.4"
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
-* [Scope management plan](Scope%20management%20plan.md)
+* [Scope Management Plan](Scope%20Management%20Plan.md)
 Project documents:
 * [Project Scope Statement](Project%20Scope%20Statement.md)
 * [Requirements documentation](Requirements%20documentation.md)
@@ -21,7 +21,7 @@ Enterprise Environmental Factors
 Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Decomposition
 
 # .3 Outputs

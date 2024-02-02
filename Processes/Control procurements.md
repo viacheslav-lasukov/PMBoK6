@@ -13,7 +13,7 @@ Section: "12.3"
 # .1 Inputs
 
 [Project Management Plan](Project%20Management%20Plan.md)
-* [Requirements management plan](Requirements%20management%20plan.md)
+* [Requirements Management Plan](Requirements%20Management%20Plan.md)
 * [Risk Management plan](Risk%20Management%20plan.md)
 * [Procurement management plan](Procurement%20management%20plan.md)
 * Change management plan (TODO: -- this is new??? such plan is not mentioned anywhere else) described in section 4.2.3.1 contains information how seller-created changes will be processed
@@ -27,7 +27,7 @@ Project documents:
 * [Requirements documentation](Requirements%20documentation.md)
 * [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 * [Risk register](Risk%20register.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 
 [Agreements](Agreements.md)
 [Procurement Documentation](Procurement%20Documentation.md)
@@ -38,7 +38,7 @@ Enterprise Environmental Factors
 Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Claims administration
 Data analysis:
 * Performance reviews
@@ -55,7 +55,7 @@ new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Risk Management plan](Risk%20Management%20plan.md)
-* updates to [Requirements management plan](Requirements%20management%20plan.md)
+* updates to [Requirements Management Plan](Requirements%20Management%20Plan.md)
 * updates to [Schedule Baseline](Schedule%20Baseline.md)
 * updates to [Cost baseline](Cost%20baseline.md)
 
@@ -64,7 +64,7 @@ Project document updates:
 * updates to [Resource requirements](Resource%20requirements.md)
 * updates to [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 * updates to [Risk register](Risk%20register.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 updates to Organizational process assets
 

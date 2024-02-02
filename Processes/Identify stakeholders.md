@@ -45,14 +45,14 @@ Organizational process assets
 ** [Meeting Log](Meeting%20Log.md)
 
 # .3 Outputs
-new [Stakeholder register](Stakeholder%20register.md)
+new [Stakeholder Register](Stakeholder%20Register.md)
 
 Project document updates:
 * updates to [Change Log](Change%20Log.md)
-* updates to [Requirements management plan](Requirements%20management%20plan.md)
+* updates to [Requirements Management Plan](Requirements%20Management%20Plan.md)
 * updates to [Communications management plan](Communications%20management%20plan.md)
 * updates to [Risk Management plan](Risk%20Management%20plan.md)
-* updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* updates to [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 * updates to [Assumption Log](Assumption%20Log.md)
 * updates to [Issue Log](Issue%20Log.md)
 * updates to [Risk register](Risk%20register.md)

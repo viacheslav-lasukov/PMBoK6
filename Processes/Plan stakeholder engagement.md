@@ -22,7 +22,7 @@ Project management plan:
 * [Issue Log](Issue%20Log.md)
 * [Project schedule](Project%20schedule.md)
 * [Risk register](Risk%20register.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 
 [Agreements](Agreements.md)
 Enterprise Environmental Factors
@@ -44,4 +44,4 @@ Data representation
 Meetings - see [Meeting Log](Meeting%20Log.md)
 
 # 13.2.3 Outputs
-new [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+new [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)

@@ -12,8 +12,8 @@ Section: "12.2"
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
-* [Scope management plan](Scope%20management%20plan.md)
-* [Requirements management plan](Requirements%20management%20plan.md)
+* [Scope Management Plan](Scope%20Management%20Plan.md)
+* [Requirements Management Plan](Requirements%20Management%20Plan.md)
 * [Risk Management plan](Risk%20Management%20plan.md)
 * [Procurement management plan](Procurement%20management%20plan.md)
 * [Configuration management plan](Configuration%20management%20plan.md)
@@ -24,7 +24,7 @@ Project documents:
 * [Project schedule](Project%20schedule.md)
 * [Requirements documentation](Requirements%20documentation.md)
 * [Risk register](Risk%20register.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 
 [Procurement Documentation](Procurement%20Documentation.md)
 Seller proposals
@@ -33,7 +33,7 @@ Enterprise Environmental Factors
 Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Advertising
 Bidder conferences
 Data analysis
@@ -47,7 +47,7 @@ new Agreements -- see [Agreements](Agreements.md)
 new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
-* updates to [Requirements management plan](Requirements%20management%20plan.md)
+* updates to [Requirements Management Plan](Requirements%20Management%20Plan.md)
 * updates to [Quality management plan](Quality%20management%20plan.md)
 * updates to [Communications management plan](Communications%20management%20plan.md)
 * updates to [Risk Management plan](Risk%20Management%20plan.md)
@@ -62,6 +62,6 @@ Project document updates:
 * updates to [Requirements traceability matrix](Requirements%20traceability%20matrix.md)
 * updates to [Resource calendars](Resource%20calendars.md)
 * updates to [Risk register](Risk%20register.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 updates to Organizational process assets

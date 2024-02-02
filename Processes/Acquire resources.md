@@ -21,7 +21,7 @@ Project documents:
 * [Project schedule](Project%20schedule.md)
 * [Resource calendars](Resource%20calendars.md)
 * [Resource requirements](Resource%20requirements.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 
 Enterprise Environmental Factors
 Organizational process assets
@@ -52,7 +52,7 @@ Project document updates:
 * updates to [Resource breakdown structure](Resource%20breakdown%20structure.md)
 * updates to [Resource requirements](Resource%20requirements.md)
 * updates to [Risk register](Risk%20register.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 updates to Enterprise Environmental Factors
 updates to Organizational process assets

@@ -33,7 +33,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "d30cbe78abd001e8",
@@ -136,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ac93f681408532f",
@@ -170,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Processes/5.2 Collect requirements.md"
+              }
             }
           },
           {
@@ -178,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Processes/5.2 Collect requirements.md"
+              }
             }
           }
         ],
@@ -203,10 +209,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "db388a42ea531eb4",
+  "active": "9cfc1e94b9e9c394",
   "lastOpenFiles": [
-    "Processes/5.1 Plan Scope Management.md",
+    "Artefacts/Agreements.md",
     "Processes/5.2 Collect requirements.md",
+    "Artefacts/Stakeholder Register.md",
+    "Artefacts/Lessons Learned Register.md",
+    "Artefacts/Assumption Log.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Stakeholder Engagement Plan.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Requirements Management Plan.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Scope Management Plan.md",
+    "Artefacts/WBS.md",
+    "Processes/5.1 Plan Scope Management.md",
     "Tools and Techniques/Knowledge Management.md",
     "Tools and Techniques/Meetings/Review Meeting.md",
     "Mics/Business Analysis for Practitioners. A Practice Guide.md",
@@ -224,14 +238,6 @@
     "Processes/4.4 Manage Project Knowledge.md",
     "Processes/4.3 Direct and Manage Project Work.md",
     "Processes/4.2 Develop Project Management Plan.md",
-    "Processes/4.1 Develop Project Charter.md",
-    "Tools and Techniques/Alternatives Analysis.md",
-    "Tools and Techniques/Expert Judgment Topics/Industry, Discipline, Application Area, and other Focus Area of the Project.md",
-    "Influences/Organizational Process Assets/Policies, Processes, Procedures.md",
-    "Influences/Personnel Administration.md",
-    "Artefacts/Project Charter.md",
-    "Artefacts/Deliverables.md",
-    "Tools and Techniques/Meetings.md",
     "_attachments/Major Project Quality Management Process Interrelations.png",
     "_attachments/PMBOK Processes Flow by Ricardo Vargas.pdf",
     "_attachments/Pasted image 20240129185825.png",

@@ -20,13 +20,13 @@ Project documents:
 * [Project schedule](Project%20schedule.md)
 * [Requirements documentation](Requirements%20documentation.md)
 * [Risk register](Risk%20register.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 
 Enterprise Environmental Factors
 Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Data representation:
 * Hierarchical charts
 * Responsibility assignment matrix

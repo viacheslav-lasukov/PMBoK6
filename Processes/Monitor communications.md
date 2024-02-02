@@ -15,7 +15,7 @@ Section: "10.3"
 [Project Management Plan](Project%20Management%20Plan.md)
 * [Resource management plan](Resource%20management%20plan.md)
 * [Communications management plan](Communications%20management%20plan.md)
-* [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 
 Project documents:
 * [Issue Log](Issue%20Log.md)
@@ -27,7 +27,7 @@ Enterprise Environmental Factors
 Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Project management information system
 Data analysis:
 * [Stakeholder engagement assessment matrix](Stakeholder%20engagement%20assessment%20matrix.md)
@@ -42,11 +42,11 @@ new [Change Requests](Change%20Requests.md)
 
 Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
 * updates to [Communications management plan](Communications%20management%20plan.md)
-* updates to [Stakeholder engagement plan](Stakeholder%20engagement%20plan.md)
+* updates to [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
 
 Project document updates:
 * updates to [Issue Log](Issue%20Log.md)
 * updates to [Lessons Learned Register](Lessons%20Learned%20Register.md)
-* updates to [Stakeholder register](Stakeholder%20register.md)
+* updates to [Stakeholder Register](Stakeholder%20Register.md)
 
 

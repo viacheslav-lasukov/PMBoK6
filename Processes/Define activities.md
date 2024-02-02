@@ -12,14 +12,14 @@ Section: "6.2"
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md):
-* [Scope management plan](Scope%20management%20plan.md)
+* [Scope Management Plan](Scope%20Management%20Plan.md)
 * [Scope Baseline](Scope%20Baseline.md)
 
 Enterprise Environmental Factors .184
 Organizational process assets .184
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Decomposition .185
 Rolling wave planning .185
 Meetings - see [Meeting Log](Meeting%20Log.md)

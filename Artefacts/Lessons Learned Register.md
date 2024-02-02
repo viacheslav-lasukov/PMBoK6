@@ -12,8 +12,8 @@ Description: ""
 Used to improve the performance of the project and to avoid repeating mistakes. 
 The register helps identify where to set rules or guidelines so the team's actions are aligned.
 At the end of a project or phase, the information is transferred to an OPA [[Lessons Learned Repository]].
-# Consists of
- * Category and description of the situation
+# Includes
+ * category and description of the situation
  * impact
  * recommendations
  * proposed actions

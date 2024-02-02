@@ -12,7 +12,7 @@ Section: "11.2"
 ---
 # .1 Inputs
 [Project Management Plan](Project%20Management%20Plan.md)
-* [Requirements management plan](Requirements%20management%20plan.md)
+* [Requirements Management Plan](Requirements%20Management%20Plan.md)
 * [Schedule management plan](Schedule%20management%20plan.md)
 * [Cost management plan](Cost%20management%20plan.md)
 * [Quality management plan](Quality%20management%20plan.md)
@@ -30,7 +30,7 @@ Project documents:
 * [Lessons Learned Register](Lessons%20Learned%20Register.md)
 * [Requirements documentation](Requirements%20documentation.md)
 * [Resource requirements](Resource%20requirements.md)
-* [Stakeholder register](Stakeholder%20register.md)
+* [Stakeholder Register](Stakeholder%20Register.md)
 [Agreements](Agreements.md)
 [Procurement Documentation](Procurement%20Documentation.md)
 
@@ -38,7 +38,7 @@ Enterprise Environmental Factors
 Organizational process assets
 
 # .2 Tools & techniques
-Expert judgement - see [Stakeholder register](Stakeholder%20register.md)
+Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
 Data gathering:
 * [Brainstorming](Brainstorming.md)
 * [Checklists](Checklists.md)

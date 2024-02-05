@@ -1,5 +1,5 @@
 # Description
-`=this.Description`
+
 # Included in
 ```dataview
 TABLE tags

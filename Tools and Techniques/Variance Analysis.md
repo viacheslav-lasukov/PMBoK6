@@ -1,12 +1,11 @@
 ---
-ToolAndTechniqueGroup: "[[Data Analysis]]"
 tags:
   - tool-technique
-Description: Reviews the differences (or variance) between planned and actual performance. This can include duration estimates, cost estimates, resources utilization, resources rates, technical performance, and other metrics. Variance analysis may be conducted in each Knowledge Area based on its particular variables
-Type: ""
+Description: "[[Variance Analysis#Description|📝]]"
+TechniqueGroup: "[[Data Analysis]]"
 ---
 # Description
-`=this.Description`
+Reviews the differences (or variance) between planned and actual performance. This can include duration estimates, cost estimates, resources utilization, resources rates, technical performance, and other metrics. Variance analysis may be conducted in each Knowledge Area based on its particular variables.
 # Used in Processes
 ## By Knowledge Area
 ```dataview

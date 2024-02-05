@@ -1,10 +1,8 @@
 ---
-Section: 13.2.3.1
-Page: 
+Section: "13.2.3.1"
+Page:
 tags:
   - "#management-plan"
-Categories:
-  - Management Plan
 Description: "[[Stakeholder Engagement Plan#Description|📝]]"
 ---
 # Description

@@ -1,8 +1,7 @@
 ---
 tags:
-  - tool-technique
-Description: Configuration control is focused on the specification of both the deliverables and the processes, while change control is focused on identifying, documenting, and approving or rejecting changes to the project documents, deliverables, or baselines.
-Type: ""
+  - "tool-technique"
+Description: "Configuration control is focused on the specification of both the deliverables and the processes, while change control is focused on identifying, documenting, and approving or rejecting changes to the project documents, deliverables, or baselines."
 ---
 # Description
 `=this.Description`

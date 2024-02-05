@@ -1,9 +1,8 @@
 ---
 tags:
-  - tool-technique
-  - expert-judgment-topic
+  - "tool-technique"
+  - "expert-judgment-topic"
 Description: ""
-Type: ""
 ---
 # Description
 `=this.Description`

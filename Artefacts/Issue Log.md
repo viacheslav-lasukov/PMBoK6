@@ -1,9 +1,7 @@
 ---
 tags:
   - "#project-document"
-Categories:
-  - Project Document
-Description: 
+Description:
 Started By: "[[4.3 Direct and Manage Project Work]]"
 ---
 # Consists of

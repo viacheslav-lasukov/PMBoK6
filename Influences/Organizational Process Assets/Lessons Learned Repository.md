@@ -1,7 +1,6 @@
 ---
 tags: "opa"
 Category: "Knowledge Bases"
-Type: "OPA"
 ---
 # Used in Processes
 ## By Knowledge Area

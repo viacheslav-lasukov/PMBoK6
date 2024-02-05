@@ -1,10 +1,9 @@
 ---
-ToolAndTechniqueGroup: "[[Interpersonal and Team Skills]]"
 tags:
-  - tool-technique
-Description: Acknowledging, clarifying and confirming, understanding, and removing barriers that adversely affect comprehension.
-Type: 
-Section: 10.2.2.6
+  - "tool-technique"
+Description: "Acknowledging, clarifying and confirming, understanding, and removing barriers that adversely affect comprehension."
+Section: "10.2.2.6"
+TechniqueGroup: "[[Interpersonal and Team Skills]]"
 ---
 # Description
 `=this.Description`

@@ -1,9 +1,8 @@
 ---
-Type: OPA
-Category: Policies, Processes, Procedures
+Category: "Policies, Processes, Procedures"
 tags:
-  - opa
-  - eef
+  - "opa"
+  - "eef"
 Description: "[[Personnel Administration#Description|📝]]"
 ---
 # Description

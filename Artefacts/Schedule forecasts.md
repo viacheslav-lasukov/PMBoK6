@@ -1,17 +1,15 @@
 ---
 tags:
   - "#project-document"
-Categories:
-  - Project Document
-Description: Forecasts of estimates or predictions of conditions and events in the project's future based on information and knowledge available at the time of the forecast.
+Description: "[[Schedule Forecasts#Description|📝]]"
 ---
 # Description
-`=this.Description`
-# Based on
+Forecasts of estimates or predictions of conditions and events in the project's future based on information and knowledge available at the time of the forecast.
+## Based on
 [[Work Perfomance Information]]
-# Can Include
+## Can Include
 - EV performance (see. [[Earned Value Analysis|EVM]])
-- Schedule reserve
+- [[Schedule reserve]]
 # Included in
 ```dataview
 TABLE tags

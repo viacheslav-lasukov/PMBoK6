@@ -1,9 +1,8 @@
 ---
 page: .nan
 section: ""
-ToolAndTechniqueGroup: "[[Data Representation]]"
 tags: "tool-technique"
 Description: ""
-Type: ""
+TechniqueGroup: "[[Data Representation]]"
 ---
 

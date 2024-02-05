@@ -3,9 +3,7 @@ Page: 514
 Section: 13.1.3.1
 tags:
   - "#project-document"
-Categories:
-  - Project Document
-Started By: "[[Identify stakeholders]]"
+Started By: "[[Identify Stakeholders]]"
 Description: "[[Stakeholder Register#Description|📝]]"
 ---
 # Description

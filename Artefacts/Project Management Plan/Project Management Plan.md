@@ -1,8 +1,6 @@
 ---
 tags:
   - "#project-document"
-Categories:
-  - Project Document
 Description: ""
 Started By: "[[4.2 Develop Project Management Plan]]"
 ---

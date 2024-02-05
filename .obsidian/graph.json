@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#process  ",
@@ -104,11 +104,11 @@
   "textFadeMultiplier": -1.3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.20084177769790143,
+  "collapse-forces": false,
+  "centerStrength": 0.502165967239746,
+  "repelStrength": 9.9702179504535,
+  "linkStrength": 0.494246649519426,
+  "linkDistance": 30,
+  "scale": 0.1501609218072032,
   "close": true
 }

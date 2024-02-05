@@ -1,8 +1,6 @@
 ---
 tags:
   - "#additional-component"
-Categories:
-  - "Additional Component"
 Description: ""
 ---
 # Description

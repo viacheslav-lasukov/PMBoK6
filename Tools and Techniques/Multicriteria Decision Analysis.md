@@ -1,12 +1,13 @@
 ---
-ToolAndTechniqueGroup: "[[Decision-Making]]"
 tags:
-  - tool-technique
-Description: Uses a decision matrix to provide a systematic analytical approach for establishing criteria, such as risk levels, uncertainty, and valuation, to evaluate and rank many ideas.
-Type: ""
+  - "tool-technique"
+Description: "[[Multicriteria Decision Analysis#Description|📝]]"
+TechniqueGroup: "[[Decision-Making]]"
 ---
 # Description
-`=this.Description`
+Uses a decision matrix to provide a systematic analytical approach for establishing criteria, such as risk levels, uncertainty, and valuation, to evaluate and rank many ideas.
+## Examples
+- Prioritization matrix
 # Used in Processes
 ## By Knowledge Area
 ```dataview

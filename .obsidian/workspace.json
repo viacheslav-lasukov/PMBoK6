@@ -10,23 +10,25 @@
           {
             "id": "fed3941611d5a34a",
             "type": "tabs",
-            "dimension": 62,
+            "dimension": 62.33333333333333,
             "children": [
               {
-                "id": "db388a42ea531eb4",
+                "id": "159e3d067e7426a3",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "obsidian-projects",
-                  "state": {}
+                  "state": {},
+                  "pinned": true
                 }
               },
               {
-                "id": "9cfc1e94b9e9c394",
+                "id": "aa82f8c4b852bab7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Processes/5.2 Collect requirements.md",
+                    "file": "Processes/7.3 Determine Budget.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -39,7 +41,7 @@
           {
             "id": "d30cbe78abd001e8",
             "type": "split",
-            "dimension": 38,
+            "dimension": 37.666666666666664,
             "children": [
               {
                 "id": "80158b254f45e775",
@@ -116,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"earned value management\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,17 +175,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Processes/5.2 Collect requirements.md"
+                "file": "Processes/7.3 Determine Budget.md"
               }
             }
           },
           {
-            "id": "0c556e2a3c17e84d",
+            "id": "adc5fd924ebb1eb5",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Processes/5.2 Collect requirements.md"
+                "file": "Processes/7.3 Determine Budget.md"
               }
             }
           }
@@ -192,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,41 +211,46 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9cfc1e94b9e9c394",
+  "active": "aa82f8c4b852bab7",
   "lastOpenFiles": [
-    "Artefacts/Agreements.md",
-    "Processes/5.2 Collect requirements.md",
-    "Artefacts/Stakeholder Register.md",
-    "Artefacts/Lessons Learned Register.md",
-    "Artefacts/Assumption Log.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Stakeholder Engagement Plan.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Requirements Management Plan.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Scope Management Plan.md",
-    "Artefacts/WBS.md",
-    "Processes/5.1 Plan Scope Management.md",
-    "Tools and Techniques/Knowledge Management.md",
-    "Tools and Techniques/Meetings/Review Meeting.md",
-    "Mics/Business Analysis for Practitioners. A Practice Guide.md",
-    "Mics",
+    "Artefacts/Cost Estimates.md",
+    "Processes/7.2 Estimate Costs.md",
+    "Artefacts/Basis of Estimates.md",
+    "Tools and Techniques/Three-Point Estimating.md",
+    "Tools and Techniques/Cost of Quality.md",
+    "_attachments/Cost of Quality.png",
+    "Tools and Techniques/Reserve Analysis.md",
+    "Tools and Techniques/Expert Judgment Topics/Cost Estimating Methods.md",
+    "Influences/Cost Estimating Templates.md",
+    "Influences/Currency Exchange Rates and Inflation.md",
+    "Artefacts/Work Performance Report.md",
+    "Artefacts/Product, Service, Result Transition.md",
     "Artefacts/Procurement Documentation.md",
-    "zz_Scratchpad.md",
-    "Tools and Techniques/Meetings/User Group.md",
-    "Tools and Techniques/Meetings/Celebration.md",
-    "Tools and Techniques/Meetings/Change Control Board.md",
-    "Knowledge Areas/5 Scope Management.md",
-    "_templates/process.md",
-    "Processes/4.5 Monitor and control project work.md",
-    "Processes/4.7 Close project or phase.md",
-    "Processes/4.6 Perform integrated change control.md",
-    "Processes/4.4 Manage Project Knowledge.md",
-    "Processes/4.3 Direct and Manage Project Work.md",
-    "Processes/4.2 Develop Project Management Plan.md",
-    "_attachments/Major Project Quality Management Process Interrelations.png",
+    "Artefacts/Final Report.md",
+    "Tools and Techniques/Groups/Decision-Making.md",
+    "Tools and Techniques/Meetings/Cost Planning Meeting.md",
+    "Processes/7.1 Plan Cost Management.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Cost Management Plan.md",
+    "Artefacts/Work Breakdown Structure.md",
+    "Mics/Practice Standard for Earned Value Management.md",
+    "Processes/6.1 Plan Schedule Management.md",
+    "Tools and Techniques/Meetings/Schedule Planning Meeting.md",
+    "Processes/6.4 Estimate Activity Durations.md",
+    "Tools and Techniques/Alternatives Analysis.md",
+    "Tools and Techniques/Earned Value Analysis.md",
+    "Influences/Cost Estimating and Budgeting.md",
+    "Influences/Financial Databases.md",
+    "_attachments/Example Probability and Impact Matrix with Scoring Scheme.png",
+    "_attachments/Example of Definitions for Probability and Impacts.png",
+    "_attachments/Pasted image 20240204192107.png",
+    "_attachments/Project Schedule Presentations Examples.png",
+    "_attachments/Relationship Between Product Vision, Release Planning, and Iteration Planning.png",
+    "_attachments/Schedule Compression Comparison.png",
+    "_attachments/Example Probability Distribution of a Target Milestone.png",
+    "_attachments/Resource Leveling.png",
+    "_attachments/Example of Critical Path Method.png",
+    "Mics",
     "_attachments/PMBOK Processes Flow by Ricardo Vargas.pdf",
-    "_attachments/Pasted image 20240129185825.png",
-    "_attachments/Sample Resource Breakdown Structure.png",
-    "_attachments/Project Budget Components.png",
-    "_attachments/Planning Process Group.png",
     "Project Management Plan/Baselines/_attachments",
     "Project Management Plan/Baselines/Components",
     "Artefacts/Project Management Plan/Baselines",
@@ -252,11 +259,6 @@
     "_templates",
     "Tools and Techniques/Expert Judgment Topics",
     "Influences",
-    "_attachments/Pasted image 20240121174229.png",
-    "_attachments/Pasted image 20240105130034.png",
-    "_attachments/Pasted image 20240105133635.png",
-    "Topics/Project Management/GENERAL/Communications/Классификация стейкхолдеров/_attachments/RACI Example.png",
-    "Jobs/VK/interview/_attachments/Pasted image 20240111104324.png",
     "Untitled.canvas",
     "Untitled 6.canvas",
     "Untitled 5.canvas",

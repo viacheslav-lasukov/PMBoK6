@@ -2,11 +2,11 @@
 tags:
   - artefact
   - project-document
-Description: Contains complete supporting records for administration of the procurement processes.
+Description: "[[Procurement Documentation#Description|📝]]"
 ---
 # Description
-`=this.Description`
-# Includes
+Contains complete supporting records for administration of the procurement processes.
+## Includes
 - Statement of work
 - Payment information
 - Contractor work performance information

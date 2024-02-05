@@ -1,50 +1,47 @@
 ---
 KnowledgeArea: "[[10 Communications Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsTechniques: []
-EEFs: []
-OPAs: []
-tags: "#process"
-TimesPerformed: ""
-Description: ""
+ToolsTechniques: 
+EEFs: 
+OPAs: 
+tags:
+  - "#process"
+TimesPerformed: Throughout the project
+Description: "[[Plan Communications Management#Description|📝]]"
 Page: 359
 Section: "10.1"
 ---
-# .1 Inputs
-[Project Charter](Project%20Charter.md)
-[Project Management Plan](Project%20Management%20Plan.md)
-* [Resource management plan](Resource%20management%20plan.md)
-* [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
-
-Project documents:
-* [Requirements documentation](Requirements%20documentation.md)
-* [Stakeholder Register](Stakeholder%20Register.md)
-
-Enterprise Environmental Factors
-Organizational Process Assets
-
-# .2 Tools & techniques
-Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
-Communication requirements analysis
-Communication technology
-Communication models
-Communication methods
-Interpersonal and team skills:
-* Communications styles assessment
-* Political awareness
-* Cultural awareness
-Data representation:
-* * [Stakeholder engagement assessment matrix](Stakeholder%20engagement%20assessment%20matrix.md)
-Meetings - see [Meeting Log](Meeting%20Log.md)
-
-# .3 Outputs
-new [Communications management plan](Communications%20management%20plan.md)
-
-Project management plan updates: [Project Management Plan](Project%20Management%20Plan.md)
-* updates to [Stakeholder Engagement Plan](Stakeholder%20Engagement%20Plan.md)
-
-Project document updates:
-* updates to [Project schedule](Project%20schedule.md)
-* updates to [Stakeholder Register](Stakeholder%20Register.md)
-
-
+# Description
+Developing an appropriate approach and plan for project communications activities based on the information needs of each stakeholder or group, available organizational assets, and the needs of the project.
+## Key Benefits
+A documented approach to effectively and efficiently engage stakeholders by presenting relevant information in a timely manner.
+## Times Performed
+`=this.TimesPerformed`
+# Inputs
+## Enterprise Environmental Factors
+```dataview
+TABLE WITHOUT ID rows.file.link as "EEFs", Category
+FROM #eef
+WHERE contains(this.EEFs, file.link)
+GROUP BY Category
+```
+## Organizational Process Assets
+```dataview
+TABLE WITHOUT ID rows.file.link as "OPAs", Category
+FROM #opa
+WHERE contains(this.OPAs, file.link)
+GROUP BY Category
+```
+# Tools & Techniques
+```dataview
+TABLE WITHOUT ID TechniqueGroup as "Group", rows.file.link as "Tools & Techniques"
+FROM #tool-technique
+WHERE contains(this.ToolsTechniques, file.link)
+GROUP BY TechniqueGroup
+```
+## [[Expert Judgment]]
+- 
+## [[Meetings]]
+- 
+# Outputs
+- 

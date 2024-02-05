@@ -3,9 +3,7 @@ Section: 1.2.6.1
 Page: 29
 tags:
   - "#business-document"
-Categories:
-  - Business Document
-Description: ""
+Description: "[[Business Case#Description|📝]]"
 ---
 # Description
 Documented economic feasibility study used to establish the validity of the benefits of a selected component lacking sufficient definition and that is used as a basis for the authorization of further project management activities. The business case lists the objectives and reasons for project initiation. It helps measure the project success at the end of the project against the project objectives. The business case is a project business document that is used throughout the project life cycle. The business case may be used before the project initiation and may result in a go/no-go decision for the project.

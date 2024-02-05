@@ -2,7 +2,6 @@
 Section: "1.2.6.4"
 Page: "34"
 tags:
-Categories: []
 Description: ""
 ---
 # Description

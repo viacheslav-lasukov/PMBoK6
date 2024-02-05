@@ -1,20 +1,18 @@
 ---
 tags:
   - "#project-document"
-Categories:
-  - "Project Document"
 Started By:
-Description: ""
+Description: "[[Resource Breakdown Structure#Description|📝]]"
 ---
 # Description
 Hierarchical representation of resources by category and type.
 ![[Sample Resource Breakdown Structure.png]]
-# Categories
+## Examples
 - Labor
 - Material
 - Equipment
 - Supplies
-## Types
+## May Include
 - Skill level
 - Grade level
 - Required certifications

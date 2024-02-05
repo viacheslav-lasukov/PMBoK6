@@ -2,19 +2,11 @@
 Section: "5.4.3.1"
 tags:
   - "baseline-component"
-Categories:
-  - "Baseline Component"
-Description: ""
+Description: "[[WBS Dictionary#Description|📝]]"
 ---
 # Description
-A document that provides detailed deliverable, activity, and scheduling information about each component in the WBS. The WBS dictionary is a document that supports the [[WBS]]. Most of the information included in the WBS dictionary is created by other processes and added to this document at a later stage.
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```
-# Includes
+A document that provides detailed [[Deliverables|deliverable]], activity, and scheduling information about each component in the [[Work Breakdown Structure]]. The **WBS dictionary** is a document that supports the [[Work Breakdown Structure]]. Most of the information included in the **WBS dictionary** is created by other processes and added to this document at a later stage.
+## Information Included
 - Code of account identifier
 - Description of work
 - Assumptions and constraints
@@ -27,3 +19,9 @@ SORT number(section)
 - Acceptance criteria
 - Technical references
 - Agreement information
+# Included in
+```dataview
+TABLE tags
+WHERE contains(file.outlinks, this.file.link)
+SORT number(section)
+```

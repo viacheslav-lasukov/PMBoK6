@@ -1,7 +1,6 @@
 ---
 tags:
-  - tool-technique
-Type: Meeting
+  - "tool-technique"
 Description: "[[Meetings#Description|📝]]"
 ---
 # Description
@@ -9,11 +8,15 @@ Description: "[[Meetings#Description|📝]]"
 ## Types
 - Formal/informal
 - Format: face-to-face/virtual
-- Participants: team members/others
+## Attendees
+- [[SME]]
+- Team members
+- Stakeholders
 ## Meetings
 ```dataview
 LIST
-FROM #meeting 
+FROM #meeting
+SORT file.name
 ```
 # Uses
 - [[Meeting Log]]

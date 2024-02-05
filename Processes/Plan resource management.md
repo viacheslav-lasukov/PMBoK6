@@ -1,47 +1,47 @@
 ---
 KnowledgeArea: "[[9 Resource Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsTechniques: []
-EEFs: []
-OPAs: []
-tags: "#process"
-TimesPerformed: ""
-Description: ""
+ToolsTechniques: 
+EEFs: 
+OPAs: 
+tags:
+  - "#process"
+TimesPerformed: Once or at predefined points in the project
+Description: "[[Plan Resource Management#Description|📝]]"
 Page: 312
 Section: "9.1"
 ---
-# .1 Inputs
-[Project Charter](Project%20Charter.md)
-[Project Management Plan](Project%20Management%20Plan.md)
-* [Quality management plan](Quality%20management%20plan.md)
-* [Scope Baseline](Scope%20Baseline.md)
-
-Project documents:
-* [Project schedule](Project%20schedule.md)
-* [Requirements documentation](Requirements%20documentation.md)
-* [Risk register](Risk%20register.md)
-* [Stakeholder Register](Stakeholder%20Register.md)
-
-Enterprise Environmental Factors
-Organizational Process Assets
-
-# .2 Tools & techniques
-Expert judgement - see [Stakeholder Register](Stakeholder%20Register.md)
-Data representation:
-* Hierarchical charts
-* Responsibility assignment matrix
-* Text-oriented formats
-
-Organizational theory
-
-Meetings - see [Meeting Log](Meeting%20Log.md)
-
-# .3 Outputs
-new [Resource management plan](Resource%20management%20plan.md)
-new [Team charter](Team%20charter.md)
-
-Project document updates:
-* updates to [Assumption Log](Assumption%20Log.md)
-* updates to [Risk register](Risk%20register.md)
-
-
+# Description
+Defining how to estimate, acquire, manage, and use team and physical resources.
+## Key Benefits
+Establishes the approach and level of management effort needed for managing project resources based on the type and complexity of the project.
+## Times Performed
+`=this.TimesPerformed`
+# Inputs
+## Enterprise Environmental Factors
+```dataview
+TABLE WITHOUT ID rows.file.link as "EEFs", Category
+FROM #eef
+WHERE contains(this.EEFs, file.link)
+GROUP BY Category
+```
+## Organizational Process Assets
+```dataview
+TABLE WITHOUT ID rows.file.link as "OPAs", Category
+FROM #opa
+WHERE contains(this.OPAs, file.link)
+GROUP BY Category
+```
+# Tools & Techniques
+```dataview
+TABLE WITHOUT ID TechniqueGroup as "Group", rows.file.link as "Tools & Techniques"
+FROM #tool-technique
+WHERE contains(this.ToolsTechniques, file.link)
+GROUP BY TechniqueGroup
+```
+## [[Expert Judgment]]
+- 
+## [[Meetings]]
+- 
+# Outputs
+- 

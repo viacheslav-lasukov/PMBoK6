@@ -1,11 +1,10 @@
 ---
 page: .nan
-section: 10.2.2.6
-ToolAndTechniqueGroup: "[[Interpersonal and Team Skills]]"
+section: "10.2.2.6"
 tags:
-  - tool-technique
-Description: Meeting management is taking steps to ensure meetings meet their intended objectives effectively and efficiently.
-Type: ""
+  - "tool-technique"
+Description: "Meeting management is taking steps to ensure meetings meet their intended objectives effectively and efficiently."
+TechniqueGroup: "[[Interpersonal and Team Skills]]"
 ---
 # Description
 `=this.Description`

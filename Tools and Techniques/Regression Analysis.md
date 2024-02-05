@@ -1,9 +1,8 @@
 ---
-ToolAndTechniqueGroup: "[[Data Analysis]]"
 tags:
-  - tool-technique
-Description: Analyzes the interrelationships between different project variables that contributed to the project outcomes to improve performance on future projects.
-Type: ""
+  - "tool-technique"
+Description: "Analyzes the interrelationships between different project variables that contributed to the project outcomes to improve performance on future projects."
+TechniqueGroup: "[[Data Analysis]]"
 ---
 # Description
 `=this.Description`

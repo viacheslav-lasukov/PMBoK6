@@ -1,11 +1,10 @@
 ---
 page: 348
-section: 9.5.2.1
-ToolAndTechniqueGroup: "[[Interpersonal and Team Skills]]"
+section: "9.5.2.1"
 tags:
-  - tool-technique
-Description: 
-Type: ""
+  - "tool-technique"
+Description:
+TechniqueGroup: "[[Interpersonal and Team Skills]]"
 ---
 # Description
 ## Sources of conflict

@@ -7,5 +7,5 @@ tags:
 ```dataview
 TABLE Type
 FROM #tool-technique 
-WHERE ToolAndTechniqueGroup=link(this.file.name)
+WHERE TechniqueGroup=link(this.file.name)
 ```

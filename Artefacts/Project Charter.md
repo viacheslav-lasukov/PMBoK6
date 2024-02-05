@@ -1,12 +1,10 @@
 ---
-Section: 1.2.6.3
+Section: "1.2.6.3"
 Page: 34
 Started By: "[[4.1 Develop Project Charter]]"
 tags:
   - "#project-document"
-  - business-document
-Categories:
-  - Project Document
+  - "business-document"
 Description: ""
 ---
 # Description

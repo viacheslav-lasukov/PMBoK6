@@ -1,13 +1,11 @@
 ---
-Section: 5.1.3.2
-Page: 
+Section: "5.1.3.2"
+Page:
 tags:
   - "#management-plan"
-Categories:
-  - Management Plan
 Description: "[[Requirements Management Plan#Description|📝]]"
 aliases:
-  - BA Plan
+  - "BA Plan"
 ---
 # Description
 Describes how project and product requirements will be analyzed, documented, and managed.
@@ -20,4 +18,4 @@ Describes how project and product requirements will be analyzed, documented, and
 	- authorization levels required to approve these changes
 - Requirements prioritization process
 - Metrics that will be used and the rationale for using them
-- Traceability structure that reflects the requirement attributes captured on the [[Requirements traceability matrix]]
+- Traceability structure that reflects the requirement attributes captured on the [[Requirements Traceability Matrix]]

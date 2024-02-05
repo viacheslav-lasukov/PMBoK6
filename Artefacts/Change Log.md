@@ -2,8 +2,6 @@
 Page: "120"
 Section: "4.6.3.3"
 tags: "#project-document"
-Categories:
-  - "Project Document"
 Description: ""
 ---
 

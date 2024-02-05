@@ -1,25 +1,14 @@
 ---
 tags:
-  - "tool-technique"
-  - "scheduling-tool"
-Description: ""
-Type: "Scheduling"
+  - tool-technique
+  - scheduling
+Description: "[[Critical Path Method#Description|📝]]"
 ---
 # Description
-`=this.Description`
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
+Is used to estimate the minimum project duration and determine the amount of schedule flexibility on the logical network paths within the schedule model.
 
+Calculates the early start, early finish, late start, and late finish dates for all activities without regard for any resource limitations by performing a forward and backward pass analysis through the [[Schedule Network Diagram]].
+
+The critical path is the sequence of activities that represents the longest path through a project, which determines the shortest possible project duration. The longest path has the least total float—usually zero.
+## Example
+![[Example of Critical Path Method.png]]

@@ -2,7 +2,7 @@
 
 ## Key Benefits
 
-# TImes Performed
+## Times Performed
 `=this.TimesPerformed`
 # Inputs
 ## Enterprise Environmental Factors
@@ -21,10 +21,10 @@ GROUP BY Category
 ```
 # Tools & Techniques
 ```dataview
-TABLE WITHOUT ID ToolAndTechniqueGroup as "Group", rows.file.link as "Tools & Techniques"
+TABLE WITHOUT ID TechniqueGroup as "Group", rows.file.link as "Tools & Techniques"
 FROM #tool-technique
 WHERE contains(this.ToolsTechniques, file.link)
-GROUP BY ToolAndTechniqueGroup
+GROUP BY TechniqueGroup
 ```
 ## [[Expert Judgment]]
 - 

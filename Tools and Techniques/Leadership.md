@@ -1,10 +1,9 @@
 ---
-ToolAndTechniqueGroup: "[[Interpersonal and Team Skills]]"
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: ""
-Type: ""
-Section: 3.4.4
+Section: "3.4.4"
+TechniqueGroup: "[[Interpersonal and Team Skills]]"
 ---
 # 3.4.4 Leadership Skills
 ## Involve the ability to

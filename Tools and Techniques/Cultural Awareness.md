@@ -1,7 +1,6 @@
 ---
-ToolAndTechniqueGroup: "[[Interpersonal and Team Skills]]"
 tags: "tool-technique"
 Description: ""
-Type: ""
+TechniqueGroup: "[[Interpersonal and Team Skills]]"
 ---
 

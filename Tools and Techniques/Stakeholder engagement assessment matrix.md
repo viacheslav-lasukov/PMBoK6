@@ -1,10 +1,9 @@
 ---
 page: .nan
 section: ""
-ToolAndTechniqueGroup: "[[Data Representation]]"
 tags: "tool-technique"
 Description: ""
-Type: ""
+TechniqueGroup: "[[Data Representation]]"
 ---
 
 For each stakeholder, assign a level of engagement:

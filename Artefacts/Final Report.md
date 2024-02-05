@@ -1,11 +1,11 @@
 ---
 tags:
   - artefact
-Description: Provides a summary of the project performance.
+Description: "[[Final Report#Description|📝]]"
 ---
 # Description
-`=this.Description`
-# Includes
+Provides a summary of the project performance.
+## Includes
 - **Summary level description** of the project/phase.
 - **Scope objectives** — the criteria used to evaluate the scope, and evidence that the completion criteria were met.
 - **Quality objectives** — the criteria used to evaluate the project and product quality, the verification and actual milestone delivery dates, and reasons for variances.

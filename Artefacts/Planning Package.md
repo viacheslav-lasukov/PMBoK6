@@ -2,12 +2,10 @@
 Section: "5.4.3.1"
 tags:
   - "baseline-component"
-Categories:
-  - "Baseline Component"
 Description: ""
 ---
 # Description
-[[WBS]] component below the [[Control Account]] and above the [[Work Package]] with known work content but without detailed schedule activities.
+[[Work Breakdown Structure]] component below the [[Control Account]] and above the [[Work Package]] with known work content but without detailed schedule activities.
 # Included in
 ```dataview
 TABLE tags

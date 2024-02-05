@@ -3,7 +3,6 @@ tags:
   - "tool-technique"
   - "meeting"
 Description: ""
-Type: ""
 ---
 # Used in Processes
 ## By Knowledge Area

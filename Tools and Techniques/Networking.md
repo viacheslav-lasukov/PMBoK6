@@ -1,9 +1,8 @@
 ---
-ToolAndTechniqueGroup: "[[Interpersonal and Team Skills]]"
 tags:
-  - tool-technique
-Description: Interacting with others to exchange information and develop contacts. Networks provide project managers and their teams with access to informal organizations to solve problems, influence actions of their stakeholders, and increase stakeholder support for the work and outcomes of the project, thus improving performance.
-Type: ""
+  - "tool-technique"
+Description: "Interacting with others to exchange information and develop contacts. Networks provide project managers and their teams with access to informal organizations to solve problems, influence actions of their stakeholders, and increase stakeholder support for the work and outcomes of the project, thus improving performance."
+TechniqueGroup: "[[Interpersonal and Team Skills]]"
 ---
 # Description
 `=this.Description`

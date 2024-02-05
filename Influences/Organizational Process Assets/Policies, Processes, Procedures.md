@@ -1,8 +1,7 @@
 ---
 tags:
-  - opa
-Category: Policies, Processes, Procedures
-Type: OPA
+  - "opa"
+Category: "Policies, Processes, Procedures"
 Description: "[[Policies, Processes, Procedures#Description|📝]]"
 ---
 # Description

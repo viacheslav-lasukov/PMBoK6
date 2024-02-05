@@ -1,14 +1,13 @@
 ---
-page: .nan
-section: ""
-ToolAndTechniqueGroup: "[[Data Gathering]]"
+page:
+section: "5.2.2.2"
 tags:
-  - tool-technique
-Description: Focus groups bring together prequalified stakeholders and subject matter experts to learn about their expectations and attitudes about a proposed product, service, or result. A trained moderator guides the group through an interactive discussion designed to be more conversational than a one-on-one interview.
-Type: Meeting
+  - "tool-technique"
+Description: "[[Focus Groups#Description|📝]]"
+TechniqueGroup: "[[Data Gathering]]"
 ---
 # Description
-`=this.Description`
+Focus groups bring together prequalified stakeholders and subject matter experts to learn about their expectations and attitudes about a proposed product, service, or result. A trained moderator guides the group through an interactive discussion designed to be more conversational than a one-on-one interview.
 # Used in Processes
 ## By Knowledge Area
 ```dataview

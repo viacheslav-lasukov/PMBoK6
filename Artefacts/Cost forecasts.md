@@ -1,12 +1,10 @@
 ---
 tags:
   - "#project-document"
-Categories:
-  - Project Document
-Description: Either a calculated EAC value or a bottom-up EAC value is documented and communicated to stakeholders.
+Description: "[[Cost forecasts#Description|📝]]"
 ---
 # Description
-`=this.Description`
+Either a calculated EAC value or a bottom-up EAC value is documented and communicated to stakeholders.
 # Included in
 ```dataview
 TABLE tags

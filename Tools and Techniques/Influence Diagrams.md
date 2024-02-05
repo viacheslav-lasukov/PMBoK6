@@ -1,7 +1,8 @@
 ---
-ToolAndTechniqueGroup: "[[Data Analysis]]"
-tags: "tool-technique"
+tags:
+  - "tool-technique"
+  - "diagram"
 Description: ""
-Type: ""
+TechniqueGroup: "[[Data Analysis]]"
 ---
 

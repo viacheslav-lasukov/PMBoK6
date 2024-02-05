@@ -1,9 +1,8 @@
 ---
 tags:
-  - tool-technique
-  - expert-judgment-topic
-Description: Are used to create and connect people to information. effective for sharing simple, unambiguous, codified explicit knowledge.
-Type: ""
+  - "tool-technique"
+  - "expert-judgment-topic"
+Description: "Are used to create and connect people to information. effective for sharing simple, unambiguous, codified explicit knowledge."
 ---
 # Description
 `=this.Description`
@@ -12,7 +11,7 @@ Type: ""
 - [[Lessons Learned Register]]
 - Library services
 - Information gathering, for example, web searches and reading published articles
-- [[Project Management Information System]]
+- [[Project Management Information Systems]]
 # Used in Processes
 ## By Knowledge Area
 ```dataview

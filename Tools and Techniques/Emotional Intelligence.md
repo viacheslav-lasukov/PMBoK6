@@ -1,12 +1,11 @@
 ---
-ToolAndTechniqueGroup: "[[Interpersonal and Team Skills]]"
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: ""
-Type: ""
 Page: 349
 aliases:
-  - EI
+  - "EI"
+TechniqueGroup: "[[Interpersonal and Team Skills]]"
 ---
 # Description
 `=this.Description`

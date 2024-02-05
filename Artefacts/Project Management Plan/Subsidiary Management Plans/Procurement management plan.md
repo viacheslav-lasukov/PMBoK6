@@ -2,8 +2,6 @@
 Section: "12.1.3.1"
 Page: "475"
 tags: "#management-plan"
-Categories:
-  - "Management Plan"
 Description: ""
 ---
 How will you deal with procurement?

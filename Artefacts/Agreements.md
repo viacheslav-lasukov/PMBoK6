@@ -1,10 +1,8 @@
 ---
-Section: 12.2.3.2
+Section: "12.2.3.2"
 Page: 489
 tags:
   - "#project-document"
-Categories:
-  - Project Document
 Description: "[[Agreements#Description|📝]]"
 ---
 # Description
@@ -12,7 +10,7 @@ A contract is a mutually binding agreement that:
 - obligates the seller to provide the specified products, services, or results,
 - obligates the buyer to compensate the seller,
 - represents a legal relationship that is subject to remedy in the courts.
-# Includes
+## Includes
 * Procurement statement of work or major [[Deliverables]]
 * Project and product requirements
 * Schedule, milestones, or date by which a schedule is required

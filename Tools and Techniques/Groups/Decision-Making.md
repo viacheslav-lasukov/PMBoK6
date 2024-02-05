@@ -1,14 +1,14 @@
 ---
-Description: "Used to select a course of action from different alternatives"
+Description: "[[Decision-Making#Description|📝]]"
 tags:
-  - "tool-technique-group"
-  - "meeting"
+  - tool-technique-group
+  - meeting
 ---
+# Decription
+Used to select a course of action from different alternatives.
 # Tools & Techniques
 ```dataview
 TABLE Type
 FROM #tool-technique 
-WHERE ToolAndTechniqueGroup=link(this.file.name)
+WHERE TechniqueGroup=link(this.file.name)
 ```
-
-[[Voting]]

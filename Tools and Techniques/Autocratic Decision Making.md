@@ -1,11 +1,11 @@
 ---
-ToolAndTechniqueGroup: "[[Decision-Making]]"
 tags:
-  - tool-technique
-Description: One individual takes responsibility for making the decision for the group.
+  - "tool-technique"
+Description: "[[Autocratic Decision Making#Description|📝]]"
+TechniqueGroup: "[[Decision-Making]]"
 ---
 # Description
-`=this.Description`
+One individual takes responsibility for making the decision for the group.
 # Used in Processes
 ## By Knowledge Area
 ```dataview

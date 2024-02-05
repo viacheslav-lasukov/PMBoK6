@@ -1,7 +1,8 @@
 ---
-ToolAndTechniqueGroup: "[[Data Representation]]"
-tags: "tool-technique"
+tags:
+  - "tool-technique"
+  - "diagram"
 Description: ""
-Type: "Diagram"
+TechniqueGroup: "[[Data Representation]]"
 ---
 

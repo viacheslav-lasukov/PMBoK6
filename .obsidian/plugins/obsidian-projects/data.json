@@ -405,13 +405,16 @@
     },
     {
       "fieldConfig": {
-        "ToolAndTechniqueGroup": {
-          "richText": true
-        },
         "Description": {
           "richText": true
         },
         "Type": {
+          "richText": false
+        },
+        "Group": {
+          "richText": true
+        },
+        "TechniqueGroup": {
           "richText": true
         }
       },
@@ -452,6 +455,12 @@
               },
               "tags": {
                 "hide": false
+              },
+              "section": {
+                "hide": true
+              },
+              "page": {
+                "hide": true
               }
             }
           },
@@ -481,7 +490,10 @@
         },
         {
           "config": {
-            "groupByField": "ToolAndTechniqueGroup"
+            "groupByField": "ToolAndTechniqueGroup",
+            "includeFields": [
+              "Type"
+            ]
           },
           "filter": {
             "conditions": []
@@ -567,6 +579,9 @@
       "fieldConfig": {
         "tags": {
           "richText": true
+        },
+        "Description": {
+          "richText": true
         }
       },
       "defaultName": "",
@@ -630,6 +645,9 @@
     {
       "fieldConfig": {
         "tags": {
+          "richText": true
+        },
+        "Description": {
           "richText": true
         }
       },
@@ -720,6 +738,12 @@
                 "width": 309
               },
               "tags": {
+                "hide": true
+              },
+              "Category": {
+                "hide": true
+              },
+              "aliases": {
                 "hide": true
               }
             },
@@ -871,119 +895,6 @@
         {
           "config": {
             "fieldConfig": {
-              "tags": {
-                "hide": true
-              },
-              "Categories": {
-                "hide": true
-              },
-              "path": {
-                "hide": true
-              },
-              "Category": {
-                "hide": true
-              }
-            }
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "Categories",
-                "operator": "has-any-of",
-                "enabled": true,
-                "value": "[\"Baseline\"]"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "017209e7-3886-4d59-a161-adca0dc09508",
-          "name": "Baselines",
-          "type": "table"
-        },
-        {
-          "config": {
-            "fieldConfig": {
-              "path": {
-                "hide": true
-              }
-            },
-            "orderFields": [
-              "name",
-              "path",
-              "Category",
-              "Components",
-              "Page",
-              "Section",
-              "Started By",
-              "tags",
-              "Categories"
-            ]
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "Categories",
-                "operator": "has-any-of",
-                "enabled": true,
-                "value": "[\"Baseline Component\"]"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "30943b59-e893-4db1-a731-9d8477682b18",
-          "name": "Baseline Components",
-          "type": "table"
-        },
-        {
-          "config": {
-            "fieldConfig": {
-              "tags": {
-                "hide": true
-              },
-              "path": {
-                "hide": true
-              },
-              "Components": {
-                "hide": true
-              },
-              "Categories": {
-                "hide": true
-              }
-            }
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "Categories",
-                "operator": "has-any-of",
-                "enabled": true,
-                "value": "[\"Additional Component\"]"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "d8a7f46e-3147-4cae-9738-7f702996fa46",
-          "name": "Additional Components",
-          "type": "table"
-        },
-        {
-          "config": {
-            "fieldConfig": {
               "path": {
                 "hide": true
               },
@@ -1017,13 +928,6 @@
     },
     {
       "fieldConfig": {
-        "Influence Type": {
-          "options": [
-            "EEF",
-            "OPA"
-          ],
-          "richText": true
-        },
         "Category": {
           "options": [
             "Policies, Processes, Procedures",
@@ -1037,6 +941,9 @@
             "EEF",
             "OPA"
           ],
+          "richText": true
+        },
+        "Description": {
           "richText": true
         }
       },
@@ -1071,7 +978,7 @@
             },
             "orderFields": [
               "name",
-              "Type",
+              "tags",
               "Category",
               "Description"
             ]

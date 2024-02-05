@@ -1,11 +1,10 @@
 ---
 page: .nan
 section: ""
-ToolAndTechniqueGroup: "[[Data Analysis]]"
 tags:
-  - tool-technique
-Description: Reviewing and assessing any relevant documented information. Elicit requirements by analyzing existing documentation and identifying information relevant to the requirements.
-Type: ""
+  - "tool-technique"
+Description: "Reviewing and assessing any relevant documented information. Elicit requirements by analyzing existing documentation and identifying information relevant to the requirements."
+TechniqueGroup: "[[Data Analysis]]"
 ---
 # Description
 `=this.Description`

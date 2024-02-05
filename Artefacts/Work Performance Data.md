@@ -1,11 +1,11 @@
 ---
-Description: 
+Description: "[[Work Performance Data#Description|📝]]"
 tags:
-  - artefact
+  - "artefact"
 ---
 # Description
-To become [[Work Perfomance Information]], the work performance data are compared with the project management plan components, project documents, and other project variables. This comparison indicates how the project is performing.
-# Examples
+To become [[Work Perfomance Information]], the work performance data are compared with the [[Project Management Plan]] components, project documents, and other project variables. This comparison indicates how the project is performing.
+## Examples
 - work completed
 - KPIs
 - technical performance measures

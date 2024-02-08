@@ -1,21 +1,11 @@
 ---
 tags:
-  - "meeting"
+  - meeting
+Description: "[[Retrospective#Description|📝]]"
 ---
 # Description
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
-
+A meeting held by a project team to discuss:
+- Successful elements in the project/phase
+- What could be improved
+- What to incorporate in the ongoing project and what in future projects
+- What to add to the OPAs

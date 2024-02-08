@@ -3,6 +3,7 @@ tags:
   - tool-technique
 Description: "[[Alternatives Analysis#Description|📝]]"
 TechniqueGroup: "[[Data Analysis]]"
+Section: 9.2.2.5
 ---
 # Description
 Is used to:
@@ -21,20 +22,3 @@ Is used to:
 	- purchasing
 	- renting
 	- leasing
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
-
-

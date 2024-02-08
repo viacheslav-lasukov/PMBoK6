@@ -1,14 +1,14 @@
 ---
 page: .nan
-section: ""
+section: 5.2.2.3
 tags:
-  - "tool-technique"
-Description: "Reviewing and assessing any relevant documented information. Elicit requirements by analyzing existing documentation and identifying information relevant to the requirements."
+  - tool-technique
+Description: "[[Document Analysis#Description|📝]]"
 TechniqueGroup: "[[Data Analysis]]"
 ---
 # Description
-`=this.Description`
-# Examples of Documents
+Reviewing and assessing any relevant documented information. Elicit requirements by analyzing existing documentation and identifying information relevant to the requirements.
+## Examples of Documents
 - [[Agreements]]
 - Business plan
 - Business process or interface documentation
@@ -20,19 +20,3 @@ TechniqueGroup: "[[Data Analysis]]"
 - Regulatory documentation such as laws, codes, or ordinances, etc.
 - Requests for proposal
 - Use cases
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
-

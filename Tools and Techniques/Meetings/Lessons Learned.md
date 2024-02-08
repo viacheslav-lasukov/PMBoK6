@@ -1,6 +1,7 @@
 ---
 tags:
-  - "meeting"
+  - meeting
+  - expert-judgment-topic
 Description: "[[Lessons Learned#Description|📝]]"
 ---
 # Description

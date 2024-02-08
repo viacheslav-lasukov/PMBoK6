@@ -1,12 +1,12 @@
 ---
 KnowledgeArea: "[[11 Risk Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsTechniques: 
-EEFs: 
-OPAs: 
+ToolsTechniques:
+EEFs:
+OPAs:
 tags:
   - "#process"
-TimesPerformed: Throughout the project
+TimesPerformed: "Throughout the project"
 Description: "[[Plan Risk Responses#Description|📝]]"
 Page: 437
 Section: "11.5"

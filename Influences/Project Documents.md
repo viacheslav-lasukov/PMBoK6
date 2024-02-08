@@ -1,6 +1,14 @@
 ---
-Category: "Knowledge Bases"
+Category: Knowledge Bases
 tags:
-  - "opa"
+  - opa
+  - artefact
+Description: "[[Project Documents#Description|📝]]"
 ---
-
+# Description
+## Documents
+```dataview
+LIST
+FROM #project-document 
+SORT file.name
+```

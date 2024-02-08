@@ -1,27 +1,17 @@
 ---
 page: .nan
-section: ""
+Section: 5.2.2.2
 tags:
-  - "tool-technique"
+  - tool-technique
 Description: "[[Questionnaires and surveys#Description|📝]]"
 TechniqueGroup: "[[Data Gathering]]"
 ---
 # Description
-Written sets of questions designed to quickly accumulate information from a large number of respondents. Questionnaires and/or surveys are most appropriate with varied audiences, when a quick turnaround is needed, when respondents are geographically dispersed, and where statistical analysis could be appropriate.
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
-
-
+Written sets of questions designed to quickly accumulate information from a large number of respondents.
+## Appropriate
+- with varied audiences
+- when a quick turnaround is needed
+- when respondents are geographically dispersed
+- where statistical analysis could be appropriate
+## May Be Used to
+- gather data about customer satisfaction after the deployment of the product or service. The cost regarding defects identified in the surveys may be considered external failure costs in the [[Cost of Quality|COQ]] model and can have extensive cost implications for the organization.

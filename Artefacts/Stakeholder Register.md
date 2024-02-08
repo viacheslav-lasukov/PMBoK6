@@ -9,9 +9,8 @@ Description: "[[Stakeholder Register#Description|📝]]"
 # Description
 Contains information about identified stakeholders.
 
-May use [[Stakeholder engagement assessment matrix]]
-
-Levels of engagement
+May use [[Stakeholder engagement assessment matrix]].
+## Levels of engagement
 * Unaware
 * Resistant
 * Neutral

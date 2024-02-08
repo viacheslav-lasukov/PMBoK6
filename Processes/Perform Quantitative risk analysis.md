@@ -1,12 +1,12 @@
 ---
 KnowledgeArea: "[[11 Risk Management]]"
 ProcessGroup: "[[Planning]]"
-ToolsTechniques: 
-EEFs: 
-OPAs: 
+ToolsTechniques:
+EEFs:
+OPAs:
 tags:
   - "#process"
-TimesPerformed: Throughout the project
+TimesPerformed: "Throughout the project"
 Description: "[[Perform Quantitative risk analysis#Description|📝]]"
 Page: 428
 Section: "11.4"

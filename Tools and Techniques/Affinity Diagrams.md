@@ -4,23 +4,9 @@ tags:
   - diagram
 Description: "[[Affinity Diagrams#Description|📝]]"
 TechniqueGroup: "[[Data Representation]]"
+Section: 5.2.2.5
 ---
 # Description
 Allow large numbers of ideas to be classified into groups for review and analysis.
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
 
-
+Can organize potential causes of defects into groups showing areas that should be focused on the most.

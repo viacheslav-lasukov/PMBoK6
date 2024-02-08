@@ -16,3 +16,4 @@ Category: Internal
 - Distribution systems
 - Interfaces to other online automated systems (i.e., corporate knowledge base repositories)
 - Automated gathering and reporting on key performance indicators (KPI)
+- [[Earned Value Analysis|EVM]] Software

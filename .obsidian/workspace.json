@@ -23,23 +23,22 @@
                 }
               },
               {
-                "id": "aa82f8c4b852bab7",
+                "id": "ada5ffec9e15f7fd",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Processes/7.3 Determine Budget.md",
+                    "file": "Processes/9.1 Plan Resource Management.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "d30cbe78abd001e8",
+            "id": "c0a4468b65e4e33a",
             "type": "split",
             "dimension": 37.666666666666664,
             "children": [
@@ -72,11 +71,11 @@
                 ]
               },
               {
-                "id": "7cf61c926007bd1a",
+                "id": "52292130eea7cd66",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "1db08ea8faea650a",
+                    "id": "d4e659b096effe54",
                     "type": "leaf",
                     "state": {
                       "type": "3d_graph_view",
@@ -118,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"earned value management\"",
+                "query": "\"Six Sigma\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,14 +150,6 @@
         "id": "77793a40bf34dd40",
         "type": "tabs",
         "children": [
-          {
-            "id": "fd965bc9e993acf2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
           {
             "id": "c461271a4d5a59c0",
             "type": "leaf",
@@ -174,23 +166,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Processes/7.3 Determine Budget.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "adc5fd924ebb1eb5",
+            "id": "4cc03fc7a1b5ebe6",
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Processes/7.3 Determine Budget.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -211,46 +199,46 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "aa82f8c4b852bab7",
+  "active": "159e3d067e7426a3",
   "lastOpenFiles": [
-    "Artefacts/Cost Estimates.md",
-    "Processes/7.2 Estimate Costs.md",
-    "Artefacts/Basis of Estimates.md",
-    "Tools and Techniques/Three-Point Estimating.md",
-    "Tools and Techniques/Cost of Quality.md",
+    "Processes/9.1 Plan Resource Management.md",
+    "Processes/8.3 Control Quality.md",
+    "Artefacts/Work Perfomance Information.md",
+    "Tools and Techniques/Meetings/Approved Change Requests Review.md",
+    "Tools and Techniques/Control Charts.md",
+    "Tools and Techniques/Testing (Product) Evaluations.md",
+    "Tools and Techniques/Inspections.md",
+    "Tools and Techniques/Root Cause Analysis.md",
+    "Tools and Techniques/Performance Reviews.md",
+    "Tools and Techniques/Technical Performance Analysis.md",
+    "Tools and Techniques/Questionnaires and surveys.md",
+    "Processes/5.2 Collect Requirements.md",
+    "Tools and Techniques/Statistical Sampling.md",
+    "Processes/8.1 Plan Quality Management.md",
+    "Tools and Techniques/Scatter Diagrams.md",
+    "Tools and Techniques/Histograms.md",
+    "Processes/8.2 Manage Quality.md",
+    "Tools and Techniques/Check Sheets.md",
+    "_attachments/Check Sheets.png",
+    "Tools and Techniques/Checklists.md",
+    "Tools and Techniques/Meetings/Retrospective.md",
+    "Influences/Issue and Defect Reporting Procedures and Communication Policies.md",
+    "Influences/Quality Management Standards, Policies, Procedures, Guidelines.md",
+    "Artefacts/Risk Register.md",
+    "Artefacts/Lessons Learned Register.md",
+    "Artefacts/Issue Log.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Quality Management Plan.md",
+    "_attachments/Cause-and-Effect Diagram.png",
+    "_attachments/The SIPOC Model.png",
+    "_attachments/PMBOK Processes Flow by Ricardo Vargas.pdf",
+    "_attachments/TCPI.png",
+    "_attachments/Earned Value Calculations Summary Table.png",
+    "_attachments/Earned Value, Planned Value, and Actual Costs.png",
     "_attachments/Cost of Quality.png",
-    "Tools and Techniques/Reserve Analysis.md",
-    "Tools and Techniques/Expert Judgment Topics/Cost Estimating Methods.md",
-    "Influences/Cost Estimating Templates.md",
-    "Influences/Currency Exchange Rates and Inflation.md",
-    "Artefacts/Work Performance Report.md",
-    "Artefacts/Product, Service, Result Transition.md",
-    "Artefacts/Procurement Documentation.md",
-    "Artefacts/Final Report.md",
-    "Tools and Techniques/Groups/Decision-Making.md",
-    "Tools and Techniques/Meetings/Cost Planning Meeting.md",
-    "Processes/7.1 Plan Cost Management.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Cost Management Plan.md",
-    "Artefacts/Work Breakdown Structure.md",
-    "Mics/Practice Standard for Earned Value Management.md",
-    "Processes/6.1 Plan Schedule Management.md",
-    "Tools and Techniques/Meetings/Schedule Planning Meeting.md",
-    "Processes/6.4 Estimate Activity Durations.md",
-    "Tools and Techniques/Alternatives Analysis.md",
-    "Tools and Techniques/Earned Value Analysis.md",
-    "Influences/Cost Estimating and Budgeting.md",
-    "Influences/Financial Databases.md",
     "_attachments/Example Probability and Impact Matrix with Scoring Scheme.png",
     "_attachments/Example of Definitions for Probability and Impacts.png",
     "_attachments/Pasted image 20240204192107.png",
-    "_attachments/Project Schedule Presentations Examples.png",
-    "_attachments/Relationship Between Product Vision, Release Planning, and Iteration Planning.png",
-    "_attachments/Schedule Compression Comparison.png",
-    "_attachments/Example Probability Distribution of a Target Milestone.png",
-    "_attachments/Resource Leveling.png",
-    "_attachments/Example of Critical Path Method.png",
     "Mics",
-    "_attachments/PMBOK Processes Flow by Ricardo Vargas.pdf",
     "Project Management Plan/Baselines/_attachments",
     "Project Management Plan/Baselines/Components",
     "Artefacts/Project Management Plan/Baselines",

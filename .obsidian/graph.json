@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#process  ",
@@ -26,13 +26,6 @@
       "color": {
         "a": 1,
         "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#business-document  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
       }
     },
     {
@@ -97,6 +90,13 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "tag:#artefact  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +109,6 @@
   "repelStrength": 9.9702179504535,
   "linkStrength": 0.494246649519426,
   "linkDistance": 30,
-  "scale": 0.1501609218072032,
+  "scale": 0.1395119394451247,
   "close": true
 }

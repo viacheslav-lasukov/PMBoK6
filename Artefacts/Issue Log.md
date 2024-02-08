@@ -1,10 +1,12 @@
 ---
 tags:
   - "#project-document"
-Description:
+Description: "[[Issue Log#Description|📝]]"
 Started By: "[[4.3 Direct and Manage Project Work]]"
+Section: 4.3.3.3
 ---
-# Consists of
+Description
+## Includes
 - Issue type
 - Who raised the issue and when
 - Description
@@ -13,10 +15,3 @@ Started By: "[[4.3 Direct and Manage Project Work]]"
 - Target resolution date
 - Status
 - Final solution
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```
-

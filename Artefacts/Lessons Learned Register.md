@@ -19,14 +19,3 @@ At the end of a project or phase, the information is transferred to an OPA [[Les
  * problems
  * realized risks
  * realized opportunities
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```
-
- 
- 
- 
-

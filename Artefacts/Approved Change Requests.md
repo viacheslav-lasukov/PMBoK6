@@ -1,0 +1,22 @@
+---
+tags:
+  - artefact
+---
+# Description
+As part of the [[4.6 Perform Integrated Change Control]] process, a [[change log]] update indicates that some changes are approved and some are not.
+
+[[Change requests]] are processed according to the [[change management plan]] by the [[project manager]], [[Change Control Board|CCB]], or an assigned [[team member]].
+
+As a result, changes may be approved, deferred, or rejected.
+
+[[Approved change requests]] will be implemented through the [[4.3 Direct and Manage Project Work]] process.
+
+Deferred or rejected [[change requests]] are communicated to the person or group requesting the change.
+
+The disposition of all [[change requests]] are recorded in the [[change log]] as a Project Documents update.
+## Examples
+| Knowledge Area                | Examples                                                                                                                                                                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[4 Integration Management]]                              | Corrective action, a preventive action, or a defect repair.                                                                                                                                                                                           | Are scheduled and implemented by the [[project team]] and can impact any area of the [[project]] or [[project management plan]]. Can also modify the formally controlled [[project management plan]] components or Project Documents.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| [[8 Quality Management]]      | Modifications such as defect repairs, revised work methods, and revised schedules.                                                                                                         | Partial change completion may result in inconsistencies and later delays due to incomplete steps or corrections. The implementation of approved changes should be verified, confirmed for completeness, retested, and certified as correct.                                                                                                                                                                                                                |
+| [[12 Procurement Management]] | Modifications to the terms and conditions of the [[Agreement|[[Agreement|contract]]]], including the procurement [[statement of work]], pricing, and descriptions of the products, services, or results to be provided | All changes are formally documented in writing and approved before being implemented through the [[12.3 Control Procurements]] process. In complex [[project]]s and [[program]]s, [[change requests]] may come from [[seller]]s involved with the [[project]] that can influence other involved [[seller]]s. The [[project]] should have the capability of identifying, communicating, and resolving changes that impact the work of multiple [[seller]]s. |

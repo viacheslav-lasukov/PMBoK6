@@ -1,4 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
+Description: "[[Monte Carlo#Description|📝]]"
 ---
+# Description

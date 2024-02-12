@@ -1,13 +1,32 @@
 ---
 Page: 147
-Section: "5.2.3.1"
+Section: 5.2.3.1
 tags:
   - "#project-document"
-  - "expert-judgment-topic"
+  - topic
+  - artefact
 Description: "[[Requirements Documentation#Description|📝]]"
+aliases:
+  - Requirements Document
 ---
 # Description
-Describes how individual requirements meet the business need for the project. Requirements may start out at a high level and become progressively more detailed as more information about the requirements is known. Before being baselined, requirements need to be unambiguous (measurable and testable), traceable, complete, consistent, and acceptable to key stakeholders. The format of the requirements document may range from a simple document listing all the requirements categorized by stakeholder and priority, to more elaborate forms containing an executive summary, detailed descriptions, and attachments.
+Describes how individual requirements meet the [[business need]] for the [[project]]. Requirements may start out at a high level and become progressively more detailed as more information about the requirements is known.
+
+Constraints described in [[Requirements Management Plan]]
+
+Drives [[Requirements Traceability Matrix]]
+## Before being baselined, requirements need to be
+- unambiguous (measurable and testable)
+- traceable
+- complete
+- consistent
+- acceptable to key stakeholders
+## The format of the requirements document may range
+- from a simple document listing all the requirements categorized by stakeholder and priority
+- to more elaborate forms containing:
+	- executive summary
+	- detailed descriptions 
+	- attachments
 # Classification
 - **Business requirements** — Higher-level needs of the organization as a whole, such as the business issues or opportunities, and reasons why a project has been undertaken.
 - **Stakeholder requirements** — Needs of a stakeholder or stakeholder group.
@@ -34,21 +53,3 @@ Describes how individual requirements meet the business need for the project. Re
 	- Tests
 	- Certifications
 	- Validations
-
-constraints described in [[Requirements Management Plan]]
-drives [[Requirements Traceability Matrix]]
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```

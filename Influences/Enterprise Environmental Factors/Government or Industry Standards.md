@@ -1,6 +1,13 @@
 ---
-tags: "eef"
-Description: "Product standards, quality standards, safety standards, and workmanship standards"
-Category: "External"
+tags:
+  - eef
+Description: 
+Category: External
 ---
-
+# Description
+## Examples
+- Product standards
+- quality standards
+- safety standards
+- workmanship standards
+- codes of conduct

@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: "[[Funding Limit Reconciliation#Description|📝]]"
 ---
 # Description

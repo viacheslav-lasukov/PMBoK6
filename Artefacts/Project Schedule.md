@@ -7,9 +7,9 @@ Description: "[[Project Schedule#Description|📝]]"
 # Description
 Is an output of a [[schedule model]] that presents linked activities with planned dates, durations, milestones, and resources.
 
-At a minimum, the project schedule includes a planned start date and planned finish date for each activity. If resource planning is done at an early stage, the project schedule remains preliminary until resource assignments have been confirmed and scheduled start and finish dates are established. This process usually occurs no later than the completion of the project management plan.
+At a minimum, the project schedule includes a planned start date and planned finish date for each activity. If resource planning is done at an early stage, the [[project schedule]] remains preliminary until resource assignments have been confirmed and scheduled start and finish dates are established. This process usually occurs no later than the completion of the [[project management plan]].
 
-A target project schedule model may also be developed with a defined target start and target finish for each activity.
+A target [[Schedule Model]] may also be developed with a defined target start and target finish for each activity.
 
 May be presented in summary form, sometimes referred to as the master schedule or milestone schedule, or presented in detail.
 ## Formats
@@ -21,10 +21,3 @@ May be presented in summary form, sometimes referred to as the master schedule o
 	* "time-scaled logic" diagram showing a time scale and bars that represent the duration of activities with the logical relationships. Optimized to show the relationships between activities where any number of activities may appear on the same line of the diagram in sequence
 ## Example
 ![[Project Schedule Presentations Examples.png]]
-
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```

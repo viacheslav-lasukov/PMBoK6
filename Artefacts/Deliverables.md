@@ -9,9 +9,3 @@ Any unique and verifiable product, result, or capability to perform a service th
 - Approved product specifications
 - Delivery receipts
 - Work performance documents
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```

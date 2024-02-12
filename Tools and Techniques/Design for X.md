@@ -1,10 +1,10 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: "[[Design for X#Description|📝]]"
-Section: 8.2.2.6
+Section: "8.2.2.6"
 aliases:
-  - DfX
+  - "DfX"
 ---
 # Description
 A set of technical guidelines that may be applied during the design of a product for the optimization of a specific aspect of the design.
@@ -24,4 +24,4 @@ Can control or even improve the product's final characteristics.
 - cost reduction
 - quality improvement
 - better performance
-- customer satisfaction
+- [[Customer Satisfaction]]

@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "file: -Ricardo path:-\"_templates\" path:-\"_attachments\"",
+  "search": "file: -Ricardo path:-\"_templates\" path:-\"_attachments\" -path:Mics  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#process  ",
@@ -104,11 +104,11 @@
   "textFadeMultiplier": -1.3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.502165967239746,
   "repelStrength": 9.9702179504535,
   "linkStrength": 0.494246649519426,
   "linkDistance": 30,
-  "scale": 0.1395119394451247,
+  "scale": 0.11694219805242828,
   "close": true
 }

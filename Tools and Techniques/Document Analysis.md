@@ -1,15 +1,16 @@
 ---
 page: .nan
-section: 5.2.2.3
+section: "5.2.2.3"
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "data-analysis"
 Description: "[[Document Analysis#Description|📝]]"
-TechniqueGroup: "[[Data Analysis]]"
 ---
 # Description
 Reviewing and assessing any relevant documented information. Elicit requirements by analyzing existing documentation and identifying information relevant to the requirements.
 ## Examples of Documents
-- [[Agreements]]
+- [[Agreement]]
+- [[Lessons Learned Register]]
 - Business plan
 - Business process or interface documentation
 - Business rules repositories
@@ -18,5 +19,5 @@ Reviewing and assessing any relevant documented information. Elicit requirements
 - Problem/[[Issue Log]]
 - [[Policies, Processes, Procedures]]
 - Regulatory documentation such as laws, codes, or ordinances, etc.
-- Requests for proposal
+- Requests for [[proposal]]
 - Use cases

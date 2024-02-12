@@ -5,7 +5,9 @@ Started By:
 Description: "[[Resource Breakdown Structure#Description|📝]]"
 ---
 # Description
-Hierarchical representation of resources by category and type.
+A hierarchical list of team and physical resources related by category and resource type that is used for planning, managing and controlling project work.
+
+Each descending (lower) level represents an increasingly detailed description of the resource until the information is small enough to be used in conjunction with the [[Work Breakdown Structure|WBS]] to allow the work to be planned, monitored, and controlled.
 ![[Sample Resource Breakdown Structure.png]]
 ## Examples
 - Labor
@@ -16,9 +18,3 @@ Hierarchical representation of resources by category and type.
 - Skill level
 - Grade level
 - Required certifications
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```

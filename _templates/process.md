@@ -26,9 +26,9 @@ FROM #tool-technique
 WHERE contains(this.ToolsTechniques, file.link)
 GROUP BY TechniqueGroup
 ```
-## [[Expert Judgment]]
+## Expert Judgment
 - 
-## [[Meetings]]
+## Meetings
 - 
 # Outputs
 - 

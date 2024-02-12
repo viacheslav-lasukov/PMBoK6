@@ -15,9 +15,3 @@ Description of the project scope, major [[Deliverables]], assumptions, and const
 ## [[Project Charter]] vs. [[Project Scope Statement]]
 The [[Project Charter]] contains high-level information, while the [[Project Scope Statement]] contains a detailed description of the scope components. These components are progressively elaborated throughout the project.
 ![[Project Charter vs Project Scope Statement.png]]
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```

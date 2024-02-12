@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: "[[Decomposition#Description|📝]]"
 Learn More:
   - "[[Practice Standard for Work Breakdown Structures]]"
@@ -15,20 +15,3 @@ Dividing and subdividing the project scope and project deliverables into smaller
 - Verifying that the degree of **decomposition** of the deliverables is appropriate
 ## Example
 ![[Sample WBS Decomposed Down Through Work Packages.png]]
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
-
-

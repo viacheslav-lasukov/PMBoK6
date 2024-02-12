@@ -4,6 +4,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "_attachments",
   "spellcheck": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "propertiesInDocument": "hidden"
 }

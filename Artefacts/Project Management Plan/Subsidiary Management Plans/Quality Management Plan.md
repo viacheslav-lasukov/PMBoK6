@@ -25,7 +25,7 @@ Should be reviewed early in the project to ensure that decisions are based on ac
 - Quality objectives of the project
 - Quality roles and responsibilities
 - Project [[deliverables]] and processes subject to quality review
-- [[Quality control]] and [[8 Quality Management|Quality Management]] activities planned for the project
+- [[8.3 Control Quality|Quality Control]] and [[8 Quality Management|Quality Management]] activities planned for the project
 - Quality tools that will be used for the project
 - Major procedures relevant for the project:
 	- dealing with nonconformance

@@ -1,14 +1,21 @@
 ---
 tags:
-  - tool-technique
-  - meeting
+  - "tool-technique"
+  - "meeting"
 Description: "[[Problem Solving#Description|📝]]"
-Section: 8.2.2.7
+Section: "8.2.2.7"
 ---
 # Description
 Entails finding solutions for issues or challenges.
-
-Problems can arise as a result of the [[8.3 Control Quality]] process or from [[Audits#Quality Audit|Quality Audits]] and can be associated with a process or [[deliverables]].
+## Problems Can Arise
+- as a result of the [[Monitoring and Controlling]] pocesses
+- from [[Audit#Quality Audit|Quality Audits]] and can be associated with a process or [[deliverables]]
+- as a result of the  process
+## Problem Sources
+| Source | Examples |  |
+| ---- | ---- | ---- |
+| Inside the [[organization]] | - machines or infrastructure used by another department in the [[organization]] and not released in time<br>- materials that have been damaged because of unsuitable storage conditions |  |
+| Outside the [[organization]] | - major [[Supplier]] that has gone bankrupt<br>- bad weather that has damaged resources |  |
 ## Includes
 - gathering additional information
 - critical thinking
@@ -16,9 +23,12 @@ Problems can arise as a result of the [[8.3 Control Quality]] process or from [[
 - quantitative approaches
 - logical approaches
 ## Algorythm
-1. Defining the problem
-2. Identifying the [[Root Cause Analysis|root cause]]
-3. Generating possible **solutions**
-4. Choosing the best **solution**
-5. Implementing the **solution**
-6. Verifying **solution** effectiveness
+1. **Identify** the problem. Specify the problem
+2. **Define** the problem
+3. **Investigate**. Collect data.
+4. **Analyze**. Find the [[Root Cause Analysis|root cause]] of the problem
+5. **Generate** possible solutions
+6. **Choose** the suitable solution from a variety of available ones
+7. **Implement** the solution
+8. **Check** the solution. Determine if the problem has been fixed.
+10. **Verify** solution effectiveness

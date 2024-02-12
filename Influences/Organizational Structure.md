@@ -1,6 +1,6 @@
 ---
-Category: "Internal"
+Category: Internal
 tags:
-  - "efa"
+  - eef
 ---
 

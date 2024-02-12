@@ -1,10 +1,10 @@
 ---
 tags:
-  - tool-technique
-  - diagram
+  - "tool-technique"
+  - "diagram"
+  - "data-representation"
 Description: "[[Scatter Diagrams#Description|📝]]"
-TechniqueGroup: "[[Data Representation]]"
-Section: 8.2.2.4
+Section: "8.2.2.4"
 ---
 # Description
 A graph that shows the relationship between two variables.

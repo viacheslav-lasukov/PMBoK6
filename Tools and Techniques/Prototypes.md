@@ -1,8 +1,8 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: "[[Prototypes#Description|📝]]"
-Section: 5.2.2.8
+Section: "5.2.2.8"
 ---
 # Description
 Obtaining early feedback on requirements by providing a model of the expected product before actually building it.
@@ -13,20 +13,3 @@ Prototypes allow stakeholders to experiment with a model of the final product ra
 - computer generated 2D and 3D models
 - mock-ups
 - simulations
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
-
-

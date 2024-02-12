@@ -1,6 +1,7 @@
 ---
-tags: "tool-technique"
-Description: ""
+tags:
+  - "tool-technique"
+Description: "[[Financing#Description|📝]]"
 ---
 # Description
 Acquiring funding for projects.

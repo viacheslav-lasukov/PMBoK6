@@ -16,10 +16,10 @@ Project should meet not only time, cost, scope, and quality. What does success l
 	- Benefit-cost ratio (BCR).
 - Meeting business case nonfinancial objectives;
 - Completing movement of an organization from its current state to the desired future state;
-- Fulfilling contract terms and conditions;
+- Fulfilling [[Agreement|contract]] terms and conditions;
 - Meeting organizational strategy, goals, and objectives;
 - Achieving stakeholder satisfaction;
-- Acceptable customer/end-user adoption;
+- Acceptable [[Customer]]/end-user adoption;
 - Integration of deliverables into the organization's operating environment;
 - Achieving agreed-upon quality of delivery; Meeting governance criteria; and
 - Achieving other agreed-upon success measures or criteria (e.g., process throughput).

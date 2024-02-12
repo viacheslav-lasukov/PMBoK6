@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: "[[Three-Point Estimating#Description|📝]]"
 ---
 # Description

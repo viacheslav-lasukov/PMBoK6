@@ -1,9 +1,9 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "data-analysis"
 Description: "[[<%tp.file.title%>#Description|📝]]"
-TechniqueGroup: "[[Data Analysis]]"
-Section: 8.2.2.2
+Section: "8.2.2.2"
 ---
 # Description
 identifies opportunities for process improvements.

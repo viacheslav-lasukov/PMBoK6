@@ -1,7 +1,7 @@
 ---
 tags:
-  - tool-technique
-  - scheduling
+  - "tool-technique"
+  - "scheduling"
 Description: "[[Leads and Lags#Description|📝]]"
 ---
 # Description
@@ -13,19 +13,3 @@ Description: "[[Leads and Lags#Description|📝]]"
 ![[Examples of Lead and Lag.png]]
 ## Drives
 [[Schedule Network Diagram]]
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
-

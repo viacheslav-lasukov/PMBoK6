@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: "[[Cost Aggregation#Description|📝]]"
 ---
 # Description

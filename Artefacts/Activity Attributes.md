@@ -18,10 +18,4 @@ Extend the description of the activity by identifying multiple components associ
 - resource requirements
 - imposed dates
 - constraints
-- assumptions
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```
+- [[Assumption Log|assumptions]]

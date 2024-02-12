@@ -1,14 +1,14 @@
 ---
 tags:
-  - tool-technique
-  - diagram
-  - scheduling
+  - "tool-technique"
+  - "diagram"
+  - "scheduling"
 Description: "[[Precedence Diagramming Method#Description|📝]]"
 aliases:
-  - PDM
+  - "PDM"
 ---
 # Description
-Constructing a schedule model in which activities are represented by nodes and are graphically linked by one or more logical relationships to show the sequence in which the activities are to be performed.
+Constructing a [[Schedule Model]] in which activities are represented by nodes and are graphically linked by one or more logical relationships to show the sequence in which the activities are to be performed.
 
 **Predecessor** activity — activity that logically comes before a dependent activity in a schedule.
 **Successor** activity — dependent activity that logically comes after another activity in a schedule.
@@ -27,20 +27,3 @@ Constructing a schedule model in which activities are represented by nodes and a
 - Closed loops are also not recommended in logical relationships.
 ## Example
 ![[PDM Relationship Types.png]]
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
-
-

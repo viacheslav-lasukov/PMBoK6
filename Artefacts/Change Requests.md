@@ -5,9 +5,25 @@ tags:
   - "artefact"
 Description: "[[Change Requests#Description|📝]]"
 ---
-List of  `Change requests` - unapproved changes, before they land in the [[Change Log]]
 # Description
-Formal proposal to modify any document, [[Deliverables|deliverable]], or baseline. When issues are found while project work is being performed, **change requests** can be submitted, which may modify project policies or procedures, [[project scope]] or [[product scope]], project cost or budget, project schedule, or quality of the project or product results. Other change requests cover the needed preventive or corrective actions to forestall negative impact later in the project. Any project stakeholder may request a change. [[Change requests]] are processed for review and disposition through the [[4.6 Perform Integrated Change Control]] process.
+Formal [[proposal]] to modify any document, [[Deliverables|deliverable]], or baseline. Unapproved changes, before they land in the [[Change Log]].
+
+When issues are found **while project work is being performed**, [[change requests]] which may modify:
+- [[Project Management Plan]]
+- [[Project Management Plan]] components
+- Project documents
+- Activities
+- [[Deliverables]]
+- project policies or procedures
+- [[project scope]]
+- [[product scope]]
+- project cost or budget
+- [[project schedule]]
+- quality of the project or product results
+
+Other [[change requests]] cover the needed preventive or corrective actions to forestall negative impact later in the project. Any of [[stakeholders]] may request a change.
+
+Are processed for review and disposition through the [[4.6 Perform Integrated Change Control]] process.
 ## Can Be Initiated from
 - Inside the project
 - Outside the project

@@ -1,6 +1,5 @@
 [
   "templater-obsidian",
-  "table-editor-obsidian",
   "obsidian-code-block-enhancer",
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
@@ -16,5 +15,8 @@
   "3d-graph",
   "obsidian-plantuml",
   "obsidian42-brat",
-  "inline-frontmatter-sync"
+  "inline-frontmatter-sync",
+  "3d-graph-new",
+  "sheets",
+  "table-editor-obsidian"
 ]

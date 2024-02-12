@@ -1,9 +1,9 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "decision-making"
 Description: "[[Multicriteria Decision Analysis#Description|📝]]"
-TechniqueGroup: "[[Decision-Making]]"
-Section: 8.1.2.4
+Section: "8.1.2.4"
 ---
 # Description
 Uses a decision matrix to provide a systematic analytical approach for establishing criteria, such as risk levels, uncertainty, and valuation, to evaluate and rank many ideas.
@@ -16,5 +16,16 @@ Criteria are prioritized and weighted before being applied to all available alte
 | ---- | ---- |
 | **Project** decisions | Choosing among different implementation scenarios or suppliers. |
 | **Product** decisions | Evaluating the life cycle cost, schedule, stakeholder satisfaction, and risks associated with resolving product defects. |
+## Criterias
+### Resources
+- **Availability**. Verify that the resource is available to work on the project within the time period needed.
+- **Cost**. Verify if the cost of adding the resource is within the prescribed budget.
+- **Ability**. Verify that the team member provides the capability needed by the project.
+- **Experience**. Verify that the team member has the relevant experience that will contribute to the project success.
+- **Knowledge**. Consider if the team member has relevant knowledge of the [[Customer]], similar implemented projects, and nuances of the [[project environment]].
+- **Skills**. Determine if the team member has the relevant skills to use a project tool.
+- **Attitude**. Determine if the team member has the ability to work with others as a cohesive team.
+- **International factors**. Consider team member location, time zone, and communication capabilities.
 ## Examples
 - Prioritization matrix
+

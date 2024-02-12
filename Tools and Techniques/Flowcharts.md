@@ -1,9 +1,9 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "data-representation"
 Description: "[[Flowcharts#Description|📝]]"
-TechniqueGroup: "[[Data Representation]]"
-Section: 8.1.2.5
+Section: "8.1.2.5"
 ---
 # Description
 aka Process maps
@@ -17,5 +17,5 @@ Flowcharts may prove useful in understanding and estimating the [[Cost of Qualit
 Information is obtained by using the workflow branching logic and associated relative frequencies to estimate the expected monetary value for the conformance and nonconformance work required to deliver the expected conforming output. When flowcharts are used to represent the steps in a process, they are sometimes called process flows or process flow diagrams and they can be used for process improvement as well as identifying where quality defects can occur or where to incorporate quality checks.
 ## Versions
 ### SIPOC
-suppliers, inputs, process, outputs, and customers
+suppliers, inputs, process, outputs, and [[Customer]]s
 ![[The SIPOC Model.png]]

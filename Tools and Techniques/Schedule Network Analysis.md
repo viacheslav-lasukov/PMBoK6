@@ -1,8 +1,8 @@
 ---
 tags:
-  - tool-technique
-  - scheduling
-Description: ""
+  - "tool-technique"
+  - "scheduling"
+Description: "[[Schedule Network Analysis#Description|📝]]"
 ---
 # Description
 Generates the project [[schedule model]].

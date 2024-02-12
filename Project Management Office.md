@@ -1,0 +1,25 @@
+---
+tags:
+  - department
+aliases:
+  - PMO
+---
+An organizational structure that standardizes the [[project]]-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques.
+###### Types of [[Project Management Office|PMO]] in Organizations
+- Supportive. Provides a consultative role to projects by supplying templates, best practices, training, access to information, and lessons learned from other projects. This type of PMO serves as a project repository. The degree of control provided by the PMO is low.
+- Controlling. Provides support and require compliance through various means. The degree of control provided by the [[Project Management Office|PMO]] is moderate. Compliance may involve:
+	- Adoption of project management frameworks or methodologies
+	- Use of specific templates, forms, and tools  
+	- Conformance to governance frameworks
+- Directive. Takes control of the projects by directly managing the projects. [[Project manager]]s are assigned by and report to the [[Project Management Office|PMO]]. The degree of control provided by the [[Project Management Office|PMO]] is high.
+###### [[Project Management Office|PMO]]'s Authority
+- Make recommendations
+- Lead [[knowledge transfer]]
+- Terminate projects
+###### [[Project Management Office|PMO]]'s Functions/Responsibility
+- Managing shared resources across all projects administered by the [[Project Management Office|PMO]]
+- Identifying and developing project management methodology, best practices, and standards
+- [[Coaching]], [[mentoring]], [[training]], and oversight
+- Monitoring compliance with project management standards, policies, procedures, and templates by means of project [[audit]]s
+- Developing and managing project policies, procedures, templates, and other shared documentation (organizational process assets)
+- Coordinating communication across projects

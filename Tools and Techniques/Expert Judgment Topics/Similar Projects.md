@@ -1,8 +1,8 @@
 ---
 tags:
-  - expert-judgment-topic
+  - topic
   - opa
 Description: "[[Similar Projects#Description|📝]]"
-Category: Knowledge Base
+Category: Knowledge Bases
 ---
 # Description

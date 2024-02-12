@@ -1,8 +1,8 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "data-analysis"
 Description: "[[What-if Scenario Analysis#Description|📝]]"
-TechniqueGroup: "[[Data Analysis]]"
 ---
 # Description
 The process of evaluating scenarios in order to predict their effect, positive or negative, on [[project objectives]]. This is an analysis of the question, "*What if the situation represented by scenario X happens?*"

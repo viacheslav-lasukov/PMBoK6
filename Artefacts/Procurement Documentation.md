@@ -1,20 +1,19 @@
 ---
 tags:
   - artefact
-  - project-document
 Description: "[[Procurement Documentation#Description|📝]]"
+aliases:
+  - Procurement Documents
 ---
 # Description
-Contains complete supporting records for administration of the procurement processes.
-## Includes
-- Statement of work
-- Payment information
-- Contractor work performance information
-- Plans
-- Drawings
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```
+Contains complete supporting records for administration of the [[12 Procurement Management|procurement]] processes.
+## List of [[Procurement Documentation]]
+- [[Procurement Management Plan]]
+- [[Procurement Strategy]]
+- [[Statement of Work]] / [[Terms of Reference]]
+- [[Bidding Documents|Bid Documents]]
+- [[Independent Cost Estimates]]
+- [[Source Selection Criteria]]
+- [[Agreement]]
+### Comparison
+![[Comparison of Procurement Documentation.png]]

@@ -36,7 +36,7 @@ SORT name
 | Complexity of stakeholder relationships | How complex are the relationships within the stakeholder community?<br>The more networks a stakeholder or stakeholder group participates in, the more complex the networks of information and misinformation the stakeholder may receive. |
 | Communication technology | - What communication technology is available?<br>- What support mechanisms are in place to ensure that best value is achieved from the technology? |
 
-# In Agile/Adaptive Environments
+# In [[Agile Life Cycle|Agile]] Environments
 - To facilitate timely, productive discussion and decision making, adaptive teams engage with stakeholders directly rather than going through layers of management.
 - Client, user, and developer exchange information in a dynamic co-creative process that leads to more stakeholder involvement and higher satisfaction.
 - Regular interactions with the stakeholder community throughout the project mitigate risk, build trust, and support adjustments earlier in the project cycle, thus reducing costs and increasing the likelihood of success for the project.

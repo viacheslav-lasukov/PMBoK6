@@ -1,9 +1,9 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "data-analysis"
 Description: "[[Alternatives Analysis#Description|📝]]"
-TechniqueGroup: "[[Data Analysis]]"
-Section: 9.2.2.5
+Section: "9.2.2.5"
 ---
 # Description
 Is used to:

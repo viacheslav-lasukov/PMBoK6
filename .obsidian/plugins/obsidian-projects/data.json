@@ -454,12 +454,30 @@
                 "hide": true
               },
               "tags": {
-                "hide": false
+                "hide": true
               },
               "section": {
                 "hide": true
               },
               "page": {
+                "hide": true
+              },
+              "Page": {
+                "hide": true
+              },
+              "Learn More": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "Category": {
+                "hide": true
+              },
+              "Description": {
+                "width": 448
+              },
+              "Section": {
                 "hide": true
               }
             }
@@ -472,11 +490,6 @@
           },
           "sort": {
             "criteria": [
-              {
-                "field": "ToolAndTechniqueGroup",
-                "order": "asc",
-                "enabled": true
-              },
               {
                 "field": "name",
                 "order": "asc",
@@ -487,93 +500,10 @@
           "id": "51957d5b-e180-4115-95f0-ce077643aa06",
           "name": "All",
           "type": "table"
-        },
-        {
-          "config": {
-            "groupByField": "ToolAndTechniqueGroup",
-            "includeFields": [
-              "Type"
-            ]
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": [
-              {
-                "field": "name",
-                "order": "asc",
-                "enabled": true
-              }
-            ]
-          },
-          "id": "84f59796-52b9-43d0-adae-2247870dc4a0",
-          "name": "By Group",
-          "type": "board"
         }
       ],
       "id": "b19f6233-cc98-430e-885f-841f8554ad67",
       "name": "Tools And Techniques"
-    },
-    {
-      "fieldConfig": {
-        "Description": {
-          "richText": true
-        },
-        "tags": {}
-      },
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
-          "path": "Tools and Techniques/Groups",
-          "recursive": false
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {
-            "orderFields": [
-              "name",
-              "path",
-              "tags",
-              "Description"
-            ],
-            "fieldConfig": {
-              "Description": {
-                "width": 652
-              },
-              "path": {
-                "hide": true
-              },
-              "tags": {
-                "hide": true
-              }
-            }
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "d0222552-e893-4ac3-a289-78fe1ead4e4c",
-          "name": "All",
-          "type": "table"
-        }
-      ],
-      "id": "7bd38768-1088-44f5-803e-a971ccceaa97",
-      "name": "Tools & Techniques Groups"
     },
     {
       "fieldConfig": {
@@ -586,16 +516,18 @@
       },
       "defaultName": "",
       "templates": [],
-      "excludedNotes": [],
+      "excludedNotes": [
+        "_templates/expert_judgment_topic.md"
+      ],
       "isDefault": false,
       "dataSource": {
-        "kind": "folder",
+        "kind": "tag",
         "config": {
-          "path": "Tools and Techniques/Expert Judgment Topics",
-          "recursive": false
+          "tag": "#topic",
+          "hierarchy": false
         }
       },
-      "newNotesFolder": "",
+      "newNotesFolder": "Tools and Techniques/Expert Judgment Topics",
       "views": [
         {
           "config": {
@@ -640,7 +572,7 @@
         }
       ],
       "id": "af0245b3-43fd-4f85-ba09-fdfbb1b3a460",
-      "name": "Expert Judgment Topics"
+      "name": "Topics"
     },
     {
       "fieldConfig": {
@@ -662,13 +594,19 @@
           "hierarchy": false
         }
       },
-      "newNotesFolder": "",
+      "newNotesFolder": "Tools and Techniques/Meetings",
       "views": [
         {
           "config": {
             "fieldConfig": {
               "path": {
                 "width": 480,
+                "hide": true
+              },
+              "name": {
+                "width": 401
+              },
+              "aliases": {
                 "hide": true
               }
             },
@@ -1001,74 +939,6 @@
           "id": "3a7779ed-c7fe-4fda-ab98-7bb8838f6010",
           "name": "Table",
           "type": "table"
-        },
-        {
-          "config": {
-            "includeFields": [
-              "Description"
-            ],
-            "groupByField": "Category"
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "Type",
-                "operator": "is",
-                "enabled": true,
-                "value": "EEF"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "9a1c3f81-6524-46ff-bd97-b0affb16413b",
-          "name": "EEFs",
-          "type": "board"
-        },
-        {
-          "config": {
-            "groupByField": "Category",
-            "includeFields": [
-              "Description"
-            ],
-            "columns": {
-              "Knowledge Bases": {
-                "weight": 0
-              },
-              "Policies, Processes, Procedures": {
-                "weight": 1
-              },
-              "Internal": {
-                "weight": 2
-              },
-              "External": {
-                "weight": 3
-              }
-            }
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "Type",
-                "operator": "is",
-                "enabled": true,
-                "value": "OPA"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "b51585c9-bf0d-4797-a6e5-ba230299d0cc",
-          "name": "OPAs",
-          "type": "board"
         }
       ],
       "id": "d6343173-d710-4d7c-9523-ba4ebc59cd8a",

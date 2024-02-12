@@ -1,9 +1,9 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "data-representation"
 Description: "[[Histograms#Description|📝]]"
-TechniqueGroup: "[[Data Representation]]"
-Section: 8.2.2.4
+Section: "8.2.2.4"
 ---
 # Description
 Show a graphical representation of numerical data.

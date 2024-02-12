@@ -5,17 +5,23 @@ tags:
 Description: "[[Team Charter#Description|📝]]"
 ---
 # Description
-A document that establishes the team values, agreements, and operating guidelines for the team.
+A document that establishes:
+- team values
+- team agreements
+- operating guidelines for the team
+- clear expectations regarding acceptable behavior by [[project team]] members
 
-Establishes clear expectations regarding acceptable behavior by project team members.
+Discussing the following topics allows team members to discover values that are important to one another.
+- codes of conduct
+- communication
+- decision making
+- meeting etiquette
 
-Discussing areas such as codes of conduct, communication, decision making, and meeting etiquette allows team members to discover values that are important to one another.
+The [[team charter]] works best when the team develops it, or at least has an opportunity to contribute to it.
 
-The team charter works best when the team develops it, or at least has an opportunity to contribute to it.
+All [[project team]] members share responsibility for ensuring the rules documented in the team charter are followed.
 
-All project team members share responsibility for ensuring the rules documented in the team charter are followed.
-
-The team charter can be reviewed and updated periodically to ensure a continued understanding of the team ground rules and to orient and integrate new team members.
+The [[team charter]] can be reviewed and updated periodically to ensure a continued understanding of the team [[ground rules]] and to orient and integrate new team members.
 ## Includes
 - Team values
 - Communication guidelines

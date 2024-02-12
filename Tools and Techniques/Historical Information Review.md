@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: "[[Historical Information Review#Description|📝]]"
 ---
 # Description

@@ -4,7 +4,7 @@ tags:
   - "artefact"
 ---
 # Description
-To become [[Work Perfomance Information]], the work performance data are compared with the [[Project Management Plan]] components, project documents, and other project variables. This comparison indicates how the project is performing.
+To become [[Work Performance Information]], the [[work performance data]] are compared with the [[Project Management Plan]] components, project documents, and other project variables. This comparison indicates how the project is performing.
 ## Examples
 - work completed
 - KPIs
@@ -15,11 +15,6 @@ To become [[Work Perfomance Information]], the work performance data are compare
 - schedule progress
 - number of [[Change Requests]]
 - number of defects
-- actual costs incurred
+- [[Actual Cost|AC]]s incurred
 - actual durations
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```
+- types and quantities of communications that have actually been distributed

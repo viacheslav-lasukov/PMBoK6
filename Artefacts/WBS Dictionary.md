@@ -1,7 +1,8 @@
 ---
-Section: "5.4.3.1"
+Section: 5.4.3.1
 tags:
-  - "baseline-component"
+  - baseline-component
+  - artefact
 Description: "[[WBS Dictionary#Description|📝]]"
 ---
 # Description
@@ -19,9 +20,3 @@ A document that provides detailed [[Deliverables|deliverable]], activity, and sc
 - Acceptance criteria
 - Technical references
 - Agreement information
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```

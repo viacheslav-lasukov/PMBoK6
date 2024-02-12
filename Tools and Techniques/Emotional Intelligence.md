@@ -1,27 +1,18 @@
 ---
 tags:
   - "tool-technique"
-Description: ""
+  - "interpersonal-team-skill"
+Description: "[[Emotional Intelligence#Description|📝]]"
 Page: 349
 aliases:
   - "EI"
-TechniqueGroup: "[[Interpersonal and Team Skills]]"
+Section: "9.5.2.1"
 ---
 # Description
-`=this.Description`
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
+The ability to identify, assess, and manage the personal emotions of oneself and other people, as well as the collective emotions of groups of people.
 
+The team can use [[emotional intelligence]] to reduce tension and increase cooperation by:
+- identifying, assessing, and controlling the sentiments of [[team member]]s
+- anticipating their actions
+- acknowledging their concerns
+- following up on their issues

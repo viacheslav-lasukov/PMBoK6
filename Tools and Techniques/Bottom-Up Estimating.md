@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: "[[Bottom-Up Estimating#Description|📝]]"
 ---
 # Description

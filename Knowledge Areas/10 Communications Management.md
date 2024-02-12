@@ -11,7 +11,7 @@ WHERE KnowledgeArea=link(this.file.name)
 SORT name
 ```
 # Key Concepts
-- **Communication** is the exchange of information, intended or involuntary, between individuals and/or groups.
+- Communication is the exchange of information, intended or involuntary, between individuals and/or groups.
 - Communications describes the means by which information can be sent or received, either through communication activities, such as meetings and presentations, or artifacts, such as emails, social media, project reports, or project documentation.
 - Effective communication creates a bridge between diverse stakeholders whose differences will generally have an impact or influence upon the project execution or outcome, so it is vital that all communication is clear and concise.
 - Communication takes place consciously or unconsciously through words, facial expressions, gestures and other actions. It includes developing strategies and plans for suitable communications artifacts, and the application of skills to enhance effectiveness.
@@ -27,9 +27,9 @@ SORT name
 - **Through gestures**. Tone of voice and facial expressions
 - **Through media**. Pictures, actions, or even just the choice of words
 - **Choice of words**. There is often more than one word to express an idea; there can be subtle differences in the meaning of each of these words and phrases.
-## Communication Activities Dimensions:
+## Communication Activities Dimensions
 - **Internal**. Focus on stakeholders within the project and within the organization.
-- **External**. Focus on external stakeholders such as customers, vendors, other projects, organizations, government, the public, and environmental advocates.
+- **External**. Focus on external stakeholders such as [[Customer]]s, vendors, other projects, organizations, government, the public, and environmental advocates.
 - **Formal**. Reports, formal meetings (both regular and ad hoc), meeting agendas and minutes, stakeholder briefings, and presentations.
 - **Informal**. General communications activities using emails, social media, websites, and informal ad hoc discussions.
 - **Hierarchical focus**. The position of the stakeholder or group with respect to the project team will affect the format and content of the message, in the following ways:
@@ -53,18 +53,17 @@ SORT name
 	- Persuading a person, a team, or an organization to perform an action;
 	- Motivating people and providing encouragement or reassurance;
 	- Coaching to improve performance and achieve desired results;
-	- Negotiating to achieve mutually acceptable agreements between parties and reduce approval or decision delays; and
+	- Negotiating to achieve mutually acceptable [[agreement]]s between parties and reduce approval or decision delays; and
 	- Resolving conflict to prevent disruptive impacts.
 ## Fundamental attributes of effective communication activities and developing effective communication artifacts
 - Clarity on the purpose of the communication—defining its purpose;
 - Understanding as much as possible about the receiver of the communications, meeting needs, and preferences;
 - Monitoring and measuring the effectiveness of the communications.
-
 # Trends and Emerging Practices
 - **Inclusion of stakeholders in project reviews**
 - **Inclusion of stakeholders in project meetings**
 - **Increased use of social computing**. Social computing incorporates different approaches to collaboration supported by public IT infrastructure. Social networking refers to how users build networks of relationships to explore their interests and activities with others. Social media tools can not only support information exchange, but also build relationships accompanied by deeper levels of trust and community.
-- **Multifaceted approaches to communication**. The standard communication strategy for project stakeholder communications embraces and selects from all technologies and respects cultural, practical, and personal preferences for language, media, content, and delivery. When appropriate, social media and other advanced computing technologies may be included. Multifaceted approaches such as these are more effective for communicating to stakeholders from different generations and cultures.
+- **Multifaceted approaches to communication**. The standard [[Communication Strategy]] for project stakeholder communications embraces and selects from all technologies and respects cultural, practical, and personal preferences for language, media, content, and delivery. When appropriate, social media and other advanced computing technologies may be included. Multifaceted approaches such as these are more effective for communicating to stakeholders from different generations and cultures.
 # Tailoring Considerations
 | Aspect | Useful Questions |
 | ---- | ---- |
@@ -73,8 +72,7 @@ SORT name
 | Communications technology | - What technology is available to develop, record, transmit, retrieve, track, and store communication artifacts?<br>- What technologies are most appropriate and cost effective for communicating to stakeholders? |
 | Language | - Is one language used? Or are many languages used?<br>- Have allowances been made to adjust to the complexity of team members from diverse language groups? |
 | Knowledge management | - Does the organization have a formal knowledge management repository?<br>- Is the repository used? |
-
-# In Agile/Adaptive Environments
+# In [[Agile Life Cycle|Agile]] Environments
 - streamline team member access to information
 - frequent team checkpoints
 - colocate team members as much as possible

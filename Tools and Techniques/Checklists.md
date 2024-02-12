@@ -1,10 +1,13 @@
 ---
-page: .nan
-Section: 11.2.2.2
+page:
+Section: "11.2.2.2"
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "eef"
+  - "opa"
+  - "data-gathering"
 Description: "[[Checklists#Description|📝]]"
-TechniqueGroup: "[[Data Gathering]]"
+Category: "Policies, Processes, Procedures"
 ---
 # Description
 A list of items, actions, or points to be considered. It is often used as a reminder.

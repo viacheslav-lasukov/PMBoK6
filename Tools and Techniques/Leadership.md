@@ -1,24 +1,24 @@
 ---
 tags:
   - "tool-technique"
-Description: ""
+  - "interpersonal-team-skill"
+Description: "[[Leadership#Description|📝]]"
 Section: "3.4.4"
-TechniqueGroup: "[[Interpersonal and Team Skills]]"
 ---
-# 3.4.4 Leadership Skills
-## Involve the ability to
+# Description
+##### Involve the ability to
 - guide
 - motivate
 - direct
 a team.
-## Include Demonstrating
+##### Include Demonstrating
 - [[Negotiation]]
 - resilience
 - communication
 - [[Problem Solving]]
 - critical thinking
 - interpersonal skills
-## 3.4.4.2 Qualities and Skills of a Leader
+#### Qualities and Skills of a Leader
 - Being a visionary (e.g., help to describe the products, goals, and objectives of the project; able to dream and translate those dreams for others);
 - Being optimistic and positive; Being collaborative;
 - Managing relationships and conflict by:
@@ -48,7 +48,7 @@ a team.
 - Having a holistic and systemic view of the project, taking into account internal and external factors equally;
 - Being able to apply critical thinking (e.g., application of analytical methods to reach decisions) and identify him or herself as a change agent.
 - Being able to build effective teams, be service-oriented, and have fun and share humor effectively with team members.
-## 3.4.4.3 Forms of Power
+#### Forms of Power
 - Positional (sometimes called formal, authoritative, legitimate) (e.g., formal position granted in the organization or team);
 - Informational (e.g., control of gathering or distribution);
 - Referent (e.g., respect or admiration others hold for the individual, credibility gained);
@@ -63,7 +63,7 @@ a team.
 - Guilt-based (e.g., imposition of obligation or sense of duty);
 - Persuasive (e.g., ability to provide arguments that move people to a desired course of action); and
 - Avoiding (e.g., refusing to participate).
-# 3.4.5 Leadership vs. Managmenet
+### Leadership vs. Managmenet
 | Management | Leadership |
 | ---- | ---- |
 | Direct using positional power | Guide, influence, and collaborate using relational power |
@@ -77,20 +77,20 @@ a team.
 | Accept status quo | Challenge status quo |
 | Do things right | Do the right things |
 | Focus on operational issues and problem solving | Focus on vision, alignment, motivation, and inspiration |
-## 3.4.5.1 Leadership Styles
-### Factors to Consider
+#### Leadership Styles
+##### Factors to Consider
 - **Leader characteristics** (e.g., attitudes, moods, needs, values, ethics);
 - **Team member characteristics** (e.g., attitudes, moods, needs, values, ethics);
 - **Organizational characteristics** (e.g., its purpose, structure, and type of work performed); and
 - **Environmental characteristics** (e.g., social situation, economic state, and political elements).
-### Styles
+##### Styles
 - **Laissez-faire** (e.g., allowing the team to make their own decisions and establish their own goals, also referred to as taking a hands-off style);
 - **Transactional** (e.g., focus on goals, feedback, and accomplishment to determine rewards; management by exception);
 - **Servant leader** (e.g., demonstrates commitment to serve and put other people first; focuses on other people's growth, learning, development, autonomy, and well-being; concentrates on relationships, community and collaboration; leadership is secondary and emerges after service);
 - **Transformational** (e.g., empowering followers through idealized attributes and behaviors, inspirational motivation, encouragement for innovation and creativity, and individual consideration);
 - **Charismatic** (e.g., able to inspire; is high-energy, enthusiastic, self- confident; holds strong convictions); and
 - **Interactional** (e.g., a combination of transactional, transformational, and charismatic).
-## 3.4.5.2 Personality Characteristics
+#### Personality Characteristics
 - **Authentic** (e.g., accepts others for what and who they are, show open concern);
 - **Courteous** (e.g., ability to apply appropriate behavior and etiquette);
 - **Creative** (e.g., ability to think abstractly, to see things differently, to innovate);

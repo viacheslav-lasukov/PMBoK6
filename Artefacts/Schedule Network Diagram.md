@@ -16,10 +16,4 @@ Activities that have multiple predecessor activities indicate a path **convergen
 Activities that have multiple successor activities indicate a path **divergence**.
 
 Activities with divergence and convergence are at greater risk as they are affected by multiple activities or can affect multiple activities. Activity I is called a path convergence, as it has more than one predecessor, while activity K is called a path divergence, as it has more than one successor.
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```
 

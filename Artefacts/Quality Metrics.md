@@ -12,5 +12,5 @@ Describes a project or product attribute and how the [[8.3 Control Quality]] pro
 - failure rate, number of defects identified per day
 - total downtime per month
 - errors found per line of code
-- customer satisfaction scores
-- percentage of requirements covered by the [[test plan]] as a measure of [[test coverage]]
+- [[Customer Satisfaction]] scores
+- percentage of requirements covered by the [[Test Plan]] as a measure of [[Test Coverage]]

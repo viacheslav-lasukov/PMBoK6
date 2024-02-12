@@ -8,8 +8,10 @@ aliases:
   - "BA Plan"
 ---
 # Description
-Describes how project and product requirements will be analyzed, documented, and managed.
-# Includes
+The component of the [[Project Management Plan]].
+
+Describes how [[project requirements]] and [[product requirements]] will be analyzed, documented, and managed.
+## Includes
 - How requirements activities will be planned, tracked, and reported
 - [[Configuration Management]] activities
 	- how changes will be initiated

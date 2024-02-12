@@ -1,7 +1,7 @@
 ---
 tags:
-  - tool-technique
-  - scheduling
+  - "tool-technique"
+  - "scheduling"
 Description: "[[Schedule Compression#Description|📝]]"
 ---
 # Description

@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 Description: "[[Parametric Estimating#Description|📝]]"
 ---
 # Description

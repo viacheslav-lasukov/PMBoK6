@@ -1,10 +1,10 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "data-analysis"
 Description: "[[Cost of Quality#Description|📝]]"
-TechniqueGroup: "[[Data Analysis]]"
 aliases:
-  - COQ
+  - "COQ"
 ---
 # Description
 ## Components

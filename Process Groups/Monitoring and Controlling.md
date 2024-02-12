@@ -1,5 +1,8 @@
 ---
-tags: "process-group"
+tags:
+  - process-group
+aliases:
+  - Monitor and Control
 ---
 # Processes
 ```dataview

@@ -1,11 +1,11 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
+  - "data-gathering"
 Description: "[[Check Sheets#Description|📝]]"
-TechniqueGroup: "[[Data Gathering]]"
-Section: 8.3.2.1
+Section: "8.3.2.1"
 aliases:
-  - Tally Sheets
+  - "Tally Sheets"
 ---
 # Description
 Are used to organize facts in a manner that will facilitate the effective collection of useful data about a potential quality problem.s

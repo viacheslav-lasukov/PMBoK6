@@ -1,11 +1,13 @@
 ---
-tags: "#project-document"
-Description: ""
+tags:
+  - "#project-document"
+Description: "[[Project Communications#Description|📝]]"
+Section: 10.2.3.2
 ---
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```
-
+# Description
+## Examples
+- [[Work Performance Report]]
+- [[Deliverables|deliverable]] status
+- Schedule progress
+- Cost incurred
+- [[Presentations]]

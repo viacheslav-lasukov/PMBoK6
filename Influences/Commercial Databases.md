@@ -9,4 +9,4 @@ Description: "[[Commercial Databases#Description|📝]]"
 - Standardized estimating data
 - Human resource costs
 - Standard costs for material and equipment
-- Seller price lists
+- [[Seller]] price lists

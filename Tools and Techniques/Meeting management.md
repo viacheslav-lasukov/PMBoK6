@@ -3,30 +3,15 @@ page: .nan
 section: "10.2.2.6"
 tags:
   - "tool-technique"
-Description: "Meeting management is taking steps to ensure meetings meet their intended objectives effectively and efficiently."
-TechniqueGroup: "[[Interpersonal and Team Skills]]"
+  - "interpersonal-team-skill"
+Description: "[[Meeting Management#Description|📝]]"
 ---
 # Description
-`=this.Description`
-# Used in Processes
-## By Knowledge Area
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY KnowledgeArea
-```
-## By Process Group
-```dataview
-TABLE rows.file.link as Processes
-FROM #process 
-WHERE contains(file.outlinks, link(this.file.name))
-GROUP BY ProcessGroup
-```
-# Steps for Meeting Planning
-- Prepare and distribute the agenda stating the objectives of the meeting.
-- Ensure that the meetings start and finish at the published time.
-- Ensure the appropriate participants are invited and attend.
-- Stay on topic.
-- Manage expectations, issues, and conflicts during the meeting.
-- Record all actions and those who have been allocated the responsibility for completing the action.
+Taking steps to ensure meetings meet their intended objectives effectively and efficiently.
+## Steps for Meeting Planning
+1. Prepare and distribute the agenda stating the objectives of the meeting.
+2. Ensure that the meetings start and finish at the published time.
+3. Ensure the appropriate participants are invited and attend.
+4. Stay on topic.
+5. Manage expectations, issues, and conflicts during the meeting.
+6. Record all actions and those who have been allocated the responsibility for completing the action.

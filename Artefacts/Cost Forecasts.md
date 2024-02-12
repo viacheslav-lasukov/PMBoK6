@@ -4,4 +4,4 @@ tags:
 Description: "[[Cost Forecasts#Description|📝]]"
 ---
 # Description
-Either a calculated EAC value or a bottom-up EAC value is documented and communicated to stakeholders.
+Either a calculated [[Estimate at Completion|EAC]] value or a bottom-up [[Estimate at Completion|EAC]] value is documented and communicated to [[stakeholders]].

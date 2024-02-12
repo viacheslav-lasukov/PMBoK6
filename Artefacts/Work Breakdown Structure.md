@@ -2,6 +2,7 @@
 Section: 5.4.3.1
 tags:
   - baseline-component
+  - artefact
 Description: "[[Work Breakdown Structure#Description|📝]]"
 aliases:
   - WBS
@@ -15,10 +16,4 @@ Hierarchical decomposition of the total scope of work to be carried out by the p
   ![[WBS Organized by Phase.png]]
 - Using **major deliverables** as the second level of decomposition
   ![[WBS with Major Deliverables.png]]
-- Incorporating **subcomponents** that may be developed by organizations outside the project team, such as contracted work. The seller then develops the supporting contract WBS as part of the contracted work
-# Included in
-```dataview
-TABLE tags
-WHERE contains(file.outlinks, this.file.link)
-SORT number(section)
-```
+- Incorporating **subcomponents** that may be developed by organizations outside the project team, such as contracted work. The [[seller]] then develops the supporting [[Agreement|contract]] WBS as part of the contracted work

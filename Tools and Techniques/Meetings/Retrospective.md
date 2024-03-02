@@ -1,11 +1,19 @@
 ---
 tags:
   - meeting
+  - agile/practice
 Description: "[[Retrospective#Description|📝]]"
 ---
-# Description
-A meeting held by a project team to discuss:
-- Successful elements in the project/phase
+# #pmbok6 
+A meeting held by a [[Team]] to discuss:
+- Successful elements in the [[project]]/[[phase]]
 - What could be improved
-- What to incorporate in the ongoing project and what in future projects
-- What to add to the OPAs
+- What to incorporate in in [[future projects]]
+- What to add to the #influence/opa s
+
+# #agile-practice-guide 
+## When to Conduct
+- [[Team]] completes a release or ships something. It does not have to be a monumental [[increment]]. It can be any release, no matter how small.
+- More than a few weeks since the last [[Retrospective]]
+- [[Team]] appears to be stuck and completed work is not flowing through the [[Team|team]]
+- [[Team]] reaches any other [[Milestone List|Milestones]]

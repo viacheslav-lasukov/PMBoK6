@@ -1,21 +1,22 @@
 ---
 Page: 217
-Section: "6.5.3.1"
+Section: 6.5.3.1
 tags:
   - "#baseline"
-  - "artefact"
+  - artefact
 Description: "[[Schedule Baseline#Description|📝]]"
+Started By: "[[6.5 Develop Schedule]]"
 ---
 # Description
 The component of the [[Project Management Plan]].
 
-The approved version of a [[schedule model]] that can be changed only through formal [[Change Control Procedures]] and is used as a basis for comparison to actual results.
+The approved version of a [[Schedule Model]] that can be changed only through formal [[Change Control]] and is used as a basis for comparison to actual results.
 
-Is accepted and approved by the appropriate [[stakeholders]] as the [[schedule baseline]] with baseline start dates and baseline finish dates.
+Is accepted and approved by the appropriate [[Stakeholders]] as the [[schedule baseline]] with baseline start dates and baseline [[Finish Date]]s.
 
-During [[Monitoring and Controlling]], the approved baseline dates are compared to the actual start and finish dates to determine if variances have occurred.
+During [[Monitoring and Controlling]], the approved baseline dates are compared to the actual start and [[Finish Date]]s to determine if [[Variance]]s have occurred.
 ## Drives
-* Bar charts (gantt charts)
+* [[Bar Chart]]s ([[Gantt Chart]]s)
 * Milestone charts
 * [[Schedule Network Diagram]]
 

@@ -8,19 +8,18 @@ tags:
 Description: ""
 ---
 # Description
-Document issued by the project sponsor that formally authorizes the existence of a project and provides the project manager with the authority to apply organizational resources to project activities
+Document issued by the project sponsor that formally authorizes the existence of a project and provides the project manager with the [[Authority]] to apply organizational [[Resource]]s to project activities
 # Structure
 ## Project purpose
 ## Measurable objectives and success criteria
 ## High-level requirements
 ## High-level project description, boundaries, and key [[Deliverables]]
-## Overall project risk
-## Summary milestone schedule
-## Preapproved financial resources
+## [[Overall Project Risk]]
+## Summary [[Milestone Schedule]]
+## Preapproved financial [[Resource]]s
 ## Key stakeholder list
 
 ## Project approval requirements 
-
 * What constitutes success
 * Who decides the project is successfull
 * who signs off on the project
@@ -28,6 +27,6 @@ Document issued by the project sponsor that formally authorizes the existence of
 * what are the conditions to be met in order to close or to cancel the project or phase
 ## Assigned project manager
 
-## Name and authority of the sponsor
+## Name and [[Authority]] of the sponsor
 or other person authorizing the project charter
 

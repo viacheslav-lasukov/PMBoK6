@@ -1,7 +1,7 @@
 ---
 tags:
   - "tool-technique"
-  - "interpersonal-team-skill"
+  - "tool-technique/skill/interpersonal-team"
 Description: "[[Active Listening#Description|📝]]"
 Section: "10.2.2.6"
 ---

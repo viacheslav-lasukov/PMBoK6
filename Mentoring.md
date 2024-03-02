@@ -1,4 +1,0 @@
----
-tags:
-  - interpersonal-skill
----

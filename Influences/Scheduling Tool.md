@@ -1,9 +1,6 @@
 ---
-Category: Internal
 tags:
-  - eef
-  - pmis
-  - topic
-Description: "[[Scheduling Tool#Description|📝]]"
+  - influence/eef
+  - tool-technique
 ---
-# Description
+A tool that provides schedule component names, definitions, structural relationships, and formats that support the application of a scheduling method.

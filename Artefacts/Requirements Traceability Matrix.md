@@ -11,11 +11,11 @@ aliases:
 # Description
 A grid that links product requirements from their origin to the [[Deliverables]] that satisfy them. Helps ensure that each requirement adds business value by linking it to the business and project objectives.
 ## Includes
-- Business needs, opportunities, goals, and objectives
-- [[Project objectives]]
-- [[Project scope]] and [[Work Breakdown Structure]] deliverables
-- Product design
-- Product development
+- [[Business Need]]s, opportunities, goals, and objectives
+- [[Objective]]s
+- [[Project Scope]] and [[Work Breakdown Structure]] deliverables
+- [[Product]] design
+- [[Product]] development
 - Test strategy and test scenarios  
 - High-level requirements to more detailed requirements
 ## Attributes
@@ -30,6 +30,6 @@ A grid that links product requirements from their origin to the [[Deliverables]]
 - Status date
 - Stability
 - Complexity
-- Acceptance criteria
+- [[Acceptance Criteria]]
 ## Example
 ![[Pasted image 20240129185825.png]]

@@ -1,11 +1,11 @@
 ---
 tags:
   - "tool-technique"
-  - "decision-making"
+  - "tool-technique/decision-making"
 Description: "[[Voting#Description|📝]]"
 ---
 # Description
-A collective decision-making technique and an assessment process having multiple alternatives with an expected outcome in the form of future actions. These techniques can be used to generate, classify, and prioritize product requirements.
+A collective #tool-technique/decision-making #tool-technique  and an assessment process having multiple alternatives with an expected outcome in the form of future actions. These techniques can be used to generate, classify, and prioritize [[Product Requirements]].
 ## Examples
 - **Unanimity** — A decision that is reached whereby everyone agrees on a single course of action.
 - **Majority** — A decision that is reached with support obtained from more than 50% of the members of the group. Having a group size with an uneven number of participants can ensure that a decision will be reached, rather than resulting in a tie.

@@ -1,0 +1,1 @@
+An [[Estimate]] expressed as a percent of the amount of work that has been completed on an activity or a [[Work Breakdown Structure Component|WBS Component]].

@@ -7,10 +7,10 @@ aliases:
   - "DfX"
 ---
 # Description
-A set of technical guidelines that may be applied during the design of a product for the optimization of a specific aspect of the design.
+A set of technical guidelines that may be applied during the design of a [[Product]] for the optimization of a specific aspect of the design.
 
-Can control or even improve the product's final characteristics.
-## The X can be different aspects of product development
+Can [[Control]] or even improve the [[Product]]'s final characteristics.
+## The X can be different aspects of [[Product]] development
 - reliability
 - deployment
 - assembly
@@ -19,9 +19,9 @@ Can control or even improve the product's final characteristics.
 - service
 - usability
 - safety
-- quality
+- [[Quality]]
 ## May Result in
 - cost reduction
-- quality improvement
+- [[Quality]] improvement
 - better performance
 - [[Customer Satisfaction]]

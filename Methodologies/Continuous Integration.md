@@ -1,0 +1,6 @@
+---
+tags:
+  - xp
+aliases:
+  - CI
+---

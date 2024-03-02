@@ -3,18 +3,18 @@ page: 348
 section: "9.5.2.1"
 tags:
   - "tool-technique"
-  - "interpersonal-team-skill"
+  - "tool-technique/skill/interpersonal-team"
 Description: "[[Conflict Management#Description|📝]]"
 ---
 # Description
 ## Sources of conflict
-- Scarce resources
+- Scarce [[Resource]]s
 - Scheduling prioritites
 - Personal work styles
 ## Reducing amount of conflict
 * Team [[ground rules]]
 * Group norms
-* Solid [[project management]] practices, like [[10.1 Plan Communications Management|Communications Planning]] and role definition
+* Solid [[Project Management]] practices, like [[10.1 Plan Communications Management|Communications Planning]] and role definition
 
 When managed properly, differences of opinion can lead to increased creativity and better [[decision making]].
 
@@ -24,7 +24,7 @@ Conflict should be addressed in private.
 * Time pressure for resolving the conflict
 * Relative power of the people involved in the conflict
 * Importance of maintaining a good relationship
-* Motivation to resolve conflict on a long-term or short-term basis
+* [[Motivation]] to resolve conflict on a long-term or short-term basis
 ## Techniques for resolving conflict
 * Withdraw/avoid
 * Smooth/accomodate

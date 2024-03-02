@@ -1,7 +1,6 @@
 ---
 tags:
-  - "opa"
-Category: "Knowledge Bases"
-Description: "Versions and baselines of all official organizational standards, policies, procedures, and any project documents."
+  - influence/opa
+Category: Knowledge Bases
 ---
-
+Contains the versions and baselines of all official #influence/opa s, and any #project-document s.

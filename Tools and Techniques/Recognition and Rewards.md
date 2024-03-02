@@ -18,6 +18,6 @@ People are motivated when they feel they are valued in the organization and this
 
 Generally, money is viewed as a tangible aspect of any reward system, but intangible rewards could be equally or even more effective.
 
-Most [[project team]] members are motivated by an opportunity to grow, accomplish, be appreciated, and apply their professional skills to meet new challenges.
+Most [[Team]] members are motivated by an opportunity to grow, accomplish, be appreciated, and apply their professional skills to meet new challenges.
 
 A good strategy for [[Project Manager]]s is to give the team recognition throughout the life cycle of the project rather than waiting until the project is completed.

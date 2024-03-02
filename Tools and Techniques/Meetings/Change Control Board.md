@@ -1,7 +1,8 @@
 ---
 tags:
-  - "meeting"
+  - meeting
+  - role
 aliases:
-  - "CCB"
+  - CCB
 ---
-
+A formally chartered group responsible for reviewing, evaluating, approving, delaying, or rejecting changes, and for recording and communicating such decisions.

@@ -1,7 +1,7 @@
 ---
 tags:
   - "tool-technique"
-  - "decision-making"
+  - "tool-technique/decision-making"
 Description: "[[Autocratic Decision Making#Description|📝]]"
 ---
 # Description

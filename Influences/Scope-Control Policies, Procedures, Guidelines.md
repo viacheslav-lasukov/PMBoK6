@@ -1,6 +1,6 @@
 ---
 Category: "Policies, Processes, Procedures"
 tags:
-  - "opa"
+  - "influence/opa"
 ---
 

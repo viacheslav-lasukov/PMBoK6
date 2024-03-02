@@ -1,11 +1,13 @@
 ---
 Category: Policies, Processes, Procedures
 tags:
-  - opa
-  - eef
+  - influence/opa
+  - influence/eef
   - topic
 Description: "[[Personnel Administration and Development#Description|📝]]"
 ---
 # Description
+## Examples
 - Employee development and training records
-- Competency frameworks that refer to knowledge-sharing behaviors
+- Competency frameworks that refer to [[Knowledge Sharing]]] behaviors
+- Skill assessments

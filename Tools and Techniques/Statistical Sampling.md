@@ -1,13 +1,13 @@
 ---
 tags:
   - "tool-technique"
-  - "data-gathering"
+  - "tool-technique/data-gathering"
 Description: "[[Statistical Sampling#Description|📝]]"
 Section: "8.3.2.1"
 ---
 # Description
-Involves choosing part of a population of interest for inspection (for example, selecting 10 engineering drawings at random from a list of 75).
+Choosing part of a population of interest for inspection (for example, selecting 10 engineering drawings at random from a list of 75).
 
-The sample is taken to measure controls and verify quality.
+The sample is taken to measure controls and verify [[Quality]].
 
 Sample frequency and sizes should be determined during the [[8.1 Plan Quality Management]] process.

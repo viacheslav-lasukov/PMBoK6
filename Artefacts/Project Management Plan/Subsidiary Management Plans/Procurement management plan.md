@@ -2,9 +2,10 @@
 Section: 12.1.3.1
 Page: 475
 tags:
-  - "#management-plan"
+  - "#project-management-plan"
   - procurement/document
 Description: "[[Procurement Management Plan#Description|📝]]"
+Started By: "[[12.1 Plan Procurement Management]]"
 ---
 # Description
 The component of the [[Project Management Plan]].
@@ -24,10 +25,10 @@ If the project is financed externally, the sources and availability of funding s
 - How procurement will be coordinated with other project aspects, such as [[project schedule]] development and [[Monitoring and Controlling|Monitor and Control]] processes
 - Timetable of key procurement activities
 - Procurement metrics to be used to manage contracts
-- Stakeholder roles and responsibilities related to procurement, including authority and constraints of the [[project team]] when the performing [[organization]] has a [[procurement department]]
-- Constraints and assumptions that could affect planned procurements
+- Stakeholder [[Roles and Responsibilities]] related to procurement, including [[Authority]] and [[Constraint]]s of the [[Team]] when the [[Performing Organization]] has a procurement department
+- [[Constraint]]s and [[Assumption]]s that could affect planned procurements
 - The legal jurisdiction and the currency in which payments will be made
-- Determination of whether independent estimates will be used and whether they are needed as evaluation criteria
+- Determination of whether [[Independent Estimates]] will be used and whether they are needed as evaluation criteria
 - [[11 Risk Management|Risk Management]] issues including identifying requirements for performance bonds or insurance contracts to mitigate some forms of project risk
-- Prequalified [[seller]]s to be used
+- Prequalified [[Seller]]s to be used
 

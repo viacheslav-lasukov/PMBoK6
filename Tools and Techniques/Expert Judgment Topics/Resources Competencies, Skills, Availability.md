@@ -1,6 +1,7 @@
 ---
 tags:
   - topic
-  - eef
+  - influence/eef
 ---
-
+## Examples
+- Contracting and purchasing

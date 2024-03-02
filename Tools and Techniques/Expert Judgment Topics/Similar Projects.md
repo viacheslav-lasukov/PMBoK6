@@ -1,7 +1,7 @@
 ---
 tags:
   - topic
-  - opa
+  - influence/opa
 Description: "[[Similar Projects#Description|📝]]"
 Category: Knowledge Bases
 ---

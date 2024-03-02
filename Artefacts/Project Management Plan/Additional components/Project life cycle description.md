@@ -7,4 +7,4 @@ Description: ""
 # Description
 The component of the [[Project Management Plan]].
 
-Describes [[project life cycle]] — the series of phases that a [[project]] passes through from its initiation to its closure.
+Describes [[Project Life Cycle]] — the series of [[phase]]s that a [[Project]] passes through from its [[Initiating|initiation]] to its [[Closing|closure]].

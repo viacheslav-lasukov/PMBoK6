@@ -1,4 +1,7 @@
 ---
-tags: topic
+tags:
+  - topic
+aliases:
+  - Organizational Strategies
 ---
 

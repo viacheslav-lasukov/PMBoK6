@@ -5,6 +5,6 @@ tags:
 Description: "[[Project Team Assignments#Description|📝]]"
 ---
 # Description
-Records the team members and their roles and responsibilities for the project.
+Records the team members and their [[Roles and Responsibilities]] for the project.
 
-Documentation can include a project team directory and names inserted into the [[project management plan]], such as the project organization charts and schedules.
+Documentation can include a [[Project Team Directory]] and names inserted into the [[project management plan]], such as the project organization charts and schedules.

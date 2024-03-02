@@ -1,10 +1,12 @@
 ---
 tags:
   - "tool-technique"
-  - "interpersonal-team-skill"
+  - "tool-technique/skill/interpersonal-team"
 Description: "[[Networking#Description|📝]]"
 ---
 # Description
-Interacting with others to exchange information and develop contacts.
+Establishing connections and relationships with other people from the same or other organizations.
 
-[[Networks]] provide project managers and their teams with access to informal organizations to solve problems, influence actions of their stakeholders, and increase stakeholder support for the work and outcomes of the project, thus improving performance.
+Interacting with others to exchange [[Information]] and develop contacts.
+
+Networks] provide [[Project Manager]]s and their [[Team]]s with access to informal organizations to solve problems, influence actions of their [[Stakeholders]], and increase [[Stakeholders]]' support for the work and [[Project Outcome]], thus improving performance.

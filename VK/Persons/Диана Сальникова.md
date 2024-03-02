@@ -1,0 +1,12 @@
+---
+tags:
+  - person
+Employment Date: 
+Birthdate: 
+Manager: 
+Intranet: 
+Title: 
+Competency: 
+Image: "![|100](xxx)"
+Office:
+---

@@ -5,7 +5,7 @@ tags:
 Description: "[[RACI#Description|📝]]"
 ---
 # Description
-Is an example of [[Assignment Matrix|RAM]].
+An example of [[Resource Assignment Matrix|RAM]].
 
 Responsible, accountable, consult, inform.
 ## Example

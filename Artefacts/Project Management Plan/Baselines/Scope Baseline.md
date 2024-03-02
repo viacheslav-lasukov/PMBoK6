@@ -1,15 +1,16 @@
 ---
-Page:
-Section: "5.4.3.1"
+Page: 
+Section: 5.4.3.1
 tags:
   - "#baseline"
-  - "artefact"
+  - artefact
 Description: "[[Scope Baseline#Description|📝]]"
+Started By: "[[5.4 Create WBS]]"
 ---
 # Description
 The component of the [[Project Management Plan]].
 
-The approved version of a [[Project Scope Statement]], [[Work Breakdown Structure]], and its associated [[WBS Dictionary]], which can be changed only through formal [[Change Control Procedures]] and is used as a basis for comparison.
+The approved version of a [[Project Scope Statement]], [[Work Breakdown Structure]], and its associated [[WBS Dictionary]], which can be changed only through formal [[Change Control]] and is used as a basis for comparison.
 ## Components
 - [[Project Scope Statement]]
 - [[Work Breakdown Structure]]

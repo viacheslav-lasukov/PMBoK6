@@ -683,6 +683,15 @@
               },
               "aliases": {
                 "hide": true
+              },
+              "name": {
+                "width": 410
+              },
+              "Page": {
+                "hide": true
+              },
+              "Learn More": {
+                "hide": true
               }
             },
             "orderFields": [
@@ -943,6 +952,299 @@
       ],
       "id": "d6343173-d710-4d7c-9523-ba4ebc59cd8a",
       "name": "Influences"
+    },
+    {
+      "fieldConfig": {
+        "Requirements": {
+          "options": [
+            "Fixed",
+            "Dynamic"
+          ]
+        },
+        "Activities": {
+          "richText": true
+        },
+        "Delivery": {
+          "options": [
+            "Single delivery",
+            "Frequent small deliveries"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#life-cycle",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "Activities": {
+                "width": 273
+              },
+              "Delivery": {
+                "width": 236
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "aliases",
+              "tags",
+              "Requirements",
+              "Activities",
+              "Delivery",
+              "Goal"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "06ea6e5f-6b75-4db6-90f9-bc3ca371c93c",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "4d7066b5-0c44-492a-875c-2a442be99883",
+      "name": "Life Cycles"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "_templates/new_team.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "VK/Governance/Teams",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c45603e6-e10d-4611-aa29-dc3bbde9ce84",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "676988ae-5043-468b-974c-35ea3018a240",
+      "name": "Teams"
+    },
+    {
+      "fieldConfig": {
+        "Manager": {
+          "richText": true
+        },
+        "Image": {
+          "richText": true
+        },
+        "Intranet": {
+          "richText": true
+        },
+        "Competency": {
+          "richText": true
+        },
+        "Office": {
+          "richText": true,
+          "options": [
+            "Большая Морская",
+            "Skylight",
+            "Красный Мост"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "_templates/person.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "VK/Persons",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "Image": {
+                "hide": true
+              },
+              "Birthdate": {
+                "hide": true
+              },
+              "Employment Date": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "name": {
+                "width": 276
+              }
+            },
+            "orderFields": [
+              "name",
+              "Image",
+              "Birthdate",
+              "Employment Date",
+              "Intranet",
+              "Manager",
+              "tags",
+              "Title",
+              "Competency",
+              "path",
+              "Office"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "00f0b53f-e670-41a2-ae27-03161ea174e6",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "5d01457e-2e4d-410b-b26f-1785d29fdc02",
+      "name": "Persons"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "_templates/role.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "VK/Governance/Roles",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e7fb4302-3881-4635-a3df-6fb296da7e81",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "1c2f465a-dc9a-4781-9673-ae7a7f3eb6d8",
+      "name": "VK Roles"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "VK/Chats",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 487
+              },
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b5ab2e6e-e4fa-48a5-90f2-d0b1f2129ca7",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b2ad0310-39ec-4992-a7a6-19e7b2ead4d2",
+      "name": "Chats"
     }
   ],
   "archives": [],

@@ -7,4 +7,4 @@ Description: "[[Configuration Management Plan#Description|📝]]"
 # Description
 The component of the [[Project Management Plan]].
 
-Describes how the information about the items of the [[project]] (and which items) will be recorded and updated so that the product, service, or result of the [[project]] remains consistent and/or operative.
+Describes how the [[Information]] about the items of the [[Project]] (and which items) will be recorded and updated so that the [[Products, Services, Results]] of the [[Project]] remains consistent and/or operative.

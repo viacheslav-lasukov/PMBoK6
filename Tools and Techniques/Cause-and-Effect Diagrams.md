@@ -2,7 +2,7 @@
 tags:
   - "tool-technique"
   - "diagram"
-  - "data-representation"
+  - "tool-technique/data-representation"
 Description: "[[Cause-and-Effect Diagrams#Description|📝]]"
 Section: "8.2.2.4"
 aliases:

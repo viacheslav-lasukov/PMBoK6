@@ -10,11 +10,11 @@ Use of a skilled facilitator will increase the effectiveness of the meeting.
 
 It is also essential to ensure that the right people participate in the risk workshop.
 
-On larger projects, it may be appropriate to invite the [[project sponsor]], [[Subject Matter Expert]]s, [[seller]]s, representatives of the [[Customer]], or other project stakeholders.
+On larger projects, it may be appropriate to invite the [[Sponsor]], [[Subject Matter Expert]]s, [[Seller]]s, representatives of the [[Customer]], or other project stakeholders.
 
 Risk workshops for smaller projects may be restricted to a subset of the project team.
 
-A risk owner, who will be responsible for planning an appropriate risk response and for reporting progress on managing the risk, will be allocated to each individual project risk
+A [[Risk Owner]], who will be responsible for planning an appropriate risk response and for reporting progress on managing the risk, will be allocated to each [[individual project risk]]
 
 The goals of this meeting — review:
 - previously identified risks

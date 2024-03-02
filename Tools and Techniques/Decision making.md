@@ -3,14 +3,14 @@ Description: "[[Decision Making#Description|📝]]"
 tags:
   - "tool-technique"
   - "meeting"
-  - "interpersonal-team-skill"
+  - "tool-technique/skill/interpersonal-team"
 Section: "9.5.2.1"
 ---
 # Description
-The ability to negotiate and influence the organization and the [[project management team]].
+The ability to negotiate and influence the organization and the [[Project Management Team]].
 ## Guidelines
 - Focus on goals to be served
-- Follow a decision-making process
+- Follow a [[decision making]] process
 - Study the environmental factors
 - Analyze available information
 - Stimulate team creativity

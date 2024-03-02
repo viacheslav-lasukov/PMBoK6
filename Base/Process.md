@@ -1,0 +1,1 @@
+A systematic series of [[Activity|Activities]] directed towards causing an end result such that one or more inputs will be acted upon to create one or more outputs.

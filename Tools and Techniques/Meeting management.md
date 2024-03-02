@@ -3,7 +3,7 @@ page: .nan
 section: "10.2.2.6"
 tags:
   - "tool-technique"
-  - "interpersonal-team-skill"
+  - "tool-technique/skill/interpersonal-team"
 Description: "[[Meeting Management#Description|📝]]"
 ---
 # Description

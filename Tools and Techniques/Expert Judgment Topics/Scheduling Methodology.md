@@ -1,7 +1,7 @@
 ---
 tags:
   - topic
-  - opa
+  - influence/opa
 Description: "[[Scheduling Methodology#Description|📝]]"
 ---
 # Description

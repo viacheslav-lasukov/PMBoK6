@@ -1,5 +1,5 @@
 ---
 tags:
-  - babok
+  - ba
   - topic
 ---

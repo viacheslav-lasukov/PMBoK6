@@ -1,0 +1,1 @@
+Related [[Project]]s, subsidiary [[Program]]s, and [[Program]] activities that are managed in a coordinated manner to obtain [[Benefit]]s not available from managing them individually.

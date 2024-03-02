@@ -14,8 +14,8 @@ Entails finding solutions for issues or challenges.
 ## Problem Sources
 | Source | Examples |  |
 | ---- | ---- | ---- |
-| Inside the [[organization]] | - machines or infrastructure used by another department in the [[organization]] and not released in time<br>- materials that have been damaged because of unsuitable storage conditions |  |
-| Outside the [[organization]] | - major [[Supplier]] that has gone bankrupt<br>- bad weather that has damaged resources |  |
+| Inside the [[Organization]] | - machines or infrastructure used by another #department in the [[Organization]] and not released in time<br>- materials that have been damaged because of unsuitable storage conditions |  |
+| Outside the [[Organization]] | - major [[Supplier]] that has gone bankrupt<br>- bad weather that has damaged [[Resource]]s |  |
 ## Includes
 - gathering additional information
 - critical thinking

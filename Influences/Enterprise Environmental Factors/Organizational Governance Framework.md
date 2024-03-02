@@ -1,15 +1,15 @@
 ---
-tags: "eef"
+tags: "influence/eef"
 Description: "Processes to meet organizational strategic and operational goals"
 Category: "Internal"
 ---
-**Governance** — organizational or structural arrangements at all levels of an [[organization]] designed to determine and influence the behavior of the [[organization]]'s members.
+**Governance** — organizational or structural arrangements at all levels of an [[Organization]] designed to determine and influence the behavior of the [[Organization]]'s members.
 Governance:
 - Is multidimensional
 - Includes consideration of people, roles, structures, and policies
-- Requires providing direction and oversight through data and feedback
+- Requires providing direction and oversight through [[Data]] and feedback
 # Governance Framework
-Framework within which [[Authority]] is exercised in [[organization]]s.
+Framework within which [[Authority]] is exercised in [[Organization]]s.
 ###### Includes:
 - Rules
 - Policies
@@ -19,20 +19,18 @@ Framework within which [[Authority]] is exercised in [[organization]]s.
 - Systems
 - Processes
 ###### Influences How:
-- Objectives of the [[organization]] are set and achieved
-- Risk is monitored and assessed
+- [[Objective]]s of the [[Organization]] are set and achieved
+- [[Risk]] is monitored and assessed
 - Performance is optimized
-# Governance of [[Portfolio]]s, [[Program]]s, and [[Project]]s
+# [[Portfolio, Program, Project Governance Framework]]
 ###### Governance Domains
 - alignment
-- risk
+- [[Risk]]
 - performance
 - communications
 ###### Each Domain Has the Following Functions
 - oversight
-- control
+- [[Control]]
 - integration
 - [[decision making]]
-Each **function** has **governance supporting processes and activities** for stand-alone [[project]]s, or [[project]]ss operating within the [[portfolio]] or [[program]] environments.
-
-**Project governance** — the framework, functions, and processes that guide [[project management]] activities in order to create a unique product, service, or result to meet organizational, strategic, and operational goals. There is no one governance framework that is effective in all organizations. A governance framework should be tailored to the organizational culture, types of projects, and the needs of the organization in order to be effective.
+Each **function** has **governance supporting processes and activities** for stand-alone [[Project]]s, or those operating within the [[Portfolio]] or [[Program]] environments.

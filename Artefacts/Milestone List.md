@@ -2,9 +2,11 @@
 tags:
   - "#project-document"
 Description: "[[Milestone List#Description|📝]]"
+aliases:
+  - Milestones
 ---
 # Description
-Milestone — significant point or event in a project.
+**Milestone** — significant point or event in a [[Project]].
 
 Identifies all project milestones and indicates whether the milestone is mandatory, such as those required by [[Agreement|contract]], or optional, such as those based on [[Historical Information]].
 

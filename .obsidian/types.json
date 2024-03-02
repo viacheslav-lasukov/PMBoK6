@@ -26,6 +26,8 @@
     "Learn More": "multitext",
     "Components": "multitext",
     "Updates": "multitext",
-    "Description": "text"
+    "Description": "text",
+    "Birthdate": "date",
+    "Date": "date"
   }
 }

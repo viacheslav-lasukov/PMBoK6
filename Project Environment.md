@@ -10,14 +10,14 @@ Learn More:
 ## Management Elements
 ###### Key Functions or Principles of Management
 - Division of work using specialized skills and availability to perform work;
-- Authority given to perform work;
+- [[Authority]] given to perform work;
 - Responsibility to perform work appropriately assigned based on such attributes as skill and experience;
 - Discipline of action (e.g., respect for authority, people, and rules);
 - Unity of command (e.g., only one person gives orders for any action or activity to an individual);
 - Unity of direction (e.g., one plan and one head for a group of activities with the same objective);
 - General goals of the organization take precedence over individual goals;
 - Paid fairly for work performed;  
-- Optimal use of resources;  
+- Optimal use of [[Resource]]s;  
 - Clear communication channels;  
 - Right materials to the right person for the right job at the right time; Fair and equal treatment of people in the workplace;
 - Clear security of work positions;  

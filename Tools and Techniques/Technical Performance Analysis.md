@@ -1,7 +1,7 @@
 ---
 tags:
   - "tool-technique"
-  - "data-analysis"
+  - "tool-technique/data-analysis"
 Description: "[[Technical Performance Analysis#Description|📝]]"
 Section: "11.7.2.1"
 ---

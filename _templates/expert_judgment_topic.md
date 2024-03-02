@@ -1,6 +1,6 @@
 ---
 tags:
   - topic
-Description: "[[expert_judgment_topic#Description|📝]]"
+Description: "[[<%tp.file.title%>#Description|📝]]"
 ---
 # Description

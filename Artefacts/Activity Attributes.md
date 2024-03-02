@@ -15,7 +15,7 @@ Extend the description of the activity by identifying multiple components associ
 - successor activities
 - logical relationships
 - [[Leads and Lags]]
-- resource requirements
-- imposed dates
+- [[resource requirements]]
+- [[Imposed Date]]s
 - constraints
 - [[Assumption Log|assumptions]]

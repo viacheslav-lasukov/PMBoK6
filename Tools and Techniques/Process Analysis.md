@@ -1,8 +1,8 @@
 ---
 tags:
   - "tool-technique"
-  - "data-analysis"
-Description: "[[<%tp.file.title%>#Description|📝]]"
+  - "tool-technique/data-analysis"
+Description: "[[Process Analysis#Description|📝]]"
 Section: "8.2.2.2"
 ---
 # Description

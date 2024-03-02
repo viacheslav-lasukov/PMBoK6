@@ -1,2 +1,6 @@
+---
+tags:
+  - risk
+---
 # Description
-The estimated duration/budget within the [[schedule baseline]]/[[Cost Baseline]], which is allocated for identified risks that are accepted.
+The estimated duration/budget within the [[schedule baseline]]/[[Cost Baseline]], which is allocated for identified [[Risk]]s that are accepted.

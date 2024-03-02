@@ -1,6 +1,5 @@
 ---
 tags:
-  - "opa"
+  - "influence/opa"
 Category: "Knowledge Bases"
 ---
-

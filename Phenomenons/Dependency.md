@@ -1,0 +1,36 @@
+---
+tags:
+  - phenomenon
+  - depencency
+aliases:
+  - Dependencies
+  - dependency
+  - depencencies
+---
+May be characterized by the following attributes: **mandatory** or **discretionary**, **internal** or **external**:
+- mandatory external dependencies
+- mandatory internal dependencies
+- discretionary external dependencies
+- discretionary internal dependencies
+## Attributes
+### Mandatory Dependencies
+
+| aka                               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Examples | Determined by |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------- |
+| - Hard logic<br>- Hard dependency | Those that are legally or contractually required or inherent in the nature of the work. <br><br>Often involve physical limitations, such as on a construction project, where it is impossible to erect the superstructure until after the foundation has been built, or on an electronics project, where a prototype has to be built before it can be tested. <br><br>Technical dependencies may not be mandatory.<br><br>The [[Team]] determines which dependencies are mandatory during the process of sequencing the activities.<br><br>Should not be confused with assigning schedule [[Constraint]]s in the [[Scheduling Methodology]]. |          | [[Team]]      |
+### Discretionary Dependencies
+
+| aka                                                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Examples                                                                                                                                                                                                                                                                                                                         | Determined By |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| - Preferred logic<br>- Preferential logic<br>- Soft logic | Are established based on [[Knowledge]] of [[Best Practice]]s within a particular application area or some unusual aspect of the project where a specific sequence is desired, even though there may be other acceptable sequences.<br><br>Should be fully documented since they can create arbitrary total float values and can limit later scheduling options. When [[Fast Tracking]] is employed, these [[Dependency#]] should be reviewed and considered for modification or removal. | - generally accepted [[best practice]]s recommend that during construction, the electrical work should start after finishing the plumbing work. This order is not mandatory and both activities may occur at the same time (in parallel), but performing the activities in sequential order reduces the [[Overall Project Risk]] | [[Team]]      |
+### External Dependencies
+
+| aka | Description                                                                                                                                                 | Examples                                                                                                                                                                                                                                           | Determined By               |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+|     | A relationship between [[project]] [[Activity\|activities]] and non-project [[Activity\|activities]].<br><br>Are usually outside of the [[Team]]'s control. | - The testing activity in a software [[project]] may be dependent on the delivery of hardware from an external source<br>- Governmental environmental hearings may need to be held before site preparation can begin on a construction [[project]] | [[Project Management Team]] |
+## Internal Dependencies
+
+| aka | Description                                                                                                         | Examples                                                                                                  | Determined By               |
+| --- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------- |
+|     | Involve a precedence relationship between [[Activity\|activities]] and are generally inside the [[Team]]'s control. | - if the [[Team]] cannot test a machine until they assemble it, there is an internal mandatory dependency | [[Project Management Team]] |
+

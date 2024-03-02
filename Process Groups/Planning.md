@@ -1,10 +1,10 @@
 ---
-tags: "process-group"
+tags: "pmbok6/process-group"
 ---
 ![[Planning Process Group.png]]
 # Processes
 ```dataview
-TABLE WITHOUT ID Section, file.link as "Name"
+TABLE WITHOUT ID file.link as "Name"
 FROM #process
 WHERE ProcessGroup=link(this.file.name)
 SORT page

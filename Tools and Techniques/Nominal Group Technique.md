@@ -1,11 +1,11 @@
 ---
 tags:
   - "tool-technique"
-  - "interpersonal-team-skill"
+  - "tool-technique/skill/interpersonal-team"
 Description: "[[Nominal Group Technique#Description|📝]]"
 ---
 # Description
-Enhances brainstorming with a voting process used to rank the most useful ideas for further brainstorming or for prioritization.
+Enhances brainstorming with a [[Voting]] process used to rank the most useful ideas for further [[Brainstorming]] or for [[Prioritization (Ranking)]].
 ## Steps
 1. A question or problem is posed to the group. Each person silently generates and writes down their ideas.
 2. The moderator writes down the ideas on a flip chart until all ideas are recorded.

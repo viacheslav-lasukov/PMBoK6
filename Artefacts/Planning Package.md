@@ -1,9 +1,10 @@
 ---
-Section: "5.4.3.1"
+Section: 5.4.3.1
 tags:
-  - "baseline-component"
+  - wbs
+  - artefact
 Description: ""
 ---
 # Description
-[[Work Breakdown Structure]] component below the [[Control Account]] and above the [[Work Package]] with known work content but without detailed schedule activities.
+A [[Work Breakdown Structure Component|WBS Component]] below the [[Control Account]] and above the [[Work Package]] with known work content but without detailed schedule activities.
 

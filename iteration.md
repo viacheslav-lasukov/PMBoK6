@@ -1,0 +1,6 @@
+---
+tags:
+  - agile
+aliases:
+  - Sprint
+---

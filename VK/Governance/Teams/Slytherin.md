@@ -1,6 +1,6 @@
 ---
 tags:
-  - governance-element/team
+  - "governance-element/team"
 PMs:
   - "[[Марина Шелленберг]]"
 VS: "[[3 Пространства]]"

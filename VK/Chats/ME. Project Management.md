@@ -7,7 +7,7 @@ Participants:
   - "[[FT Project Manager]]"
 ---
 # Topics
-- [[Project Management]]-related
+- [[Disciplines/Project Management]]-related
 	- синки
 	- идеи
 	- проблемы

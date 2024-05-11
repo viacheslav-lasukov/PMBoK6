@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 ---
 A [[resource optimization]] #tool-technique in which [[Free Float]] and [[Total Float]] are used without affecting the [[Critical Path]].
 

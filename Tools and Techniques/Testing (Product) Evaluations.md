@@ -1,8 +1,7 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Testing (Product) Evaluations#Description|📝]]"
-Section: "8.3.2.4"
+PMBOK Section: "8.3.2.4"
 ---
 # Description
 Testing is an organized and constructed investigation conducted to provide objective [[Information]] about the [[Quality]] of the [[Products, Services, Results]] under test in accordance with the project requirements.

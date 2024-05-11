@@ -28,6 +28,10 @@
     "Updates": "multitext",
     "Description": "text",
     "Birthdate": "date",
-    "Date": "date"
+    "Date": "date",
+    "Capacity": "number",
+    "SWEBOK KA": "multitext",
+    "SWEBOK_KA": "text",
+    "SWEBOK_Topic": "text"
   }
 }

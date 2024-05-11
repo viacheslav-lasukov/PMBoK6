@@ -2,10 +2,9 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-gathering"
-Description: "[[Check Sheets#Description|📝]]"
-Section: "8.3.2.1"
 aliases:
   - "Tally Sheets"
+PMBOK Section: "8.3.2.1"
 ---
 A tally sheet that can be used as a [[Checklist]] when gathering [[Data]].
 

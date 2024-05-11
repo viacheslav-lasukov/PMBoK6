@@ -7,7 +7,7 @@ Description: "[[Business Case#Description|📝]]"
 ---
 # Description
 ## #pmbok6 
-Documented economic feasibility study used to establish the validity of the benefits of a selected component lacking sufficient definition and that is used as a basis for the authorization of further [[Project Management]] activities. 
+Documented economic feasibility study used to establish the validity of the benefits of a selected component lacking sufficient definition and that is used as a basis for the authorization of further [[Disciplines/Project Management]] activities. 
 
 Lists the objectives and reasons for [[Initiating|Initiation]].
 

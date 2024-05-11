@@ -1,13 +1,13 @@
 ---
 tags:
-  - governance-element/team
+  - "governance-element/team"
 PMs:
   - "[[Марина Шелленберг]]"
 VS: "[[4 Snadalone и Сферум]]"
-TechLeads: 
+TechLeads:
 POs:
   - "[[Алексей Щеколдин]]"
 aliases:
-  - CJM
+  - "CJM"
 SprintBoard: ""
 ---

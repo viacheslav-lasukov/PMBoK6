@@ -1,7 +1,7 @@
 ---
 tags:
-  - topic
+  - "topic"
 aliases:
-  - Organizational Strategies
+  - "Organizational Strategies"
 ---
 

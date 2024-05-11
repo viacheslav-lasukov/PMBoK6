@@ -2,8 +2,7 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Performance Reviews#Description|📝]]"
-Section: "8.3.2.2"
+PMBOK Section: "8.3.2.2"
 ---
 # Description
 ## Quality

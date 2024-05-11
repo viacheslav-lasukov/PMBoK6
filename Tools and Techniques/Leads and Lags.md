@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "scheduling"
-Description: "[[Leads and Lags#Description|📝]]"
 ---
 # Description
 | Term | Definition | Example |

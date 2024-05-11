@@ -1,8 +1,7 @@
 ---
 tags:
-  - topic
-  - influence/opa
-Description: "[[Similar Projects#Description|📝]]"
-Category: Knowledge Bases
+  - "topic"
+  - "influence/opa"
+Category: "Knowledge Bases"
 ---
 # Description

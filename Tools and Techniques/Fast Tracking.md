@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "scheduling"
-Description: "[[Fast Tracking#Description|📝]]"
 ---
 # Description
 [[Schedule Compression]] technique in which activities or phases normally done in sequence are performed in parallel for at least a portion of their duration. An example is constructing the foundation for a building before completing all of the architectural drawings.

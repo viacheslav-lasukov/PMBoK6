@@ -1,5 +1,5 @@
 ---
 tags:
-  - scheduling
-  - tool-technique
+  - "scheduling"
+  - "tool-technique"
 ---

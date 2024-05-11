@@ -3,8 +3,7 @@ tags:
   - "tool-technique"
   - "procurement/technique"
   - "tool-technique/data-gathering"
-Description: "[[Market Research#Description|📝]]"
-Section: "12.1.2.2"
+PMBOK Section: "12.1.2.2"
 ---
 # Description
 Includes examination of industry and specific [[Seller]] capabilities.

@@ -1,12 +1,11 @@
 ---
 tags:
-  - topic
-  - tool-technique/data-analysis
-Description: "[[Earned Value Analysis#Description|📝]]"
+  - "topic"
+  - "tool-technique/data-analysis"
 aliases:
-  - EVA
+  - "EVA"
 Learn More:
-  - Practice Standard for Earned Value Managemen
+  - "Practice Standard for Earned Value Managemen"
 ---
 # Description
 Compares the [[Performance Measurement Baseline]] to the actual schedule and cost performance. integrates the [[Scope Baseline]] with the [[Cost Baseline]] and [[Schedule Baseline]] to form the [[Performance Measurement Baseline]].

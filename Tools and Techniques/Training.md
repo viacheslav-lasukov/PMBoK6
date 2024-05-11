@@ -1,7 +1,6 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Training#Description|📝]]"
 ---
 # Description
 Includes all activities designed to enhance the competencies of the [[Team]] members.

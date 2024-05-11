@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Cost of Quality#Description|📝]]"
 aliases:
   - "COQ"
 ---

@@ -1,10 +1,8 @@
 ---
-page: .nan
-Section: "13.1.2.3"
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Stakeholder Analysis#Description|📝]]"
+PMBOK Section: "13.1.2.3"
 ---
 # Description
 Results in a [[Stakeholder Register]] and relevant information:

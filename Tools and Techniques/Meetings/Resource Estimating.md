@@ -1,7 +1,6 @@
 ---
-Description: "[[Resource Estimating#Description|📝]]"
 tags:
-  - meeting
-  - topic
+  - "meeting"
+  - "topic"
 ---
 # Description

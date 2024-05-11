@@ -2,8 +2,7 @@
 tags:
   - artefact
 ---
-#pmbok6 
-A condition or capability that is necessary to be present in a [[Products, Services, Results]] to satisfy a [[business need]].
 
-#ba 
-A usable representation of a need.
+| #pmbok                                                                                                                         | #swebok                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | #babok                             |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| A condition or capability that is necessary to be present in a [[Products, Services, Results]] to satisfy a [[Business Need]]. | A property that must be exhibited by something in order to solve some problem in the real world.<br>Examples:<br>- automate part of a task for someone to support the business processes of an organization<br>- correct shortcomings of existing software<br>- control a device<br>Essential property of all software requirements — they should be verifiable:<br>- as an individual feature as a functional requirement or<br>- at the system level as a nonfunctional requirement | A usable representation of a need. |

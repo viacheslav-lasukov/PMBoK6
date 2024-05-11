@@ -1,8 +1,7 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Test and Inspection Planning#Description|📝]]"
-Section: "8.1.2.6"
+PMBOK Section: "8.1.2.6"
 ---
 # Description
 Plan how to terst or inspect the [[Product]], [[deliverables]], or service to meet stakeholders' needs and expectations, as well as how to meet the goal for the [[Product]]'s performance and reliability.

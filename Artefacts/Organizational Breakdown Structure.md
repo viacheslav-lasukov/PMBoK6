@@ -6,7 +6,7 @@ aliases:
   - OBS
 ---
 # Description
-A hierarchical representation of the [[Project Organization]], which illustrates the relationship between [[activity|activities]] and the [[Organization]]al units that will perform those activities.
+A hierarchical representation of the [[Project]] organization, which illustrates the relationship between [[activity|activities]] and the [[Organization]]al units that will perform those activities.
 
 Is arranged according to an [[Organization]]'s existing:
 - departments

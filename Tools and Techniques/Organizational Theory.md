@@ -1,7 +1,6 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Organizational Theory#Description|📝]]"
 ---
 # Description
 Provides [[Information]] regarding the way in which people, teams, and organizational units behave.

@@ -1,7 +1,6 @@
 ---
 tags:
-  - tool-technique
-Description: "[[SWOT Analysis#Description|📝]]"
+  - "tool-technique"
 ---
 # Description
 ![[SWOT Analysis.png]]

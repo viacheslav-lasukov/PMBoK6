@@ -1,10 +1,9 @@
 ---
-Category: Policies, Processes, Procedures
+Category: "Policies, Processes, Procedures"
 tags:
-  - influence/opa
-  - influence/eef
-  - topic
-Description: "[[Personnel Administration and Development#Description|📝]]"
+  - "influence/opa"
+  - "influence/eef"
+  - "topic"
 ---
 # Description
 ## Examples

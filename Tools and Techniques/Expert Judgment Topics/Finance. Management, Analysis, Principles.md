@@ -1,6 +1,6 @@
 ---
 tags:
-  - topic
-  - functional-area
-  - influence/eef
+  - "topic"
+  - "functional-area"
+  - "influence/eef"
 ---

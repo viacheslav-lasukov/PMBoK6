@@ -2,8 +2,7 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-gathering"
-Description: "[[Statistical Sampling#Description|📝]]"
-Section: "8.3.2.1"
+PMBOK Section: "8.3.2.1"
 ---
 # Description
 Choosing part of a population of interest for inspection (for example, selecting 10 engineering drawings at random from a list of 75).

@@ -1,10 +1,9 @@
 ---
 tags:
-  - tool-technique
-  - tool-technique/skill/communication
-  - influence/opa
-Description: "[[Presentations#Description|📝]]"
-Section: 10.2.2.3
+  - "tool-technique"
+  - "tool-technique/skill/communication"
+  - "influence/opa"
+PMBOK Section: "10.2.2.3"
 ---
 # Description
 The formal delivery of [[Information]] and/or documentation.

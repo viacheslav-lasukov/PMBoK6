@@ -1,8 +1,7 @@
 ---
 tags:
-  - evm
-  - tool-technique/data-analysis
-Description: "[[Variance Analysis#Description|📝]]"
+  - "evm"
+  - "tool-technique/data-analysis"
 ---
 # Description
 Reviews the differences (or [[Variance]]) between planned and actual performance. This can include [[Duration Estimates]], [[Cost Estimates]], [[Resource]]s utilization, [[Resource]]s rates, technical performance, and other metrics.

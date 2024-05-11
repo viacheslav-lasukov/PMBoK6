@@ -1,8 +1,7 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Colocation#Description|📝]]"
-Section: "9.4.2.1"
+PMBOK Section: "9.4.2.1"
 ---
 # Description
 Involves placing many or all of the most active [[Team]] members in the same physical location to enhance their ability to perform as a [[Team]].

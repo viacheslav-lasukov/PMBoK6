@@ -1,14 +1,12 @@
 ---
 tags:
-  - tool-technique
-  - influence/eef
-  - topic
-Description: "[[Project Management Information Systems#Description|📝]]"
+  - "tool-technique"
+  - "influence/eef"
+  - "topic"
 aliases:
-  - PMIS
-Category: Internal
+  - "PMIS"
+Category: "Internal"
 ---
-# Description
 ## Examples
 - [[Scheduling Methodology]]
 - [[Work Authorization System]]
@@ -19,8 +17,8 @@ Category: Internal
 - Automated gathering and reporting on key performance indicators (KPI)
 - [[Earned Value Analysis|EVA]] Software
 - [[Resource]] management software
-- [[Project Management]] tools:
-	- [[Project Management]] Software
+- [[Disciplines/Project Management]] tools:
+	- [[Disciplines/Project Management]] Software
 	- virtual office support software
 	- Web interfaces
 	- specialized project portals and dashboards

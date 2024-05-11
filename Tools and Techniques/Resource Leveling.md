@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 ---
 A [[resource optimization]] #tool-technique in which adjustments are made to the [[project schedule]] to optimize the allocation of [[Resource]]s and which may affect [[Critical Path]].
 

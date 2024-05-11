@@ -8,15 +8,6 @@
       "key": "B"
     }
   ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "/"
-    }
-  ],
   "templater-obsidian:replace-in-file-templater": [
     {
       "modifiers": [
@@ -187,6 +178,15 @@
         "Shift"
       ],
       "key": "7"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "/"
     }
   ]
 }

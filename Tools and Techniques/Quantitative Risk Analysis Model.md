@@ -1,7 +1,6 @@
 ---
 tags:
-  - tool-technique
-Description: "[[Quantitative Risk Analysis Model#Description|📝]]"
+  - "tool-technique"
 ---
 Denotes any quantitative (mathematical) tool that aims to produce systematic risk assessments/estimates.
 ## Examples

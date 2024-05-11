@@ -1,5 +1,5 @@
 ---
 tags:
-  - topic
-  - functional-area
+  - "topic"
+  - "functional-area"
 ---

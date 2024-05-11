@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "tool-technique/skill/interpersonal-team"
-Description: "[[Motivation#Description|📝]]"
 ---
 # Description
 Providing a reason for someone to act.

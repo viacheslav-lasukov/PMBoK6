@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "scheduling"
-Description: "[[Crashing#Description|📝]]"
 ---
 # Description
 [[Schedule Compression]] technique used to shorten the schedule duration for the least incremental cost by adding [[Resource]]s.

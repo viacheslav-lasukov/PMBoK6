@@ -1,0 +1,14 @@
+---
+tags:
+  - design-pattern-category
+---
+- [[Command]]
+- [[Interpreter]]
+- [[Iterator]]
+- [[Mediator]]
+- [[Memento]]
+- [[Observer]]
+- [[State]]
+- [[Strategy]]
+- [[Template]]
+- [[Visitor]]

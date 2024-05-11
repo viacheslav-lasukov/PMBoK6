@@ -13,4 +13,4 @@ See also:
 - [[Product Scope]]
 
 # #ba 
-A [[solution]] or component of a [[solution]] that is the result of an [[Initiative]].
+A [[Solution]] or component of a [[Solution]] that is the result of an [[Initiative]].

@@ -1,5 +1,0 @@
----
-tags:
-  - competency
-  - department
----

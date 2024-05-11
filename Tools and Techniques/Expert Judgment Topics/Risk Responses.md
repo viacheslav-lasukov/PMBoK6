@@ -1,8 +1,7 @@
 ---
 tags:
-  - topic
-Description: "[[expert_judgment_topic#Description|📝]]"
-Section: 11.6.2.1
+  - "topic"
+Section: "11.6.2.1"
 ---
 # Description
 - Validate risk responses

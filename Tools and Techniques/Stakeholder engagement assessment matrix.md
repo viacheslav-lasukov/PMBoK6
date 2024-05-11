@@ -1,10 +1,8 @@
 ---
-page: .nan
-Section: "13.2.2.5"
 tags:
   - "tool-technique"
   - "tool-technique/data-representation"
-Description: "[[Stakeholder Engagement Assessment Matrix#Description|📝]]"
+PMBOK Section: "13.2.2.5"
 ---
 # Description
 Supports comparison between the current engagement levels of [[Stakeholders]] and the desired [[Stakeholder Engagement|engagement]] levels required for successful project delivery.

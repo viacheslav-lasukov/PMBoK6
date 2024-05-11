@@ -2,8 +2,7 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Technical Performance Analysis#Description|📝]]"
-Section: "11.7.2.1"
+PMBOK Section: "11.7.2.1"
 ---
 # Description
 Compares technical accomplishments during project [[Executing|execution]] to the schedule of technical achievement.

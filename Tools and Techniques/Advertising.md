@@ -1,8 +1,7 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Advertising#Description|📝]]"
-Section: "12.2.2.2"
+PMBOK Section: "12.2.2.2"
 ---
 # Description
 Communicating with users or potential users of a [[Products, Services, Results]].

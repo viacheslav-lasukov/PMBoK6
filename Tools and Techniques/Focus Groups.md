@@ -1,10 +1,7 @@
 ---
-page:
-section: "5.2.2.2"
 tags:
   - "tool-technique"
   - "tool-technique/data-gathering"
-Description: "[[Focus Groups#Description|📝]]"
 ---
 # Description
 Brings together prequalified [[Stakeholders]] and [[Subject Matter Expert|SMEs]] to learn about their expectations and attitudes about a proposed [[Products, Services, Results]].

@@ -1,9 +1,8 @@
 ---
 tags:
-  - tool-technique
-  - tool-technique/skill/interpersonal-team
-  - meeting
-Description: "[[Team Building#Description|📝]]"
+  - "tool-technique"
+  - "tool-technique/skill/interpersonal-team"
+  - "meeting"
 ---
 # Description
 Conducting activities that enhance the [[Team]]'s social relations and build a collaborative and cooperative working environment.
@@ -18,6 +17,6 @@ Informal communication and activities can help in building trust and establishin
 
 While [[team building]] is essential during the initial stages, it should be a continuous process.
 
-Changes in a [[Project Environment]] are inevitable, and to manage them effectively, a continuous or renewed team-building effort may be applied.
+Changes in a [[Environment]] are inevitable, and to manage them effectively, a continuous or renewed team-building effort may be applied.
 
 The [[Project Manager]] should continually monitor team functionality and performance to determine if any actions are needed to prevent or correct various team problems.

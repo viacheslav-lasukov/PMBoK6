@@ -24,7 +24,7 @@ A grid that links product requirements from their origin to the [[Deliverables]]
 - Rationale for inclusion
 - Owner
 - Source
-- Priority
+- [[Priority]]
 - Version
 - Current status (active, cancelled, deferred, added, approved, assigned, completed)
 - Status date

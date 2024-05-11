@@ -2,13 +2,12 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Decision Tree Analysis#Description|📝]]"
-Section: "11.4.2.5"
+PMBOK Section: "11.4.2.5"
 ---
 # Description
 Is used to support selection of the best of several alternative courses of action.
 
-Alternative paths through the project are shown in the decision tree using branches representing different decisions or events, each of which can have associated costs and related [[individual project risk]]s (including both threats and opportunities).
+Alternative paths through the project are shown in the decision tree using branches representing different decisions or events, each of which can have associated costs and related [[Individual Project Risk]]s (including both threats and opportunities).
 
 The end-points of branches in the decision tree represent the outcome from following that particular path, which can be negative or positive.
 

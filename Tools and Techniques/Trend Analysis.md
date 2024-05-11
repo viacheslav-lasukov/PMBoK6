@@ -1,9 +1,8 @@
 ---
 tags:
-  - topic
-  - evm
-  - tool-technique/data-analysis
-Description: "[[Trend Analysis#Description|📝]]"
+  - "topic"
+  - "evm"
+  - "tool-technique/data-analysis"
 ---
 # Description
 Is used to [[Forecast]] future performance based on past results. It looks ahead in the project for expected slippages and warns the [[Project Manager]] ahead of time that there may be problems later in the schedule if established trends persist. This [[Information]] is made available early enough in the project timeline to give the [[Team]] time to analyze and correct any anomalies. The results of [[trend analysis]] can be used to recommend preventive actions if necessary.

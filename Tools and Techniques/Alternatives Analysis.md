@@ -1,9 +1,8 @@
 ---
 tags:
-  - tool-technique/data-analysis
-  - tool-technique
-Description: "[[Alternatives Analysis#Description|📝]]"
-Section: 9.2.2.5
+  - "tool-technique/data-analysis"
+  - "tool-technique"
+PMBOK Section: "9.2.2.5"
 ---
 # Description
 Is used to:

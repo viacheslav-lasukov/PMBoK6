@@ -1,9 +1,9 @@
 ---
 aliases:
-  - power
+  - "power"
 tags:
-  - phenomenon
-  - topic
+  - "phenomenon"
+  - "topic"
 ---
 The right to apply [[Resource]]s, expend funds, make decisions, or give approvals.
 ###### Forms of Power

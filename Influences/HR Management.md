@@ -1,9 +1,9 @@
 ---
 tags:
-  - influence/eef
-  - influence/opa
-  - topic
-Category: Internal
+  - "influence/eef"
+  - "influence/opa"
+  - "topic"
+Category: "Internal"
 ---
 - hiring and termination
 - performance reviews

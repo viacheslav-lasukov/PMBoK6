@@ -1,7 +1,6 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Historical Information Review#Description|📝]]"
 ---
 # Description
 Can assist in developing parametric estimates or analogous estimates.

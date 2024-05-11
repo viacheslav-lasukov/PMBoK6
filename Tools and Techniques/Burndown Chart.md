@@ -1,8 +1,7 @@
 ---
 tags:
-  - tool-technique/data-representation
-  - diagram
-  - tool-technique
-Description: "[[4.1 Develop Project Charter#Description|📝]]"
+  - "tool-technique/data-representation"
+  - "diagram"
+  - "tool-technique"
 ---
 ![[Burndown Chart.png]]

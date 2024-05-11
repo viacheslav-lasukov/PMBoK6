@@ -1,10 +1,8 @@
 ---
-page: .nan
-Section: "11.2.2.3"
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Assumption and Constraint Analysis#Description|📝]]"
+PMBOK Section: "11.2.2.3"
 ---
 # Description
 Every [[Project]] and its [[project management plan]] are conceived and developed based on a set of [[Assumption]]s and within a series of constraints.

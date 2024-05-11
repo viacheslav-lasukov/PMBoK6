@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-representation"
-Description: "[[Hierarchical Charts#Description|📝]]"
 ---
 # Description
 ## Examples

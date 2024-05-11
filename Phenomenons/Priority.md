@@ -7,3 +7,5 @@ aliases:
   - priority
 ---
 жесткие сроки / мягкие сроки
+
+See [[Prioritization]] and #technique/prioritization 

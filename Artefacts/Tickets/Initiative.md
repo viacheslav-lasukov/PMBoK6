@@ -1,5 +1,0 @@
----
-tags:
-  - artefact
-  - jira/ticket
----

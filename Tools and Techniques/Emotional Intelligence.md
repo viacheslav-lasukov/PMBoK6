@@ -2,11 +2,10 @@
 tags:
   - "tool-technique"
   - "tool-technique/skill/interpersonal-team"
-Description: "[[Emotional Intelligence#Description|📝]]"
-Page: 349
 aliases:
   - "EI"
-Section: "9.5.2.1"
+PMBOK Section: "9.5.2.1"
+PMBOK Page: 349
 ---
 # Description
 The ability to identify, assess, and manage the personal emotions of oneself and other people, as well as the collective emotions of groups of people.

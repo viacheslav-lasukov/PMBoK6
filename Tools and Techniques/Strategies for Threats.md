@@ -1,11 +1,10 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Strategies for Threats#Description|📝]]"
-Section: "11.5.2.5"
+PMBOK Section: "11.5.2.5"
 ---
 # Description
-For [[individual project risk]]s.
+For [[Individual Project Risk]]s.
 ## Escalate
 Escalation is appropriate when the [[Team]] or the [[Sponsor]] agrees that a threat is outside the [[Project Scope]] or that the proposed response would exceed the [[Project Manager]]'s authority. Escalated [[Risk]]s are managed at the [[Program]] level, [[Portfolio]] level, or other relevant part of the [[Organization]], and not on the [[Project]] level. The [[Project Manager]] determines who should be notified about the [[threat]] and communicates the details to that person or part of the [[Organization]]. It is important that ownership of escalated threats is accepted by the relevant party in the [[Organization]]. [[Threat]]s are usually escalated to the level that matches the [[Objective]]s that would be affected if the [[threat]] occurred. Escalated [[threat]]s are not monitored further by the [[Team]] after escalation, although they may be recorded in the [[Risk Register]] for information.
 ## Avoid

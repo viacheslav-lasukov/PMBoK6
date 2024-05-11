@@ -6,7 +6,7 @@ Description: "[[Retrospective#Description|📝]]"
 ---
 # #pmbok6 
 A meeting held by a [[Team]] to discuss:
-- Successful elements in the [[project]]/[[phase]]
+- Successful elements in the [[project]]/[[Phase]]
 - What could be improved
 - What to incorporate in in [[future projects]]
 - What to add to the #influence/opa s

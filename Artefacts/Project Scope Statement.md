@@ -14,7 +14,7 @@ May contain explicit scope exclusions that can assist in managing stakeholder ex
 - [[Product Scope Description]]
 - [[Deliverables]]
 - [[Acceptance Criteria]]
-- Project Exclusions — What is excluded from the [[Project]]. Explicitly stating what is out of the [[project scope]] helps manage [[Stakeholders]]’ expectations and can reduce [[scope creep]].
+- Project Exclusions — What is excluded from the [[Project]]. Explicitly stating what is out of the [[project scope]] helps manage [[Stakeholders]]’ expectations and can reduce [[Scope Creep]].
 
 ## [[Project Charter]] vs. [[Project Scope Statement]]
 The [[Project Charter]] contains high-level information, while the [[Project Scope Statement]] contains a detailed description of the scope components. These components are progressively elaborated throughout the project.

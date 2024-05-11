@@ -4,7 +4,6 @@ tags:
   - "#project-document"
 Description: "[[Resource Calendar#Description|📝]]"
 ---
-# Description
 Identifies the working days, shifts, start and end of normal business hours, weekends, and public holidays when each specific [[Resource]] is available.
 
 Information on which [[Resource]]s (team, equipment, material) are potentially available during a planned activity period is used for estimating [[Resource]] utilization.

@@ -1,10 +1,8 @@
 ---
 tags:
-  - tool-technique
-Description: "[[Inspection#Description|📝]]"
-Section: 
+  - "tool-technique"
+PMBOK Section:
 ---
-# Description
 A structured review of the work being performed by the [[Seller|contractor]]. 
 
 May involve a simple review of the [[deliverables]] or an actual physical review of the work itself.

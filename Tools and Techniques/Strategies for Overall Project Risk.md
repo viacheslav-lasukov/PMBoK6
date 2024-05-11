@@ -1,8 +1,7 @@
 ---
 tags:
-  - tool-technique
-Description: "[[Strategies for overall project risk#Description|📝]]"
-Section: 11.5.2.7
+  - "tool-technique"
+PMBOK Section: "11.5.2.7"
 ---
 # Description
 

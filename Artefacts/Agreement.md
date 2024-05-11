@@ -1,14 +1,13 @@
 ---
-Section: 12.2.3.2
+Section: "12.2.3.2"
 Page: 489
 tags:
   - "#project-document"
-  - procurement
-  - topic
-  - artefact
-Description: "[[Agreement#Description|📝]]"
+  - "procurement"
+  - "topic"
+  - "artefact"
 aliases:
-  - contract
+  - "contract"
 ---
 # Description
 A contract is a mutually binding agreement that:
@@ -17,7 +16,7 @@ A contract is a mutually binding agreement that:
 - represents a legal relationship that is subject to remedy in the courts
 ## Includes
 * Procurement statement of work or major [[Deliverables]]
-* Project requirements and [[product requirements]]
+* Project requirements and [[Product Requirement]]s
 * Schedule, milestones, or date by which a schedule is required
 * Performance reporting (see [[Work Performance Report]])
 * Pricing and payment terms

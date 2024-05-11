@@ -2,9 +2,7 @@
 tags:
   - "tool-technique"
   - "scheduling"
-Description: "[[Schedule Network Analysis#Description|📝]]"
 ---
-# Description
 Generates the project [[Schedule Model]].
 
 It employs several other techniques:

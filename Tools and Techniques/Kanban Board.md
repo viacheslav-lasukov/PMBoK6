@@ -1,7 +1,7 @@
 ---
 tags:
-  - tool-technique
-  - kanban
+  - "tool-technique"
+  - "kanban"
 ---
 ## Example
 ![[Kanban Board.png]]

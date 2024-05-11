@@ -1,12 +1,11 @@
 ---
 tags:
-  - tool-technique
-Description: "[[Bidder Conference#Description|📝]]"
-Section: 12.2.2.3
+  - "tool-technique"
 aliases:
-  - Contractor Conferences
-  - Vendor Conferences
-  - Pre-bid Conferences
+  - "Contractor Conferences"
+  - "Vendor Conferences"
+  - "Pre-bid Conferences"
+PMBOK Section: "12.2.2.3"
 ---
 # Description
 Meetings between the [[Buyer]] and prospective [[Seller]]s prior to [[Proposal]] submittal.

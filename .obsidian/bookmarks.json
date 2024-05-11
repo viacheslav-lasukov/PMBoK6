@@ -62,6 +62,216 @@
         "scale": 0.6525092615714508,
         "close": true
       }
+    },
+    {
+      "type": "graph",
+      "ctime": 1714554956366,
+      "title": "SAFe",
+      "options": {
+        "collapse-filter": false,
+        "search": "tag:#safe  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#person  ",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          },
+          {
+            "query": "tag:#governance-element/stream  ",
+            "color": {
+              "a": 1,
+              "rgb": 14069084
+            }
+          },
+          {
+            "query": "tag:#governance-element/team  ",
+            "color": {
+              "a": 1,
+              "rgb": 11392604
+            }
+          },
+          {
+            "query": "tag:#feature  ",
+            "color": {
+              "a": 1,
+              "rgb": 6084188
+            }
+          },
+          {
+            "query": "tag:#communication/chat  ",
+            "color": {
+              "a": 1,
+              "rgb": 6084269
+            }
+          },
+          {
+            "query": "tag:#pmbok6  ",
+            "color": {
+              "a": 1,
+              "rgb": 6073814
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.26469721191915074,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1714554970812,
+      "title": "LeSS",
+      "options": {
+        "collapse-filter": false,
+        "search": "tag:#less  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#person  ",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          },
+          {
+            "query": "tag:#governance-element/stream  ",
+            "color": {
+              "a": 1,
+              "rgb": 14069084
+            }
+          },
+          {
+            "query": "tag:#governance-element/team  ",
+            "color": {
+              "a": 1,
+              "rgb": 11392604
+            }
+          },
+          {
+            "query": "tag:#feature  ",
+            "color": {
+              "a": 1,
+              "rgb": 6084188
+            }
+          },
+          {
+            "query": "tag:#communication/chat  ",
+            "color": {
+              "a": 1,
+              "rgb": 6084269
+            }
+          },
+          {
+            "query": "tag:#pmbok6  ",
+            "color": {
+              "a": 1,
+              "rgb": 6073814
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.26469721191915074,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1715253607079,
+      "title": "SWEBOK",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:SWEBoK  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#person  ",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          },
+          {
+            "query": "tag:#governance-element/stream  ",
+            "color": {
+              "a": 1,
+              "rgb": 14069084
+            }
+          },
+          {
+            "query": "tag:#governance-element/team  ",
+            "color": {
+              "a": 1,
+              "rgb": 11392604
+            }
+          },
+          {
+            "query": "tag:#feature  ",
+            "color": {
+              "a": 1,
+              "rgb": 6084188
+            }
+          },
+          {
+            "query": "tag:#communication/chat  ",
+            "color": {
+              "a": 1,
+              "rgb": 6084269
+            }
+          },
+          {
+            "query": "tag:#pmbok6  ",
+            "color": {
+              "a": 1,
+              "rgb": 6073814
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 1.421525308807693,
+        "close": false
+      }
     }
   ]
 }

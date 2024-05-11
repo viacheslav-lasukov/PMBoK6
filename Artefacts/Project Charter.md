@@ -7,7 +7,6 @@ tags:
   - "business-document"
 Description: ""
 ---
-# Description
 Document issued by the project sponsor that formally authorizes the existence of a project and provides the project manager with the [[Authority]] to apply organizational [[Resource]]s to project activities
 # Structure
 ## Project purpose

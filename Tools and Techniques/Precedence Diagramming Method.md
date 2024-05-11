@@ -3,7 +3,6 @@ tags:
   - "tool-technique"
   - "diagram"
   - "scheduling"
-Description: "[[Precedence Diagramming Method#Description|📝]]"
 aliases:
   - "PDM"
 ---

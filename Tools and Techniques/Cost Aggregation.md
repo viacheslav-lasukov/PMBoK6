@@ -1,7 +1,6 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Cost Aggregation#Description|📝]]"
 ---
 [[Cost estimates]] are aggregated by [[Work Package]]s in accordance with the [[Work Breakdown Structure|WBS]].
 

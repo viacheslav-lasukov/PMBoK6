@@ -3,8 +3,7 @@ tags:
   - "tool-technique"
   - "procurement/technique"
   - "tool-technique/data-analysis"
-Description: "[[Make-or-Buy Analysis#Description|📝]]"
-Section: "12.1.2.3"
+PMBOK Section: "12.1.2.3"
 ---
 # Description
 Is used to determine whether work or [[Deliverables]] can best be accomplished by the [[Team]] or should be purchased from outside sources.

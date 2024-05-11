@@ -1,13 +1,10 @@
 ---
-page: .nan
-Section: "12.2.2.5"
 tags:
   - "tool-technique"
   - "topic"
   - "tool-technique/skill/interpersonal-team"
-Description: "[[Negotiation#Description|📝]]"
+PMBOK Section: "12.2.2.5"
 ---
-# Description
 A discussion aimed at reaching an agreement.
 ## [[Resource]] Negotiation
 The [[Project Management Team]]'s ability to influence others plays an important role in negotiating [[Resource]] allocation, as does the politics of the organizations involved. For example, convincing a [[Functional Manager]] about the high visibility of the project may influence him or her to assign the best [[Resource]]s to this project over competing ones.
@@ -25,3 +22,5 @@ Final document language reflects all [[Agreement]] reached.
 Negotiation should be led by a member of the procurement team that has the [[Authority]] to sign contracts.
 
 [[Project Manager]] and other members of the [[Project Management Team]] may be present during [[negotiation]] to provide assistance as needed.
+## [[Requirements Negotiation]]
+![[Requirements Negotiation]]

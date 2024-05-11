@@ -1,11 +1,10 @@
 ---
 tags:
-  - tool-technique
-  - tool-technique/data-representation
-Description: "[[Flowchart#Description|📝]]"
-Section: 8.1.2.5
+  - "tool-technique"
+  - "tool-technique/data-representation"
 aliases:
-  - Process Map
+  - "Process Map"
+PMBOK Section: "8.1.2.5"
 ---
 # Description
 Displays the sequence of steps and the branching possibilities that exist for a process that transforms one or more inputs into one or more outputs.

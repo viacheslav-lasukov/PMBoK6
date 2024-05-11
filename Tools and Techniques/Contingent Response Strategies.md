@@ -1,8 +1,7 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Contingent Response Strategies#Description|📝]]"
-Section: "11.5.2.6"
+PMBOK Section: "11.5.2.6"
 ---
 # Description
 Some [[Risk Responses]] are designed for use only if certain events occur.

@@ -1,18 +1,17 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Strategies for Opportunities#Description|📝]]"
-Section: "11.5.2.5"
+PMBOK Section: "11.5.2.5"
 ---
 # Description
-For [[individual project risk]]s.
+For [[Individual Project Risk]]s.
 ## Escalate
 Appropriate when the [[Team]] or the [[Sponsor]] agrees that an opportunity is outside the [[Project Scope]] or that the proposed response would exceed the [[Project Manager]]'s [[Authority]]. Escalated opportunities are managed at the [[Program]] level, [[Portfolio]] level, or other relevant part of the organization, and not on the [[Project]] level. The [[Project Manager]] determines who should be notified abosut the [[opportunity]] and communicates the details to that person or part of the [[Organization]]. It is important that ownership of escalated opportunities is accepted by the relevant party in the [[Organization]]. Opportunities are usually escalated to the level that matches the objectives that would be affected if the opportunity occurred. Escalated opportunities are not monitored further by the [[Team]] after escalation, although they may be recorded in the [[Risk Register]] for information.
 ## Exploit
 May be selected for high-priority [[opportunity|opportunities]] where the [[Organization]] wants to ensure that the [[opportunity]] is realized. Seeks to capture the benefit associated with a particular [[opportunity]] by ensuring that it definitely happens, increasing the **probability** of occurrence to 100%.
 ### Examples
 - assigning an organization's most talented [[Resource]]s to reduce the time to completion
-- using new technologies or technology upgrades to reduce cost and [[duration]]
+- using new technologies or technology upgrades to reduce cost and [[Duration]]
 ## Share
 Involves transferring ownership of an [[opportunity]] to a third party so that it shares some of the benefit if the [[opportunity]] occurs. It is important to select the new owner of a shared [[opportunity]] carefully so they are best able to capture the [[opportunity]] for the benefit. Often involves payment of a [[Risk]] premium to the party taking on the [[opportunity]].
 ### Examples

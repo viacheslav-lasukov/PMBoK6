@@ -2,8 +2,7 @@
 tags:
   - "tool-technique"
   - "meeting"
-Description: "[[Problem Solving#Description|📝]]"
-Section: "8.2.2.7"
+PMBOK Section: "8.2.2.7"
 ---
 # Description
 Entails finding solutions for issues or challenges.

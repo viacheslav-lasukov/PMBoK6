@@ -3,8 +3,7 @@ tags:
   - "tool-technique"
   - "diagram"
   - "tool-technique/data-representation"
-Description: "[[Matrix Diagrams#Description|📝]]"
-Section: "8.1.2.5"
+PMBOK Section: "8.1.2.5"
 ---
 A [[8 Quality Management|Quality Management]] and [[8.3 Control Quality|Quality Control]] tool used to perform #tool-technique/data-analysis within the organizational structure created in the matrix.
 

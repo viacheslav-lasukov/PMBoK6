@@ -1,10 +1,9 @@
 ---
 tags:
-  - diagram
-  - tool-technique/data-representation
-  - tool-technique
-Description: "[[Affinity Diagrams#Description|📝]]"
-Section: 5.2.2.5
+  - "diagram"
+  - "tool-technique/data-representation"
+  - "tool-technique"
+PMBOK Section: "5.2.2.5"
 ---
 # Description
 Allows large numbers of ideas to be classified into groups for review and analysis.

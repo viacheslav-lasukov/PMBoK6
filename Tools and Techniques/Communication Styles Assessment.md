@@ -2,8 +2,7 @@
 tags:
   - "tool-technique"
   - "tool-technique/skill/interpersonal-team"
-Description: "[[Communication Styles Assessment#Description|📝]]"
-Section: "10.1.2.6"
+PMBOK Section: "10.1.2.6"
 ---
 A technique used to assess communication styles and identify the preferred communication method, format, and content for planned communication activities.
 

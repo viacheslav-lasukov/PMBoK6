@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "tool-technique/skill/interpersonal-team"
-Description: "[[Networking#Description|📝]]"
 ---
 # Description
 Establishing connections and relationships with other people from the same or other organizations.

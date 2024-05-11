@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "topic"
-Description: "[[Knowledge Management#Description|📝]]"
 ---
 # Description
 [[Knowledge management]] tools and techniques connect people so they can work together to create new knowledge, share [[Tacit Knowledge]], and integrate the [[Knowledge]] of diverse team members.

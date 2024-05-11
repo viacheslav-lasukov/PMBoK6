@@ -1,5 +1,5 @@
 ---
 tags:
-  - tool-technique
-  - system
+  - "tool-technique"
+  - "system"
 ---

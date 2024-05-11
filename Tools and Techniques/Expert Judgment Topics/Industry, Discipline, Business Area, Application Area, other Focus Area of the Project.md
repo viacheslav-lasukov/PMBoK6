@@ -1,8 +1,7 @@
 ---
 tags:
-  - topic
-  - influence/eef
-Description: "[[Industry, Discipline, Business Area, Application Area, other Focus Area of the Project#Description|📝]]"
+  - "topic"
+  - "influence/eef"
 ---
 # Description
 

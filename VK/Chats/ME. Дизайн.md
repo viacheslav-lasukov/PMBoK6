@@ -6,5 +6,5 @@ Participants:
   - "[[Designer]]"
 ---
 # Topics
-- [[Design]]-related topics and quesitons
+- [[VK/Governance/Competencies/Design]]-related topics and quesitons
 - Предложение идей по дизайну

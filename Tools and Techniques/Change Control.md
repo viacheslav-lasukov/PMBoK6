@@ -1,13 +1,12 @@
 ---
 tags:
-  - tool-technique
-  - influence/opa
-Description: "[[Change Control#Description|📝]]"
-Category: Policies, Processes, Procedures
+  - "tool-technique"
+  - "influence/opa"
+Category: "Policies, Processes, Procedures"
 ---
 A process whereby modifications to documents, [[deliverables]], or #baseline s are identified, documented, approved, or rejected.
 
-Configuration [[Control]] is focused on the [[Specification]] of both the [[deliverables]] and the processes, while [[change control]] is focused on identifying, documenting, and approving or rejecting changes to the #project-document s, [[deliverables]], or #baseline s.
+Configuration [[Control]] is focused on the [[Requirements Specification|Specification]] of both the [[deliverables]] and the processes, while [[change control]] is focused on identifying, documenting, and approving or rejecting changes to the #project-document s, [[deliverables]], or #baseline s.
 ## Tools Should Support the Following
 ### Configuration Management Activities
 - **Identify configuration item** — Identification and selection of a configuration item to provide the basis for which the [[Product]] configuration is defined and verified, [[Product]]s and documents are labeled, [[Change]]s are managed, and accountability is maintained.

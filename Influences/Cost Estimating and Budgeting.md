@@ -1,8 +1,7 @@
 ---
 tags:
-  - influence/opa
-  - topic
-Category: Policies, Processes, Procedures
-Description: "[[Cost Estimating and Budgeting#Description|📝]]"
+  - "influence/opa"
+  - "topic"
+Category: "Policies, Processes, Procedures"
 ---
 # Desciption

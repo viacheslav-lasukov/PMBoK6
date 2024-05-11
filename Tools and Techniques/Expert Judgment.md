@@ -1,6 +1,6 @@
 ---
 tags:
-  - tool-technique
+  - "tool-technique"
 ---
 Judgment provided based upon expertise in an application area, #pmbok6/knowledge-area, discipline, industry, etc., as appropriate for the activity being performed.
 

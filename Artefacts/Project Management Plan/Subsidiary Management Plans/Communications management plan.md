@@ -32,4 +32,4 @@ The component of the [[Project Management Plan]].
  - project team meetings
  - e-meetings
  - email messages
- The use of a project website and [[Project Management]] software can be included if these are to be used in the project.
+ The use of a project website and [[Disciplines/Project Management]] software can be included if these are to be used in the project.

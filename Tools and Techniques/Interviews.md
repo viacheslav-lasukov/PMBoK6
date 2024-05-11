@@ -1,12 +1,8 @@
 ---
-page: .nan
-section: "5.2.2.2"
 tags:
-  - "tool-technique"
   - "tool-technique/data-gathering"
-Description: "[[Interviews#Description|📝]]"
+  - "tool-technique/requirements-elicitation"
 ---
-# Description
 A formal or informal approach to elicit [[Information]] from stakeholders by talking to them directly.
 
 Performed by asking prepared and spontaneous questions and recording the responses.

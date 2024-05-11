@@ -1,8 +1,7 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Virtual Team#Description|📝]]"
-Section: "9.3.2.4"
+PMBOK Section: "9.3.2.4"
 ---
 # Description
 Groups of people with a shared goal who fulfill their roles with little or no time spent meeting face to face.

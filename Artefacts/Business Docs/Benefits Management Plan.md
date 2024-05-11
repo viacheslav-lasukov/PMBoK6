@@ -8,9 +8,9 @@ Description: "[[Benefits Management Plan#Description|📝]]"
 # Description
 Describes how and when the [[Benefit]]s of the will be delivered, and describes the mechanisms that should be in place to measure those [[Benefit]]s.
 ## Includes
-- Target [[Benefit]]s (e.g., the expected tangible and intangible [[value]] to be gained; financial [[value]] is expressed as [[net present value]])
+- Target [[Benefit]]s (e.g., the expected tangible and intangible [[Value]] to be gained; financial [[Value]] is expressed as [[Net Present Value]])
 - Strategic alignment (e.g., how well the [[Benefit]]s align to the [[Organizational Strategy]]) 
-- Timeframe for realizing [[Benefit]]s (e.g., [[Benefit]]s by [[phase]], short-term, long-term, and ongoing)
+- Timeframe for realizing [[Benefit]]s (e.g., [[Benefit]]s by [[Phase]], short-term, long-term, and ongoing)
 - [[Benefit]]s owner (e.g., the accountable person to monitor, record, and report realized [[Benefit]]s throughout the timeframe established in the plan)
 - #metric s (e.g., the measures to be used to show [[Benefit]]s realized, direct measures, and indirect measures)
 - [[Assumption]]s (e.g., #factor s expected to be in place or to be in evidence)

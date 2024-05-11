@@ -1,7 +1,6 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Communication Requirements Analysis#Description|📝]]"
 ---
 Determines the [[Information]] needs of the [[Stakeholders]].
 
@@ -13,7 +12,7 @@ These [[Requirement]]s are defined by combining the type and format of [[Informa
 	- one-to-many
 	- many-to-many
 - [[Project Organization Chart]]
-- [[Project Organization]] and stakeholder responsibility, relationships, and interdependencies
+- [[Project]] organization and stakeholder responsibility, relationships, and interdependencies
 - [[Development approach]]
 - Disciplines, departments, and specialties
 - Logistics of how many persons will be involved and at which locations

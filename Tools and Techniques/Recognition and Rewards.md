@@ -1,7 +1,6 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Recognition and Rewards#Description|📝]]"
 ---
 # Description
 Relates to [[Motivation]].

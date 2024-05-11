@@ -1,8 +1,7 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Communication Models#Description|📝]]"
-Section: "10.1.2.4"
+PMBOK Section: "10.1.2.4"
 ---
 This communication model and its enhancements can assist in developing communication strategies and plans for person-to-person or even small group to small group communications. It is not useful for other communications artifacts such as emails, broadcast messages, or social media.
 ## Models

@@ -1,5 +1,0 @@
----
-tags:
-  - artefact
-  - product-management
----

@@ -2,9 +2,8 @@
 tags:
   - "tool-technique"
   - "tool-technique/skill/interpersonal-team"
-Description: "[[Influencing#Description|📝]]"
-Section: "9.5.2.1"
-Page: 349
+PMBOK Section: "9.5.2.1"
+PMBOK Page: 349
 ---
 # Description
 Because [[Project Manager]]s often have little or no direct [[Authority]] over team members in a matrix environment, their ability to influence stakeholders on a timely basis is critical to project success.

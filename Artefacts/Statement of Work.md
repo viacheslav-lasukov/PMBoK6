@@ -20,7 +20,7 @@ Can be revised as required as it moves through the procurement process until inc
 
 [[Terms of Reference]] is sometimes used when contracting for services.
 ## Includes
-- [[Specification]]s
+- [[Requirements Specification|Specification]]s
 - quantity desired
 - [[Quality]] levels
 - performance data

@@ -1,11 +1,10 @@
 ---
 tags:
-  - influence/eef
-  - topic
-Description: ""
-Category: Internal
+  - "influence/eef"
+  - "topic"
+Category: "Internal"
 aliases:
-  - Cultural
+  - "Cultural"
 ---
 # Types
 - Political

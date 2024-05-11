@@ -2,11 +2,10 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Risk Data Quality Assessment#Description|📝]]"
-Section: "11.3.2.3"
+PMBOK Section: "11.3.2.3"
 ---
 # Description
-Evaluates the degree to which the [[Data]] about [[individual project risk]]s is accurate and reliable as a basis for [[11.3 Perform Qualitative Risk Analysis|Qualitative Risk Analysis]].
+Evaluates the degree to which the [[Data]] about [[Individual Project Risk]]s is accurate and reliable as a basis for [[11.3 Perform Qualitative Risk Analysis|Qualitative Risk Analysis]].
 
 The use of low-[[Quality]] risk [[Data]] may lead to a [[11.3 Perform Qualitative Risk Analysis|Qualitative Risk Analysis]] that is of little use to the project.
 

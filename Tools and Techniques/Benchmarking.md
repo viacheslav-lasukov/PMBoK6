@@ -1,10 +1,7 @@
 ---
-page:
-section: "8.1.2.2"
 tags:
   - "tool-technique"
   - "tool-technique/data-gathering"
-Description: "[[Benchmarking#Description|📝]]"
 ---
 # Description
 Involves comparing actual or planned practices or the [[Quality Standards]] to those of comparable [[Project]]s to identify best practices, generate ideas for improvement, and provide a basis for measuring performance.

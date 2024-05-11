@@ -1,9 +1,8 @@
 ---
 tags:
-  - tool-technique
-  - influence/opa
-Description: "[[Individual and Team Performance Assessments#Description|📝]]"
-Category: Policies, Processes, Procedures
+  - "tool-technique"
+  - "influence/opa"
+Category: "Policies, Processes, Procedures"
 ---
 # Description
 Gives the [[Project Manager]] and the [[Team]] insight into areas of strengths and weaknesses.

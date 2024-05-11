@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Reserve Analysis#Description|📝]]"
 ---
 # Description
 Is used to determine the amount of [[Contingency Reserves]] and [[Management Reserves]] needed for the project.
@@ -13,10 +12,10 @@ Duration estimates may include [[Contingency Reserves]], sometimes referred to a
 
 [[Contingency Reserves]] are associated with the known-unknowns, which may be estimated to account for this unknown amount of [[Rework]].
 
-The [[contingency reserves]] may be a percentage of the estimated [[Activity Duration]]/budget or a fixed number of work periods.
+The [[Contingency Reserves]] may be a percentage of the estimated [[Activity Duration]]/budget or a fixed number of work periods.
 
 [[Contingency Reserves]] may be separated from the individual activities and aggregated.
 
-As more precise [[Information]] about the project becomes available, the [[contingency reserves]] may be used, reduced, or eliminated.
+As more precise [[Information]] about the project becomes available, the [[Contingency Reserves]] may be used, reduced, or eliminated.
 
 Contingency should be clearly identified in the schedule/cost documentation.

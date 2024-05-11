@@ -1,8 +1,6 @@
 ---
 tags:
-  - tool-technique
-  - estimation
-Description: "[[Three-Point Estimating#Description|📝]]"
+  - "tool-technique/estimation"
 ---
 # Description
 ## For Schedule

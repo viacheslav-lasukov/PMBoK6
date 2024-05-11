@@ -1,8 +1,7 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Communication Methods#Description|📝]]"
-Section: "10.1.2.5"
+PMBOK Section: "10.1.2.5"
 ---
 # Description
 ## Dimensions

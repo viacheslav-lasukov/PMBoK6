@@ -1,6 +1,7 @@
 ---
 tags:
   - agile/framework
+  - safe
 aliases:
   - SAFe
 ---
@@ -52,7 +53,7 @@ Minimal set of roles, events, and artifacts.
 - [[Capability]]
 - [[Solution Backlog]]
 - [[Solution Epic]]s
-- [[Non-Functional Requirements]]
+- [[Non-Functional Requirement]]
 - [[Enabler Capabilities]]
 ### Roles
 - [[Supplier]]s

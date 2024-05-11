@@ -4,6 +4,7 @@ aliases:
   - Review
   - демо
   - Демо
+  - Sprint Demo
 tags:
   - agile/practice
   - meeting

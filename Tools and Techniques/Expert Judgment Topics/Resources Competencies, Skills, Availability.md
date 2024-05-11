@@ -1,7 +1,7 @@
 ---
 tags:
-  - topic
-  - influence/eef
+  - "topic"
+  - "influence/eef"
 ---
 ## Examples
 - Contracting and purchasing

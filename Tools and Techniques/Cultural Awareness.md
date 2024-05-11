@@ -2,8 +2,7 @@
 tags:
   - "tool-technique"
   - "tool-technique/skill/interpersonal-team"
-Description: "[[Cultural Awareness#Description|📝]]"
-Section: "10.1.2.6"
+PMBOK Section: "10.1.2.6"
 ---
 # Description
 An understanding of the differences between individuals, groups, and organizations and adapting the project's [[Communication Strategy]] in the context of these differences.

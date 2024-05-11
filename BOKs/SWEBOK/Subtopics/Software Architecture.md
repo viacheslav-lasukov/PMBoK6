@@ -1,0 +1,1 @@
+Set of structures needed to reason about the system, which comprise software elements, relations among them, and properties of both.

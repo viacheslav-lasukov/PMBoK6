@@ -1,10 +1,8 @@
 ---
-page: .nan
-Section: "10.2.2.3"
 tags:
   - "tool-technique"
   - "tool-technique/skill/communication"
-Description: "[[Feedback#Description|📝]]"
+PMBOK Section: "10.2.2.3"
 ---
 # Description
 Information about reactions to communications, a [[Deliverables|deliverable]], or a situation.

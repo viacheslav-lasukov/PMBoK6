@@ -5,14 +5,13 @@ tags:
   - "artefact"
 Description: "[[Change Requests#Description|📝]]"
 ---
-# Description
 Formal [[Proposal]] to modify any document, [[Deliverables|deliverable]], or baseline. Unapproved changes, before they land in the [[Change Log]].
 
 When issues are found **while project work is being performed**, [[change requests]] which may modify:
 - [[Project Management Plan]]
 - [[Project Management Plan]] components
-- Project documents
-- Activities
+- #project-document s
+- [[Activity|Activities]]
 - [[Deliverables]]
 - project policies or procedures
 - [[Project Scope]]

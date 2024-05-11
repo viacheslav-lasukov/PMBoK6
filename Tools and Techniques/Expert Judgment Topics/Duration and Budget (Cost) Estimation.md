@@ -1,4 +1,4 @@
 ---
-tags: topic
+tags: "topic"
 ---
 

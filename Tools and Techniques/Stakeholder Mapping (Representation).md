@@ -1,10 +1,8 @@
 ---
-page: .nan
-Section: "13.1.2.4"
 tags:
   - "tool-technique"
   - "tool-technique/data-representation"
-Description: "[[Stakeholder Mapping (Representation)#Description|📝]]"
+PMBOK Section: "13.1.2.4"
 ---
 # Description
 A method of categorizing [[Stakeholders]] using various methods.
@@ -14,7 +12,7 @@ Categorizing [[Stakeholders]] assists the [[Team]] in building relationships wit
 ### Power-Interest / Power-Influence / Impact-Influence Grid
 Supports a grouping of stakeholders according to their level of [[Authority]] (**power**), level of concern about the [[Project Outcome]]s (**interest**), ability to influence the outcomes of the project (**influence**), or ability to cause changes to the project's [[Planning]] or [[Executing|execution]]. Is useful for small projects or for projects with simple relationships between stakeholders and the project, or within the [[Stakeholder Community]] itself.
 ### Stakeholder cube
-This is a refinement of the [[#Power-Interest / Power-Influence / Impact-Influence Grid]]. Combines the grid elements into a three-dimensional model that can be useful to [[Project Manager]]s and [[Team]]s in identifying and engaging their [[stakeholder community]]. Provides a model with multiple dimensions that improves the depiction of the [[Stakeholder Community]] as a multidimensional entity and assists with the development of communication strategies.
+This is a refinement of the [[#Power-Interest / Power-Influence / Impact-Influence Grid]]. Combines the grid elements into a three-dimensional model that can be useful to [[Project Manager]]s and [[Team]]s in identifying and engaging their [[Stakeholder Community]]. Provides a model with multiple dimensions that improves the depiction of the [[Stakeholder Community]] as a multidimensional entity and assists with the development of communication strategies.
 ### Salience model
 Describes classes of [[Stakeholders]] based on assessments of their:
 - [[Authority|power]] (level of [[Authority]] or ability to influence the [[Project Outcome]]s)

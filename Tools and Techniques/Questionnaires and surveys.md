@@ -1,10 +1,8 @@
 ---
-page: .nan
-Section: "5.2.2.2"
 tags:
   - "tool-technique"
   - "tool-technique/data-gathering"
-Description: "[[Questionnaires and Surveys#Description|📝]]"
+PMBOK Section: "5.2.2.2"
 ---
 # Description
 Written sets of questions designed to quickly accumulate [[Information]] from a large number of respondents.

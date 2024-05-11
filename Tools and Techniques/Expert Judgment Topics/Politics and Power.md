@@ -1,5 +1,5 @@
 ---
 tags:
-  - topic
+  - "topic"
 ---
 [[Authority]]

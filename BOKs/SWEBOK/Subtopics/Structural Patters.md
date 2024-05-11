@@ -1,0 +1,11 @@
+---
+tags:
+  - design-pattern-category
+---
+- [[Adapter]]
+- [[Bridge]]
+- [[Composite]]
+- [[Decorator]]
+- [[Facade]]
+- [[Flyweight]]
+- [[Proxy]]

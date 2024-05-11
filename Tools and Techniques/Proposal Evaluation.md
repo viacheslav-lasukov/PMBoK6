@@ -3,8 +3,7 @@ tags:
   - "tool-technique"
   - "topic"
   - "tool-technique/data-analysis"
-Description: "[[Proposal Evaluation#Description|📝]]"
-Section: "12.2.2.1"
+PMBOK Section: "12.2.2.1"
 ---
 # Description
 The process of reviewing [[Proposal]]s provided by [[Supplier]]s to support [[Agreement|contract]] award decisions.

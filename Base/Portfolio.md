@@ -1,1 +1,1 @@
-[[Project]]s, [[Program]]s, subsidiary [[Portfolio]]s, and [[operation]]s managed as a group to achieve strategic [[Objective]]s.
+[[Project]]s, [[Program]]s, subsidiary [[Portfolio]]s, and [[Operation]]s managed as a group to achieve strategic [[Objective]]s.

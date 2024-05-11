@@ -1,10 +1,7 @@
 ---
-page: .nan
-section: "5.2.2.3"
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Document Analysis#Description|📝]]"
 ---
 # Description
 Reviewing and assessing any relevant documented information. Elicit requirements by analyzing existing documentation and identifying [[Information]] relevant to the requirements.

@@ -1,10 +1,7 @@
 ---
-page: .nan
-section: "10.2.2.6"
 tags:
   - "tool-technique"
   - "tool-technique/skill/interpersonal-team"
-Description: "[[Meeting Management#Description|📝]]"
 ---
 # Description
 Taking steps to ensure meetings meet their intended objectives effectively and efficiently.

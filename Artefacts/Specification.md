@@ -1,1 +1,0 @@
-A precise statement of the needs to be satisfied and the essential characteristics that are required.

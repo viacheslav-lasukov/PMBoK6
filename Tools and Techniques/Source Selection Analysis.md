@@ -2,8 +2,7 @@
 tags:
   - "tool-technique"
   - "procurement/technique"
-Description: "[[Source Selection Analysis#Description|📝]]"
-Section: "12.1.2.4"
+PMBOK Section: "12.1.2.4"
 ---
 # Description
 It is necessary to review the prioritization of the competing demands before deciding on the selection method.

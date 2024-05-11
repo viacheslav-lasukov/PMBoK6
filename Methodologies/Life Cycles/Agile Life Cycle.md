@@ -9,7 +9,7 @@ Delivery: "Frequent small deliveries"
 Goal: "Customer value via frequent deliveries and feedback"
 ---
 # #agile-practice-guide 
-Leverage both the aspects of [[Iterative Life Cycle|iterative]] and [[Incremental Life Cycle|incremental]] characteristics. When [[Team|team]]s use agile approaches, they iterate over the product to create finished [[Deliverables]]. The [[Team|team]] gains early feedback and provides [[customer]] visibility, confidence, and [[control]] of the [[product]]. Because [[Team|team]] can release earlier, the [[Project|project]] may provide an earlier ROI because the [[Team|team]] delivers the highest [[value]] work first.
+Leverage both the aspects of [[Iterative Life Cycle|iterative]] and [[Incremental Life Cycle|incremental]] characteristics. When [[Team|team]]s use agile approaches, they iterate over the product to create finished [[Deliverables]]. The [[Team|team]] gains early feedback and provides [[Customer]] visibility, confidence, and [[control]] of the [[product]]. Because [[Team|team]] can release earlier, the [[Project|project]] may provide an earlier ROI because the [[Team|team]] delivers the highest [[Value]] work first.
 ![[Iteration-Based and Flow-Based Agile Life Cycles.png]]
 ## Agile Manifesto
 - **Individuals and interactions** over processes and tools
@@ -17,7 +17,7 @@ Leverage both the aspects of [[Iterative Life Cycle|iterative]] and [[Incrementa
 - **Customer collaboration** over contract negotiation
 - **Responding to change** over following a plan
 ## Principles
-- Our highest priority is to satisfy the [[customer]] through the early and continuous delivery of valuable software.
+- Our highest priority is to satisfy the [[Customer]] through the early and continuous delivery of valuable software.
 - Working software is the primary measure of progress.
 - Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
 - Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
@@ -36,11 +36,11 @@ Leverage both the aspects of [[Iterative Life Cycle|iterative]] and [[Incrementa
 ## Uncertainty
 ![[Uncertainty and Complexity Model Inspired by the Stacey Complexity Model.png]]
 ## Agile Roles
-| Role | Description |
-| ---- | ---- |
-| Cross-functional [[Team]] member |  |
-| [[Product Owner]] |  |
-| Team Facilitator |  |
+| Role                             | Description |
+| -------------------------------- | ----------- |
+| Cross-functional [[Team]] member |             |
+| [[Product Owner]]                |             |
+| Team Facilitator                 |             |
 ## Agile Practices
 - [[Retrospective]]
 - [[Backlog]] preparation
@@ -52,8 +52,8 @@ Leverage both the aspects of [[Iterative Life Cycle|iterative]] and [[Incrementa
 - [[Continuous Integration]]
 - Test at all levels
 	- [[Unit Testing]] should be done for the building blocks
-	- [[System-level testing]]  should be done to make sure that the building blocks are communicating data properly
-	- [[Smoke Testing]], also known as “Build Verification Testing”, is a type of software testing that is comprised of a set of tests that aim at ensuring that the most important functions work.  The result of this testing is used to decide if a build is stable enough to proceed with further testing.
+	- [[System-level testing]] should be done to make sure that the building blocks are communicating data properly
+	- [[Smoke Testing]] is comprised of a set of tests that aim at ensuring that the most important functions work. The result of this testing is used to decide if a build is stable enough to proceed with further testing.
 	- After [[Smoke Testing]], [[regression testing]] is done.  [[Regression testing]] is when you are testing around specific areas of an application where [[defect]]s have been fixed to ensure that no other issues have been introduced.
 	- [[Agile team]]s have a strong preference for [[automated test]]s that ensure uniformity of testing through the design-test-deliver cycle (see [[Acceptance Test-Driven Development|ATDD]]).
 - [[Acceptance Test-Driven Development]]
@@ -65,7 +65,7 @@ Leverage both the aspects of [[Iterative Life Cycle|iterative]] and [[Incrementa
 - [[Product Backlog Burnup Chart]]
 - [[Cumulative Flow Diagram]]
 - [[Earned Value Analysis|EVA]] ![[EV in an Agile Context.png]]
-## [[Project Management Office|PMO]] in Agile
+## Role of [[Project Management Office|PMO]] in Agile
 An Agile [[Project Management Office|PMO]] is:
 - Value-driven
 - Invitation-oriented. Incorporate the desire for employee engagement by inviting only those interested to engage with [[Project Management Office|PMO]] services.

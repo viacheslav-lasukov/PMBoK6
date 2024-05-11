@@ -1,8 +1,7 @@
 ---
 tags:
-  - tool-technique
-  - estimation
-Description: "[[Parametric Estimating#Description|📝]]"
+  - "tool-technique"
+  - "estimation"
 ---
 # Description
 An algorithm is used to calculate cost or duration based on historical [[Data]] and project parameters.

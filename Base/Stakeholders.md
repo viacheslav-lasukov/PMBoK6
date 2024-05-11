@@ -3,10 +3,14 @@ tags:
   - topic
   - role
   - phenomenon
+  - requirement-source
+aliases:
+  - Process Actors
 ---
-# Description
-An individual, group, or [[Organization]] that may affect, be affected by, or perceive itself to be affected by a decision, [[activity]], or [[Project Outcome]].
 
+| #pmbok                                                                                                                                                            | #swebok | #babok |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ |
+| An individual, group, or [[Organization]] that may affect, be affected by, or perceive itself to be affected by a decision, [[activity]], or [[Project Outcome]]. |         |        |
 May be internal or external to the [[Project]], they may be actively involved, passively involved, or unaware of the [[Project]].
 
 May have a positive or negative impact on the [[Project]].

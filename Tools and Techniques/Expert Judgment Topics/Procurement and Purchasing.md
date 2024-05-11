@@ -1,5 +1,5 @@
 ---
 tags:
-  - topic
-  - procurement
+  - "topic"
+  - "procurement"
 ---

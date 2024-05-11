@@ -3,8 +3,7 @@ tags:
   - "tool-technique"
   - "diagram"
   - "tool-technique/data-representation"
-Description: "[[Scatter Diagrams#Description|📝]]"
-Section: "8.2.2.4"
+PMBOK Section: "8.2.2.4"
 ---
 # Description
 A graph that shows the relationship between two variables.

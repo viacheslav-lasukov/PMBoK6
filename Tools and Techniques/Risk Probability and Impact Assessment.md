@@ -2,8 +2,7 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-analysis"
-Description: "[[Risk Probability and Impact Assessment#Description|📝]]"
-Section: "11.3.2.3"
+PMBOK Section: "11.3.2.3"
 ---
 # Description
 Considers the likelihood that a specific risk will occur.
@@ -12,7 +11,7 @@ Considers the potential effect on one or more project objectives such as schedul
 
 Impacts will be negative for threats and positive for opportunities.
 
-Probability and impact are assessed for each identified [[individual project risk]].
+Probability and impact are assessed for each identified [[Individual Project Risk]].
 
 Risks can be assessed in interviews or meetings with participants selected for their familiarity with the types of risk recorded in the [[Risk Register]].
 

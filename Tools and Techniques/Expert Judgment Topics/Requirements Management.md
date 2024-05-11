@@ -1,10 +1,14 @@
 ---
 tags:
-  - topic
-  - ba
+  - "topic"
+  - "ba"
 ---
-## #ba Definition
+
+| #pmbok | #swebok  | #babok  |
+| ------ | ------- | ------- |
+|        |          |         |
+
 Planning, executing, monitoring, and controlling any or all of the work associated with:
-- requirements [[Elicitation and Collaboration]]
+- requirements [[Requirements Elicitation and Collaboration]]
 - [[Requirements Analysis and Design]]
 - [[Requirements Life Cycle Management]]

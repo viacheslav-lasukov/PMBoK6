@@ -1,10 +1,9 @@
 ---
-Description: "[[Contract Types#Description|📝]]"
 tags:
-  - influence/opa
-  - topic
-  - procurement
-Category: Policies, Processes, Procedures
+  - "influence/opa"
+  - "topic"
+  - "procurement"
+Category: "Policies, Processes, Procedures"
 ---
 | Category | Description | Suitable When | Type | Description | Suitable When | Example |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |

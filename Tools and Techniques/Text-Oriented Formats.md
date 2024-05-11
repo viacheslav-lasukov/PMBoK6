@@ -2,7 +2,6 @@
 tags:
   - "tool-technique"
   - "tool-technique/data-representation"
-Description: "[[Text-Oriented Formats#Description|📝]]"
 ---
 # Description
 Team member responsibilities that require detailed descriptions can be specified in [[text-oriented formats]].

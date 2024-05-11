@@ -1,7 +1,6 @@
 ---
 tags:
   - "tool-technique"
-Description: "[[Ground Rules#Description|📝]]"
 ---
 Defined in the [[team charter]].
 

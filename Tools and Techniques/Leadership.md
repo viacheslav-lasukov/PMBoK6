@@ -2,8 +2,7 @@
 tags:
   - "tool-technique"
   - "tool-technique/skill/interpersonal-team"
-Description: "[[Leadership#Description|📝]]"
-Section: "3.4.4"
+PMBOK Section: "3.4.4"
 ---
 # Description
 ##### Involve the ability to

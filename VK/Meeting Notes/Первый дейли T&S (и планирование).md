@@ -8,7 +8,7 @@ Date: 2024-02-27
 Agenda: "[[Первый дейли T&S (и планирование)#Agenda|📝]]"
 Notes: "[[Первый дейли T&S (и планирование)#Notes|📝]]"
 ActionItems: "[[Первый дейли T&S (и планирование)#Action Items|📝]]"
-Organizer:
+Organizer: 
 ---
 > [!NOTE]- Template and Guideline
 > ![[Meeting Facilitator Canvas.pdf]]

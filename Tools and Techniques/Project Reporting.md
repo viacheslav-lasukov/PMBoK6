@@ -1,9 +1,8 @@
 ---
 tags:
-  - tool-technique
-  - influence/opa
-Description: "[[Project Reporting#Description|📝]]"
-Section: 10.2.2.5
+  - "tool-technique"
+  - "influence/opa"
+PMBOK Section: "10.2.2.5"
 ---
 # Description
 The act of collecting and distributing project information.

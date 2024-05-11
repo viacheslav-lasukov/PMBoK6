@@ -1,6 +1,6 @@
 ---
 tags:
-  - topic
-  - system
+  - "topic"
+  - "system"
 ---
 # Description

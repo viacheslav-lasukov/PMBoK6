@@ -1,4 +1,4 @@
 ---
 tags:
-  - tool-technique/skill/interpersonal
+  - "tool-technique/skill/interpersonal"
 ---

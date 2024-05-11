@@ -1,15 +1,14 @@
 ---
 tags:
-  - tool-technique
-  - topic
-  - meeting
-Description: "[[Audit#Description|📝]]"
-Section: 8.2.2.5
+  - "tool-technique"
+  - "topic"
+  - "meeting"
+PMBOK Section: "8.2.2.5"
 ---
 # Description
 A structured, independent process used to determine if [[activity|activities]] comply with organizational and project Policies, Processes, Procedures.
 ## [[Quality]] Audit
-The subsequent [[effort]] to correct any deficiencies should result in a reduced [[cost of quality]] and an increase in [[sponsor]] or [[Customer]] acceptance of the [[Products, Services, Results]].
+The subsequent [[Effort]] to correct any deficiencies should result in a reduced [[cost of quality]] and an increase in [[sponsor]] or [[Customer]] acceptance of the [[Products, Services, Results]].
 
 May be scheduled or random.
 

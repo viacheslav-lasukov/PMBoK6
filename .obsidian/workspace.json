@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f15bcfdaca5656cb",
+        "id": "cfbd910afff32d77",
         "type": "tabs",
         "children": [
           {
-            "id": "0e19d9b5b1e4bc26",
+            "id": "d8f54e804a8a597f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BOKs/BABOK/Requirements Life Cycle Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Requirements Life Cycle Management"
+              "title": "New tab"
             }
           }
         ]
@@ -62,6 +57,16 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "897a4e51bb7a8d74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -107,11 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BOKs/BABOK/Requirements Life Cycle Management.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Requirements Life Cycle Management"
+              "title": "Outline"
             }
           },
           {
@@ -119,11 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "BOKs/BABOK/Requirements Life Cycle Management.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Requirements Life Cycle Management"
+              "title": "File properties"
             }
           },
           {
@@ -132,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOKs/BABOK/Requirements Life Cycle Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Requirements Life Cycle Management"
+              "title": "Backlinks"
             }
           },
           {
@@ -173,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BOKs/BABOK/Requirements Life Cycle Management.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,15 +200,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Requirements Life Cycle Management"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,34 +219,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e19d9b5b1e4bc26",
+  "active": "d8f54e804a8a597f",
   "lastOpenFiles": [
-    "BOKs/BABOK/Requirements Analysis and Design.md",
-    "BOKs/BABOK/Business Need.md",
-    "BOKs/BABOK/Business Analysis Plan.md",
+    "BOKs/PMBOK/Process Groups/Executing.md",
+    "BOKs/PMBOK/Process Groups/Closing.md",
+    "BOKs/PMBOK/Process Groups/Initiating.md",
+    "BOKs/PMBOK/Process Groups/Monitoring and Controlling.md",
+    "BOKs/PMBOK/Processes/4.3 Direct and Manage Project Work.md",
+    "BOKs/PMBOK/Processes/4.1 Develop Project Charter.md",
+    "Tools and Techniques/Bar Chart.md",
+    "Tools and Techniques/Advertising.md",
+    "Tools and Techniques/Active Listening.md",
+    "Tools and Techniques/100 Dollar Test.md",
+    "Roles/Business Analyst.md",
+    "Roles/Buyer.md",
+    "Roles/Scrum Master.md",
+    "Phenomenons/Accuracy.md",
     "Phases/Discovery.md",
     "Phases/Delivery.md",
-    "Roles/Functional Manager.md",
-    "Roles/Buyer.md",
-    "Roles/Business Analyst.md",
-    "Onboarding.md",
-    "PMO.md",
-    "Training Program.md",
-    "Working Memory.md",
-    "Знакомство с Колей Бабиным(1).md",
-    "Tools and Techniques/Root Cause Analysis.md",
-    "Tools and Techniques/Risk Categorization.md",
-    "Artefacts/Risk Exposure.md",
-    "Artefacts/Project Management Plan/Subsidiary Management Plans/Risk Management Plan.md",
-    "Artefacts/Reports/Risk Report.md",
-    "Tools and Techniques/Meetings/Risk Review.md",
-    "Tools and Techniques/Expert Judgment Topics/Risk Responses.md",
-    "Artefacts/Registers/Risk Register.md",
-    "_templates/artefact.md",
-    "_templates/chat.md",
-    "_templates/competency.md",
-    "_templates/expert_judgment_topic.md",
-    "_templates/meeting_note.md",
+    "Mics/Requirements Management. A Practice Guide.md",
+    "Mics/Practice Standard for Work Breakdown Structures.md",
+    "Mics/Practice Standard for Scheduling.md",
+    "Mics/Practice Standard for Earned Value Management.md",
+    "Mics/PMI's Pulse of the Profession In-Depth Report. The Competitive Advantage of Effective Talent Management.md",
+    "Mics/International Standards Organization.md",
+    "Mics/Governance of Portfolios, Programs, and Projects. A Practice Guide.md",
+    "Mics/Business Analysis for Practitioners. A Practice Guide.md",
+    "BOKs/BABOK/Requirements Life Cycle Management.md",
+    "BOKs/BABOK/Requirements Analysis and Design.md",
     "tasksCalendar/view.css",
     "tasksCalendar/view.js",
     "tasksCalendar",

@@ -7,7 +7,7 @@ aliases:
 # Processes
 ```dataview
 TABLE WITHOUT ID file.link as "Name"
-FROM #process
+FROM #pmbok6/process
 WHERE ProcessGroup=link(this.file.name)
 SORT page
 ```

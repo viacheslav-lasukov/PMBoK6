@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "path: SWEBoK  ",
+  "collapse-filter": true,
+  "search": "path:VK -file:Onboarding -path:\"VK/Meeting Notes\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -41,16 +41,9 @@
         "a": 1,
         "rgb": 6084269
       }
-    },
-    {
-      "query": "tag:#pmbok6  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -60,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7790270933105956,
+  "scale": 0.6525092615714508,
   "close": true
 }

@@ -1,10 +1,10 @@
 ---
 tags:
-  - artefact
+  - "artefact"
 ---
 As part of the [[4.6 Perform Integrated Change Control]] process, a [[Change Log]] update indicates that some changes are approved and some are not.
 
-[[Change requests]] are processed according to the [[change management plan]] by the [[Project Manager]], [[Change Control Board|CCB]], or an assigned [[Team]] member.
+[[Change requests]] are processed according to the [[change management plan]] by the [[Roles/Project Manager]], [[Change Control Board|CCB]], or an assigned [[Team]] member.
 
 As a result, changes may be approved, deferred, or rejected.
 

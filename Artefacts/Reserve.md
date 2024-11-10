@@ -1,9 +1,9 @@
 ---
 tags:
-  - phenomenon
-  - risk
+  - "phenomenon"
+  - "risk"
 aliases:
-  - Buffer
+  - "Buffer"
 ---
 A provision in the [[project management plan]] to mitigate cost and/or schedule [[Risk]].
 

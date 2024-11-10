@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefact
+  - "artefact"
 ---
 The documented narrative description of the [[Product Scope]].
 

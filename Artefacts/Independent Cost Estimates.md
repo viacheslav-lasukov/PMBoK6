@@ -1,8 +1,7 @@
 ---
 tags:
-  - artefact
-  - procurement/document
-Description: "[[Independent Cost Estimates#Description|📝]]"
+  - "artefact"
+  - "procurement/document"
 ---
 # Description
 One of the [[Procurement Documentation]].

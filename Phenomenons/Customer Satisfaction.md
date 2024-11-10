@@ -3,4 +3,4 @@ tags:
   - phenomenon
 ---
 ## Measured by:
-- [[Cusstomer Satisfaction Score]]
+- [[Artefacts/Customer Satisfaction Score]]

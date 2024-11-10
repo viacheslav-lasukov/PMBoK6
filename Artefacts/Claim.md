@@ -1,6 +1,6 @@
 ---
 tags:
-  - procurement
+  - "procurement"
 ---
 A request, demand, or assertion of rights by a [[Seller]] against a [[Buyer]], or vice versa, for:
 - consideration

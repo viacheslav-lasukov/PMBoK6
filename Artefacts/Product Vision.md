@@ -1,7 +1,7 @@
 ---
 tags:
-  - artefact
-  - product-management
+  - "artefact"
+  - "product-management"
 aliases:
-  - vision
+  - "vision"
 ---

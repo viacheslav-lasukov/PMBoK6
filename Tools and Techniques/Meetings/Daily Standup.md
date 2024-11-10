@@ -20,7 +20,7 @@ aliases:
 # Who?
 - [[Team]]
 - [[Scrum Master]]
-- (optional) [[Product Owner]]
+- (optional) [[Roles/Product Owner]]
 # When?
 - ежедневно в одно и то же время
 - утром (самое раннее время, когда все члены команды уже на работе)

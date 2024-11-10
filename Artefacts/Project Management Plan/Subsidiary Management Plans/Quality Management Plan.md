@@ -1,10 +1,9 @@
 ---
-Section: 8.1.3.1
-Page: 
+Page:
 tags:
   - "#project-management-plan"
-Description: "[[Quality Management Plan#Description|📝]]"
-Started By: "[[8.1 Plan Quality Management]]"
+PMBOK Section: "8.1.3.1"
+Started By PMBOK Process: "[[8.1 Plan Quality Management]]"
 ---
 # Description
 The component of the [[Project Management Plan]].

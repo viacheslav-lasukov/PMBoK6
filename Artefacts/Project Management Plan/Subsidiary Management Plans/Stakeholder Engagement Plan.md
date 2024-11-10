@@ -1,10 +1,9 @@
 ---
-Section: 13.2.3.1
-Page: 
+Page:
 tags:
   - "#project-management-plan"
-Description: "[[Stakeholder Engagement Plan#Description|📝]]"
-Started By: "[[13.2 Plan Stakeholder Engagement]]"
+PMBOK Section: "13.2.3.1"
+Started By PMBOK Process: "[[13.2 Plan Stakeholder Engagement]]"
 ---
 # Description
 The component of the [[Project Management Plan]].

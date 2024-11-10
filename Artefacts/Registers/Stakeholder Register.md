@@ -1,10 +1,9 @@
 ---
 Page: 514
-Section: 13.1.3.1
 tags:
   - "#project-document"
-Started By: "[[13.1 Identify Stakeholders]]"
-Description: "[[Stakeholder Register#Description|📝]]"
+PMBOK Section: "13.1.3.1"
+Started By PMBOK Process: "[[13.1 Identify Stakeholders]]"
 ---
 # Description
 Contains [[Information]] about identified stakeholders.

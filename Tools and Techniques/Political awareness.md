@@ -5,7 +5,7 @@ tags:
 PMBOK Section: "10.1.2.6"
 ---
 # Description
-Helps the [[Project Manager]] to [[10.1 Plan Communications Management|Plan Communications]] based on the [[Environment]] as well as the organization's political environment.
+Helps the [[Roles/Project Manager]] to [[10.1 Plan Communications Management|Plan Communications]] based on the [[Environment]] as well as the organization's political environment.
 
 Political awareness concerns the recognition of power relationships, both formal and informal, and also the willingness to operate within these structures.
 

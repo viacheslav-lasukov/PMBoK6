@@ -1,7 +1,6 @@
 ---
 tags:
-  - artefact
-Description: "[[Closed Procurements#Description|📝]]"
+  - "artefact"
 ---
 # Description
 The [[Buyer]], usually through its authorized procurement administrator, provides the [[Seller]] with formal written notice that the contract has been completed.

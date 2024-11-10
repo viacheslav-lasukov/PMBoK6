@@ -1,6 +1,6 @@
 ---
 tags:
-  - architectural-style
+  - swebok/architectural-style
 ---
 - layers
 - pipes and filters

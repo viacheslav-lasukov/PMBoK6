@@ -8,7 +8,7 @@ A graphic display of #pmbok6/process [[Data]] over time and against established 
 
 Upper and lower [[Requirements Specification|Specification]] limits are based on the requirements and reflect the maximum and minimum values allowed. Upper and lower [[Control Limit]]s are different from [[Requirements Specification|Specification]] limits. The [[Control Limit]]s are determined using standard statistical calculations and principles to ultimately establish the natural capability for a stable process.
 
-The [[Project Manager]] and appropriate [[Stakeholders]] may use the statistically calculated [[Control Limit]]s to identify the points at which corrective action will be taken to prevent performance that remains outside the [[Control Limit]]s.
+The [[Roles/Project Manager]] and appropriate [[Stakeholders]] may use the statistically calculated [[Control Limit]]s to identify the points at which corrective action will be taken to prevent performance that remains outside the [[Control Limit]]s.
 ## Is Used to
 - determine whether or not a process is stable or has predictable performance
 - monitor various types of output variables

@@ -1,11 +1,10 @@
 ---
-Page: 
-Section: 7.3.3.1
+Page:
 tags:
   - "#baseline"
-  - artefact
-Description: "[[Cost Baseline#Description|📝]]"
-Started By: "[[7.3 Determine Budget]]"
+  - "artefact"
+PMBOK Section: "7.3.3.1"
+Started By PMBOK Process: "[[7.3 Determine Budget]]"
 ---
 # Description
 The component of the [[Project Management Plan]].

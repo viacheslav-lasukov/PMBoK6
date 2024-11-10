@@ -1,20 +1,17 @@
 ---
 tags:
-  - "tool-technique"
-  - "tool-technique/data-representation"
+  - tool-technique/data-representation
+  - swebok/notation
 aliases:
-  - "Process Map"
-PMBOK Section: "8.1.2.5"
+  - Process Map
+PMBOK Section: 8.1.2.5
+SWEBOK Category: Behavioral
 ---
-# Description
-Displays the sequence of steps and the branching possibilities that exist for a process that transforms one or more inputs into one or more outputs.
 
-Shows the activities, decision points, branching loops, parallel paths, and the overall order of processing by mapping the operational details of procedures that exist within a horizontal value chain.
-
-May be useful in understanding and estimating the [[Cost of Quality|COQ]] for a process.
-
-Information is obtained by using the workflow branching logic and associated relative frequencies to estimate the expected monetary value for the [[Conformance]] and nonconformance work required to deliver the expected conforming output. When flowcharts are used to represent the steps in a process, they are sometimes called process flows or process flow diagrams and they can be used for process improvement as well as identifying where [[Quality]] defects can occur or where to incorporate [[Quality]] checks.
-## Versions
+| #pmbok                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | #swebok                                                                          | #babok |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ |
+| Displays the sequence of steps and the branching possibilities that exist for a process that transforms one or more inputs into one or more outputs.<br><br>Shows the activities, decision points, branching loops, parallel paths, and the overall order of processing by mapping the operational details of procedures that exist within a horizontal value chain.<br><br>May be useful in understanding and estimating the [[Cost of Quality\|COQ]] for a process.<br><br>Information is obtained by using the workflow branching logic and associated relative frequencies to estimate the expected monetary value for the [[Conformance]] and nonconformance work required to deliver the expected conforming output. When flowcharts are used to represent the steps in a process, they are sometimes called process flows or process flow diagrams and they can be used for process improvement as well as identifying where [[Quality]] defects can occur or where to incorporate [[Quality]] checks. | Used to represent the flow of control and the associated actions to be performed |        |
+## Versions 
 ### SIPOC
 suppliers, inputs, process, outputs, and [[Customer]]s
 ![[The SIPOC Model.png]]

@@ -1,9 +1,8 @@
 ---
 tags:
   - "#project-document"
-Description: "[[Milestone List#Description|📝]]"
 aliases:
-  - Milestones
+  - "Milestones"
 ---
 # Description
 **Milestone** — significant point or event in a [[Project]].

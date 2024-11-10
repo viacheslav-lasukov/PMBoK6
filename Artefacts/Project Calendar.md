@@ -1,9 +1,8 @@
 ---
 tags:
   - "#project-document"
-  - influence/opa
-Description: "[[Project Calendar#Description|📝]]"
-Category: Knowledge Bases
+  - "influence/opa"
+Category: "Knowledge Bases"
 ---
 # Description
 Identifies working days and shifts that are available for scheduled activities.

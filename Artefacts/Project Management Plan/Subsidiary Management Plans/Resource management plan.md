@@ -1,10 +1,9 @@
 ---
-Section: 9.1.3.1
-Page: 
+Page:
 tags:
   - "#project-management-plan"
-Description: "[[Resource Management Plan#Description|📝]]"
-Started By: "[[9.1 Plan Resource Management]]"
+PMBOK Section: "9.1.3.1"
+Started By PMBOK Process: "[[9.1 Plan Resource Management]]"
 ---
 # Description
 The component of the [[Project Management Plan]].
@@ -18,7 +17,7 @@ May be divided between the [[Team Management Plan]] and [[Physical Resource Mana
 - **[[Roles and responsibilities]]**
 - **[[Project Organization Chart]]s**
 - **[[Team]] resource management**. Guidance on how [[Team]] [[Resource]]s should be defined, staffed, managed, and eventually released.
-- **[[Training]]**. Training strategies for [[Team]] members.
+- **[[Tools and Techniques/Training]]**. Training strategies for [[Team]] members.
 - **[[9.4 Develop Team|Team Development]]**. Methods for developing the [[Team]].
 - **[[9.6 Control Resources|Resources Control]]**
 - **Recognition plan**. Which recognition and rewards will be given to [[Team]] members, and when they will be given.

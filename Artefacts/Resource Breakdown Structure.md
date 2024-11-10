@@ -1,8 +1,7 @@
 ---
 tags:
   - "#project-document"
-Started By:
-Description: "[[Resource Breakdown Structure#Description|📝]]"
+Started By PMBOK Process:
 ---
 # Description
 A hierarchical list of team and physical [[Resource]]s related by category and [[Resource]] type that is used for planning, managing and controlling project work.

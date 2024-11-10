@@ -1,5 +1,5 @@
 ---
 tags:
-  - artefact
-  - jira/ticket
+  - "artefact"
+  - "jira/ticket"
 ---

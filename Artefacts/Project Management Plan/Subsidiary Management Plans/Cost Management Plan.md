@@ -1,12 +1,11 @@
 ---
-Section: ""
-Page: 
+Page:
 tags:
   - "#project-management-plan"
-Description: "[[Cost Management Plan#Description|📝]]"
 Learn More:
   - "[[Practice Standard for Earned Value Management]]"
-Started By: "[[7.1 Plan Cost Management]]"
+PMBOK Section: ""
+Started By PMBOK Process: "[[7.1 Plan Cost Management]]"
 ---
 # Description
 The component of the [[Project Management Plan]].

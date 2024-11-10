@@ -12,7 +12,7 @@ Categorizing [[Stakeholders]] assists the [[Team]] in building relationships wit
 ### Power-Interest / Power-Influence / Impact-Influence Grid
 Supports a grouping of stakeholders according to their level of [[Authority]] (**power**), level of concern about the [[Project Outcome]]s (**interest**), ability to influence the outcomes of the project (**influence**), or ability to cause changes to the project's [[Planning]] or [[Executing|execution]]. Is useful for small projects or for projects with simple relationships between stakeholders and the project, or within the [[Stakeholder Community]] itself.
 ### Stakeholder cube
-This is a refinement of the [[#Power-Interest / Power-Influence / Impact-Influence Grid]]. Combines the grid elements into a three-dimensional model that can be useful to [[Project Manager]]s and [[Team]]s in identifying and engaging their [[Stakeholder Community]]. Provides a model with multiple dimensions that improves the depiction of the [[Stakeholder Community]] as a multidimensional entity and assists with the development of communication strategies.
+This is a refinement of the [[#Power-Interest / Power-Influence / Impact-Influence Grid]]. Combines the grid elements into a three-dimensional model that can be useful to [[Roles/Project Manager]]s and [[Team]]s in identifying and engaging their [[Stakeholder Community]]. Provides a model with multiple dimensions that improves the depiction of the [[Stakeholder Community]] as a multidimensional entity and assists with the development of communication strategies.
 ### Salience model
 Describes classes of [[Stakeholders]] based on assessments of their:
 - [[Authority|power]] (level of [[Authority]] or ability to influence the [[Project Outcome]]s)
@@ -24,6 +24,6 @@ Classifies [[Stakeholders]] according to their influence on the work or the [[Te
 - **Upward** (senior management of the [[Performing Organization]] or customer company, [[Sponsor]], and [[Portfolio Steering Committee]])
 - **Downward** (the [[Team]] or specialists contributing [[Knowledge]] or skills in a temporary capacity)
 - **Outward** (stakeholder groups and their representatives outside the [[Team]], such as [[Supplier]]s, [[Government]] departments, the public, end-users, and [[Regulator]]s), or
-- **Sideward** (the peers of the [[Project Manager]], such as other [[Project Manager]]s or middle management who are in competition for scarce [[Resource]]s or who collaborate with the [[Project Manager]] in sharing [[Resource]]s or information).
+- **Sideward** (the peers of the [[Roles/Project Manager]], such as other [[Roles/Project Manager]]s or middle management who are in competition for scarce [[Resource]]s or who collaborate with the [[Roles/Project Manager]] in sharing [[Resource]]s or information).
 ### Prioritization
 May be necessary with a large number of [[Stakeholders]], where the membership of the [[Stakeholder Community]] is changing frequently, or when the relationships between [[Stakeholders]] and the [[Team]] or within the [[Stakeholder Community]] are complex.

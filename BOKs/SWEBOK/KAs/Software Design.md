@@ -22,11 +22,3 @@ FROM #swebok/subtopic
 WHERE SWEBOK_Topic.SWEBOK_KA=this.file.link
 GROUP BY SWEBOK_Topic
 ```
-# Practical Considerations
-```dataview
-LIST
-FROM #swebok/practical-consideration
-WHERE SWEBOK_KA=this.file.link
-```
-# Tools
-

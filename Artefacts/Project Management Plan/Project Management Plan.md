@@ -1,8 +1,7 @@
 ---
 tags:
   - "#project-document"
-Description: ""
-Started By: "[[4.2 Develop Project Management Plan]]"
+Started By PMBOK Process: "[[4.2 Develop Project Management Plan]]"
 ---
 Describes how the [[Project]] will be [[Executing|executed]], [[Monitoring and Controlling|monitored and controlled]], and [[Closing|closed]].
 

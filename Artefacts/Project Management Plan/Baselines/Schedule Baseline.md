@@ -1,11 +1,10 @@
 ---
 Page: 217
-Section: 6.5.3.1
 tags:
   - "#baseline"
-  - artefact
-Description: "[[Schedule Baseline#Description|📝]]"
-Started By: "[[6.5 Develop Schedule]]"
+  - "artefact"
+PMBOK Section: "6.5.3.1"
+Started By PMBOK Process: "[[6.5 Develop Schedule]]"
 ---
 # Description
 The component of the [[Project Management Plan]].

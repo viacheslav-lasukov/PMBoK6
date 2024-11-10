@@ -73,7 +73,7 @@ Minimal set of roles, events, and artifacts.
 ## Full
 ![[Full SAFe.png]]
 # Roles
-- [[Agile Release Train Team]]
+- [[Agile wRelease Train Team]]
 - [[Release Train Engineer]]
 - [[Product Management]]
 - [[System Architect]]

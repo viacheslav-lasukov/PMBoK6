@@ -21,6 +21,6 @@ Final document language reflects all [[Agreement]] reached.
 
 Negotiation should be led by a member of the procurement team that has the [[Authority]] to sign contracts.
 
-[[Project Manager]] and other members of the [[Project Management Team]] may be present during [[negotiation]] to provide assistance as needed.
+[[Roles/Project Manager]] and other members of the [[Project Management Team]] may be present during [[negotiation]] to provide assistance as needed.
 ## [[Requirements Negotiation]]
 ![[Requirements Negotiation]]

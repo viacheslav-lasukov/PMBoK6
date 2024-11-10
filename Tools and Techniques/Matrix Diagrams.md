@@ -9,7 +9,7 @@ A [[8 Quality Management|Quality Management]] and [[8.3 Control Quality|Quality 
 
 Seeks to show the strength of relationships between factors, causes, and objectives that exist between the rows and columns that form the matrix.
 
-Depending on how many factors may be compared, the [[Project Manager]] can use different shapes of [[matrix diagrams]]:
+Depending on how many factors may be compared, the [[Roles/Project Manager]] can use different shapes of [[matrix diagrams]]:
 - L-shaped
 - T-shaped
 - Y-shaped

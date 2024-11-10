@@ -1,8 +1,8 @@
 ---
 tags:
-  - influence/opa
-  - system
-Category: Policies, Processes, Procedures
+  - "influence/opa"
+  - "system"
+Category: "Policies, Processes, Procedures"
 Learn More:
   - "[[International Standards Organization]]"
 ---

@@ -1,10 +1,9 @@
 ---
-Section: 5.4.3.1
 tags:
-  - baseline/component
-  - artefact
-  - wbs
-Description: "[[WBS Dictionary#Description|📝]]"
+  - "baseline/component"
+  - "artefact"
+  - "wbs"
+PMBOK Section: "5.4.3.1"
 ---
 # Description
 A document that provides detailed [[Deliverables|deliverable]], activity, and scheduling [[Information]] about each component in the [[Work Breakdown Structure]].

@@ -1,8 +1,7 @@
 ---
-Description: "[[Funding Requirements#Description|📝]]"
-Started By: "[[7.3 Determine Budget]]"
 tags:
-  - artefact
+  - "artefact"
+Started By PMBOK Process: "[[7.3 Determine Budget]]"
 ---
 # Description
 [[Forecast]] project costs to be paid that are derived from the [[cost baseline]] for total or periodic [[Requirement]]s, including projected expenditures plus anticipated liabilities.

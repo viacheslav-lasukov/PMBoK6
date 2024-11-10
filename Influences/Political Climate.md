@@ -1,8 +1,8 @@
 ---
 tags:
-  - influence/eef
-Category: Internal
+  - "influence/eef"
+Category: "Internal"
 aliases:
-  - Politics
+  - "Politics"
 ---
 

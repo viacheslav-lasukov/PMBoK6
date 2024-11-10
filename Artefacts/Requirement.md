@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefact
+  - "artefact"
 ---
 
 | #pmbok                                                                                                                         | #swebok                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | #babok                             |

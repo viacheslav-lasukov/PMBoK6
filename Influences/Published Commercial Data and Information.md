@@ -1,8 +1,8 @@
 ---
 tags:
-  - influence/eef
-  - influence/opa
-Category: Knowledge Bases
+  - "influence/eef"
+  - "influence/opa"
+Category: "Knowledge Bases"
 Description: "[[Published Commercial Data and Information#Description|📝]]"
 ---
 # Description

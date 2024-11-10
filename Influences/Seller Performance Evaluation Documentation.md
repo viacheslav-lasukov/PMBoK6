@@ -1,7 +1,7 @@
 ---
 tags:
-  - influence/opa
-Category: Knowledge Bases
+  - "influence/opa"
+Category: "Knowledge Bases"
 ---
 Is prepared by the [[Buyer]] and documents the [[Seller]]'s ability to continue to perform work on the current [[Agreement|contract]].
 

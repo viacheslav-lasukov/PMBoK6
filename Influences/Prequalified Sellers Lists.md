@@ -1,7 +1,7 @@
 ---
 tags:
-  - influence/opa
-Category: Knowledge Bases
+  - "influence/opa"
+Category: "Knowledge Bases"
 Description: "[[Prequalified Sellers Lists#Description|📝]]"
 ---
 # Description

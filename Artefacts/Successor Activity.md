@@ -1,7 +1,7 @@
 ---
 tags:
-  - scheduling
+  - "scheduling"
 aliases:
-  - Successor
+  - "Successor"
 ---
 A dependent activity that logically comes after another activity in a schedule.

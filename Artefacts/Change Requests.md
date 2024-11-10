@@ -1,9 +1,8 @@
 ---
-Section: "4.3.3.4"
 tags:
   - "#project-document"
   - "artefact"
-Description: "[[Change Requests#Description|📝]]"
+PMBOK Section: "4.3.3.4"
 ---
 Formal [[Proposal]] to modify any document, [[Deliverables|deliverable]], or baseline. Unapproved changes, before they land in the [[Change Log]].
 

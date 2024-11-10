@@ -1,10 +1,9 @@
 ---
 tags:
   - "#additional-component"
-  - artefact
-Description: "[[Performance Measurement Baseline#Description|📝]]"
+  - "artefact"
 aliases:
-  - PMB
+  - "PMB"
 ---
 # Description
 The component of the [[Project Management Plan]].

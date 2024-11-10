@@ -23,7 +23,7 @@ May be positively or negatively impacted by the [[Project]].
 	- [[Project Management Office|PMO]]
 	- Portfolio [[Portfolio Steering Committee]]
 	- [[Program Manager]]
-	- [[Project Manager]]s of other [[Project]]s
+	- [[Roles/Project Manager]]s of other [[Project]]s
 	- [[Team]] members
 - External stakeholders:
 	- [[Customer]]s

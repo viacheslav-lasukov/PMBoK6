@@ -1,12 +1,12 @@
 ---
 Page: 147
-Section: "5.2.3.1"
 tags:
   - "#project-document"
   - "topic"
   - "artefact"
 aliases:
   - "Requirements Document"
+PMBOK Section: "5.2.3.1"
 ---
 Describes how individual [[Requirement]] meet the [[Business Need]]. [[Requirement]]s may start out at a high level and become progressively more detailed as more [[Information]] about the [[requirement]]s is known.
 

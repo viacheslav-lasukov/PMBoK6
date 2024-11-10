@@ -1,8 +1,7 @@
 ---
 tags:
-  - artefact
-  - procurement
-Description: "[[Procurement Strategy#Description|📝]]"
+  - "artefact"
+  - "procurement"
 ---
 # Description
 One of the [[Procurement Documentation]].

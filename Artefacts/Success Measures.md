@@ -1,10 +1,9 @@
 ---
-Section: 1.2.6.4
 Page: 34
-tags: 
-Description: ""
+tags:
 aliases:
-  - Success
+  - "Success"
+PMBOK Section: "1.2.6.4"
 ---
 # Description
 Project should meet not only time, cost, scope, and [[Quality]].

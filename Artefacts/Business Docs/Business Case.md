@@ -1,9 +1,8 @@
 ---
-Section: 1.2.6.1
 Page: 29
 tags:
   - "#business-document"
-Description: "[[Business Case#Description|📝]]"
+PMBOK Section: "1.2.6.1"
 ---
 # Description
 ## #pmbok6 
@@ -11,7 +10,7 @@ Documented economic feasibility study used to establish the validity of the bene
 
 Lists the objectives and reasons for [[Initiating|Initiation]].
 
-Helps measure the [[Success Measures|Success]] at the end of the [[Project]] against the [[Objective]]s. Is used throughout the [[Project Life Cycle]]. May be used before the [[Initiating|Initiation]] and may result in a go/no-go decision.
+Helps measure the [[Success Measures|Success]] at the end of the [[Project]] against the [[Objective]]s. Is used throughout the [[Life Cycle]]. May be used before the [[Initiating|Initiation]] and may result in a go/no-go decision.
 ## #ba 
 A justification for a course of action based on the benefits to be realized by using the proposed solution, as compared to the cost, effort, and other considerations to acquire and live with that solution.
 # Structure

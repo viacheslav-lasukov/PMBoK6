@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefact
+  - "artefact"
 ---
 Actions, processes, or other conditions the project needs to meet.
 ## Examples

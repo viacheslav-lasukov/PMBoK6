@@ -1,5 +1,4 @@
 ---
-Section: "12.2.3.2"
 Page: 489
 tags:
   - "#project-document"
@@ -8,6 +7,7 @@ tags:
   - "artefact"
 aliases:
   - "contract"
+PMBOK Section: "12.2.3.2"
 ---
 # Description
 A contract is a mutually binding agreement that:

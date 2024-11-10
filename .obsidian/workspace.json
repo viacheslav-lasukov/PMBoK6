@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd54c2d4173e990",
+        "id": "f15bcfdaca5656cb",
         "type": "tabs",
         "children": [
           {
-            "id": "420cda8b70b23e33",
+            "id": "0e19d9b5b1e4bc26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BOKs/BABOK/Requirements Life Cycle Management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requirements Life Cycle Management"
             }
           }
         ]
@@ -35,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,28 +53,22 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Software Design Quality Analysis and Evaluation",
+                "query": "file: \"risk cate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "55e9c25079f990f8",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 496.5
   },
   "right": {
     "id": "2c4082b53c2add38",
@@ -74,7 +77,18 @@
       {
         "id": "14d1a83c47ce08a1",
         "type": "tabs",
+        "dimension": 54.888888888888886,
         "children": [
+          {
+            "id": "8586b3047a51119a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
           {
             "id": "334d94d1a941a2b3",
             "type": "leaf",
@@ -83,17 +97,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ee0d170c127ef1d6",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Artefacts/System Requirements Specification.md"
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -102,12 +108,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artefacts/System Requirements Specification.md"
-              }
+                "file": "BOKs/BABOK/Requirements Life Cycle Management.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Requirements Life Cycle Management"
             }
           },
           {
-            "id": "83449a54b99ecb93",
+            "id": "30814edb00d63dff",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "BOKs/BABOK/Requirements Life Cycle Management.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Requirements Life Cycle Management"
+            }
+          },
+          {
+            "id": "7cac7bb589df2490",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BOKs/BABOK/Requirements Life Cycle Management.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Requirements Life Cycle Management"
+            }
+          },
+          {
+            "id": "e414696830fb48ac",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -115,15 +154,18 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
-        "id": "892345bed45c8a14",
+        "id": "3708b3d62f7e7e08",
         "type": "tabs",
+        "dimension": 45.111111111111114,
         "children": [
           {
             "id": "58aec1c8398bbbfd",
@@ -131,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Artefacts/System Requirements Specification.md",
+                "file": "BOKs/BABOK/Requirements Life Cycle Management.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,66 +196,70 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1135510120087853,
+                  "scale": 0.5474289116846883,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Requirements Life Cycle Management"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 253.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40f817751e105d54",
+  "active": "0e19d9b5b1e4bc26",
   "lastOpenFiles": [
-    "Methodologies/Lean Six Sigma.md",
-    "BOKs/PMBOK/Knowledge Areas/8 Quality Management.md",
-    "Artefacts/System Requirements Specification.md",
-    "Artefacts/Activity.md",
-    "Artefacts/Development Plan.md",
-    "Methodologies/Frameworks/SAFe/Program Inrement Planning.md",
-    "Artefacts/Acceptance Criteria.md",
-    "Artefacts/Capacity.md",
-    "Artefacts/Capability.md",
-    "Artefacts/Budget.md",
-    "Artefacts/Change Requests.md",
-    "Artefacts/Bidding Documents.md",
-    "Artefacts/Basis of Estimates.md",
-    "Artefacts/Approved Change Requests.md",
-    "Artefacts/Agreement.md",
-    "Artefacts/Activity Duration.md",
-    "Artefacts/Actual Duration.md",
-    "Artefacts/Activity List.md",
-    "Artefacts/Activity Attributes.md",
-    "Tools and Techniques/RICE.md",
-    "Tools and Techniques/ICE.md",
-    "Tools and Techniques/Influencing.md",
-    "Tools and Techniques/Information Management.md",
-    "Tools and Techniques/Inspection.md",
-    "Tools and Techniques/Interviews.md",
-    "Tools and Techniques/INVEST.md",
-    "BOKs",
-    "BOKs/PMBOK",
-    "BOKs/BABOK",
-    "BOKs/SWEBOK/Fundamentals",
-    "BOKs/SWEBOK/Practical Considerations",
-    "BOKs/SWEBOK/Subtopics",
-    "BOKs/SWEBOK/Topics",
-    "Requirements Sources",
-    "Actors",
-    "BOKs/SWEBOK/KAs",
+    "BOKs/BABOK/Requirements Analysis and Design.md",
+    "BOKs/BABOK/Business Need.md",
+    "BOKs/BABOK/Business Analysis Plan.md",
+    "Phases/Discovery.md",
+    "Phases/Delivery.md",
+    "Roles/Functional Manager.md",
+    "Roles/Buyer.md",
+    "Roles/Business Analyst.md",
+    "Onboarding.md",
+    "PMO.md",
+    "Training Program.md",
+    "Working Memory.md",
+    "Знакомство с Колей Бабиным(1).md",
+    "Tools and Techniques/Root Cause Analysis.md",
+    "Tools and Techniques/Risk Categorization.md",
+    "Artefacts/Risk Exposure.md",
+    "Artefacts/Project Management Plan/Subsidiary Management Plans/Risk Management Plan.md",
+    "Artefacts/Reports/Risk Report.md",
+    "Tools and Techniques/Meetings/Risk Review.md",
+    "Tools and Techniques/Expert Judgment Topics/Risk Responses.md",
+    "Artefacts/Registers/Risk Register.md",
+    "_templates/artefact.md",
+    "_templates/chat.md",
+    "_templates/competency.md",
+    "_templates/expert_judgment_topic.md",
+    "_templates/meeting_note.md",
+    "tasksCalendar/view.css",
+    "tasksCalendar/view.js",
+    "tasksCalendar",
+    "2024",
+    "&/&",
+    "&",
+    "tasksCalendar",
+    "tasksCalendar",
+    "Daily Notes/2024",
+    "Daily Notes",
+    "_attachments/Pasted image 20240514212455.png",
     "_attachments/Pasted image 20240508150713.png",
     "_attachments/Project Charter vs Project Scope Statement.png",
     "_attachments/Pasted image 20240506141831.png",
@@ -223,7 +269,6 @@
     "_attachments/Pasted image 20240506140538.png",
     "_attachments/Pasted image 20240506120245.png",
     "_attachments/Pasted image 20240506115706.png",
-    "_attachments/Pasted image 20240506115611.png",
     "Untitled.canvas"
   ]
 }

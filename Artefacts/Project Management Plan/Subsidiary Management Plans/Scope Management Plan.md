@@ -1,10 +1,9 @@
 ---
-Section: 5.1.3.1
 Page: 137
 tags:
   - "#project-management-plan"
-Description: "[[Scope Management Plan#Description|📝]]"
-Started By: "[[5.1 Plan Scope Management]]"
+PMBOK Section: "5.1.3.1"
+Started By PMBOK Process: "[[5.1 Plan Scope Management]]"
 ---
 # Description
 Describes how the scope will be defined, developed, monitored, controlled, and validated. Can be formal or informal, broadly framed or highly detailed, based on the needs of the project.

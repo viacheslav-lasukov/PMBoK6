@@ -1,7 +1,6 @@
 ---
 tags:
-  - artefact
-Description: "[[Final Report#Description|📝]]"
+  - "artefact"
 ---
 # Description
 Provides a summary of the project performance.

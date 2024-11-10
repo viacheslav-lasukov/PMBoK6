@@ -1,8 +1,8 @@
 ---
 tags:
-  - swebok/topic
+  - "swebok/topic"
 aliases:
-  - Specification
+  - "Specification"
 SWEBOK_KA: "[[Software Requirements]]"
 ---
 

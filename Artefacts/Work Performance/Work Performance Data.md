@@ -1,5 +1,4 @@
 ---
-Description: "[[Work Performance Data#Description|📝]]"
 tags:
   - "artefact"
 ---

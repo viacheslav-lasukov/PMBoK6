@@ -1,7 +1,7 @@
 ---
 tags:
-  - artefact
-  - procurement
+  - "artefact"
+  - "procurement"
 ---
 # Description
 Those [[Seller]]s who have been judged to be in a competitive range based on the outcome of the [[Proposal Evaluation]] or bid evaluations.

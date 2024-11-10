@@ -1,8 +1,7 @@
 ---
-Section: "9.3.3.1"
 tags:
   - "#project-document"
-Description: "[[Project Team Assignments#Description|📝]]"
+PMBOK Section: "9.3.3.1"
 ---
 # Description
 Records the team members and their [[Roles and Responsibilities]] for the project.

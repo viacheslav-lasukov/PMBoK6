@@ -1,8 +1,8 @@
 ---
 tags:
-  - swebok/fundamental
+  - "swebok/fundamental"
 aliases:
-  - NFR
+  - "NFR"
 SWEBOK_KA: "[[Software Requirements]]"
 ---
 

@@ -1,0 +1,4 @@
+---
+tags:
+  - swebok/architectural-category
+---

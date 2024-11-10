@@ -1,12 +1,11 @@
 ---
 Page: 81
-Section: 4.1.3.2
-Started By: "[[4.1 Develop Project Charter]]"
 tags:
   - "#project-document/log"
-Description: "[[Assumption Log#Description|📝]]"
 aliases:
-  - Assumptions
+  - "Assumptions"
+PMBOK Section: "4.1.3.2"
+Started By PMBOK Process: "[[4.1 Develop Project Charter]]"
 ---
 See [[Assumption]].
 

@@ -1,9 +1,8 @@
 ---
 tags:
   - "#project-document"
-  - artefact
-Description: "[[Quality Report#Description|📝]]"
-Section: 8.2.3.1
+  - "artefact"
+PMBOK Section: "8.2.3.1"
 ---
 # Description
 The [[Information]] provided can be used by other #pmbok6/process es and departments to take corrective actions in order to achieve the project [[Quality]] expectations.

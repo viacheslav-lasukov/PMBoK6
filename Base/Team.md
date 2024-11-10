@@ -5,5 +5,5 @@ tags:
 aliases:
   - team
 ---
-A set of individuals who support the [[Project Manager]] in performing the work of the to achieve [[Objective]]s.
+A set of individuals who support the [[Roles/Project Manager]] in performing the work of the to achieve [[Objective]]s.
 See also [[Project Management Team]]

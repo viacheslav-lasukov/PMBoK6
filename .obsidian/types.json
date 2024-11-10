@@ -32,6 +32,7 @@
     "Capacity": "number",
     "SWEBOK KA": "multitext",
     "SWEBOK_KA": "text",
-    "SWEBOK_Topic": "text"
+    "SWEBOK_Topic": "text",
+    "IEEE": "multitext"
   }
 }

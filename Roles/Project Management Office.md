@@ -12,7 +12,7 @@ An organizational structure that standardizes the [[Project]]-related governance
 	- Adoption of [[Disciplines/Project Management]] frameworks or methodologies
 	- Use of specific templates, forms, and tools  
 	- [[Conformance]] to governance frameworks
-- Directive. Takes [[Control]] of the projects by directly managing the projects. [[Project Manager]]s are assigned by and report to the [[Project Management Office|PMO]]. The degree of [[Control]] provided by the [[Project Management Office|PMO]] is high.
+- Directive. Takes [[Control]] of the projects by directly managing the projects. [[Roles/Project Manager]]s are assigned by and report to the [[Project Management Office|PMO]]. The degree of [[Control]] provided by the [[Project Management Office|PMO]] is high.
 ###### [[Project Management Office|PMO]]'s Authority
 - Make recommendations
 - Lead [[Knowledge Transfer]]
@@ -20,7 +20,7 @@ An organizational structure that standardizes the [[Project]]-related governance
 ###### [[Project Management Office|PMO]]'s Functions/Responsibility
 - Managing shared [[Resource]]s across all projects administered by the [[Project Management Office|PMO]]
 - Identifying and developing [[Disciplines/Project Management]] methodology, best practices, and standards
-- [[Coaching]], [[Mentoring]], [[training]], and oversight
+- [[Coaching]], [[Mentoring]], [[Tools and Techniques/Training]], and oversight
 - Monitoring compliance with [[Disciplines/Project Management]] standards, policies, procedures, and templates by means of project [[audit]]s
 - Developing and managing project policies, procedures, templates, and other shared documentation (organizational process assets)
 - Coordinating communication across projects

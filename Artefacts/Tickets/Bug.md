@@ -1,9 +1,9 @@
 ---
 tags:
-  - jira/ticket
-  - artefact
+  - "jira/ticket"
+  - "artefact"
 aliases:
-  - Баг
-  - баг
-  - bug
+  - "Баг"
+  - "баг"
+  - "bug"
 ---

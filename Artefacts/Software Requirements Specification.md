@@ -1,9 +1,9 @@
 ---
 tags:
-  - document
-  - swebok/subtopic
+  - "document"
+  - "swebok/subtopic"
 aliases:
-  - SRS
+  - "SRS"
 SWEBOK_Topic: "[[Requirements Specification]]"
 ---
 Establishes the basis for agreement between [[customer]]s and [[Seller|Contractor]]s or [[supplier]]s on what the [[software product]] is to do as well as what it is not expected to do.

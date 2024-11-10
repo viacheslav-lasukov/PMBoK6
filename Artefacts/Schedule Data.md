@@ -1,7 +1,6 @@
 ---
 tags:
   - "#project-document"
-Description: "[[Schedule Data#Description|📝]]"
 ---
 # Description
 The collection of [[Information]] for describing and controlling the [[Project Schedule]].

@@ -1,10 +1,9 @@
 ---
 Page: 104
-Section: "4.4.3.1"
 tags:
   - "#project-document"
-Started By: "[[4.4 Manage Project Knowledge]]"
-Description: "[[Lessons Learned Register#Description|📝]]"
+PMBOK Section: "4.4.3.1"
+Started By PMBOK Process: "[[4.4 Manage Project Knowledge]]"
 ---
 # Description
 Used to improve the performance of the [[Project]] and to avoid repeating mistakes. 

@@ -1,10 +1,8 @@
 ---
 tags:
-  - "tool-technique"
-  - "tool-technique/data-analysis"
-PMBOK Section: "11.4.2.5"
+  - tool-technique/data-analysis
+PMBOK Section: 11.4.2.5
 ---
-# Description
 Is used to support selection of the best of several alternative courses of action.
 
 Alternative paths through the project are shown in the decision tree using branches representing different decisions or events, each of which can have associated costs and related [[Individual Project Risk]]s (including both threats and opportunities).

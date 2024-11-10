@@ -1,6 +1,6 @@
 ---
 tags:
-  - swebok/fundamental
+  - "swebok/fundamental"
 SWEBOK_KA: "[[Software Requirements]]"
 ---
 | #swebok                                                                                                            | #pmbok | #babok |

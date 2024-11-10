@@ -1,9 +1,9 @@
 ---
 tags:
-  - artefact
-  - wbs
+  - "artefact"
+  - "wbs"
 aliases:
-  - WBS Component
+  - "WBS Component"
 ---
 An entry in the [[Work Breakdown Structure|WBS]] that can be at any level.
 ## Examples

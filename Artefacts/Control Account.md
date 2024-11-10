@@ -1,5 +1,4 @@
 ---
-Description: "[[Control Account#Description|📝]]"
 tags:
   - "artefact"
 ---

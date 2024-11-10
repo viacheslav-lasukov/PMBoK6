@@ -1,9 +1,9 @@
 ---
 tags:
-  - artefact
-  - procurement/document
+  - "artefact"
+  - "procurement/document"
 aliases:
-  - Bid Documents
+  - "Bid Documents"
 ---
 One of the [[Procurement Documentation]].
 

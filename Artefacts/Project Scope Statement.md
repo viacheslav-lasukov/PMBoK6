@@ -2,7 +2,6 @@
 tags:
   - "baseline/component"
   - "#project-document"
-Description: ""
 ---
 # Description
 Description of the project scope, major [[Deliverables]], [[Assumption Log|Assumptions]], and constraints.

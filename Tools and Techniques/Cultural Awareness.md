@@ -9,4 +9,4 @@ An understanding of the differences between individuals, groups, and organizatio
 
 This awareness and any consequent actions minimize misunderstandings and miscommunication that may result from cultural differences within the project's [[Stakeholder Community]].
 
-[[Cultural awareness]] and cultural sensitivity help the [[Project Manager]] to [[10.1 Plan Communications Management|Plan Communications]] based on the cultural differences and requirements of [[Stakeholders]] and [[Team]] members.
+[[Cultural awareness]] and cultural sensitivity help the [[Roles/Project Manager]] to [[10.1 Plan Communications Management|Plan Communications]] based on the cultural differences and requirements of [[Stakeholders]] and [[Team]] members.

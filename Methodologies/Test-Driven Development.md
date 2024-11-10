@@ -1,9 +1,18 @@
 ---
 aliases:
   - TDD
+  - Test-First Programming
+  - Test-First Development
 tags:
   - xp
+  - swebok/subtopic
+SWEBOK_Topic: "[[Construction Technologies]]"
 ---
+[[Test Case]]s are written prior to writing any code.
+
+Can usually detect defects earlier and correct them more easily than traditional programming styles (?).
+
+Forces programmers to think about requirements and design before coding, thus exposing requirements and design problems sooner.
 ## Cycle
 | Step                                                                                             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

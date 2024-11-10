@@ -1,4 +1,4 @@
 ---
 tags:
-  - metric/project
+  - "metric/project"
 ---

@@ -1,8 +1,7 @@
 ---
 tags:
   - "#additional-component"
-  - artefact
-Description: "[[Configuration Management Plan#Description|📝]]"
+  - "artefact"
 ---
 # Description
 The component of the [[Project Management Plan]].

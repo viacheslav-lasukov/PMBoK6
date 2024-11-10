@@ -1,6 +1,5 @@
 [
   "templater-obsidian",
-  "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-hider",
   "obsidian-outliner",
@@ -10,8 +9,7 @@
   "table-extended",
   "tag-wrangler",
   "inline-frontmatter-sync",
-  "obsidian-tasks-plugin",
   "sheets",
   "table-editor-obsidian",
-  "better-word-count"
+  "dataview"
 ]

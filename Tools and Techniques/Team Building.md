@@ -19,4 +19,4 @@ While [[team building]] is essential during the initial stages, it should be a c
 
 Changes in a [[Environment]] are inevitable, and to manage them effectively, a continuous or renewed team-building effort may be applied.
 
-The [[Project Manager]] should continually monitor team functionality and performance to determine if any actions are needed to prevent or correct various team problems.
+The [[Roles/Project Manager]] should continually monitor team functionality and performance to determine if any actions are needed to prevent or correct various team problems.

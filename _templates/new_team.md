@@ -1,9 +1,9 @@
 ---
 tags:
   - governance-element/team
-PMs: 
-VS: 
-TechLeads: 
-TestLeads: 
-POs:
+PM: 
+TeamLead: 
+TechLead: 
+TestLead: 
+PO:
 ---

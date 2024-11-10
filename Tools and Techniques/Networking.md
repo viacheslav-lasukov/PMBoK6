@@ -8,4 +8,4 @@ Establishing connections and relationships with other people from the same or ot
 
 Interacting with others to exchange [[Information]] and develop contacts.
 
-Networks] provide [[Project Manager]]s and their [[Team]]s with access to informal organizations to solve problems, influence actions of their [[Stakeholders]], and increase [[Stakeholders]]' support for the work and [[Project Outcome]], thus improving performance.
+Networks] provide [[Roles/Project Manager]]s and their [[Team]]s with access to informal organizations to solve problems, influence actions of their [[Stakeholders]], and increase [[Stakeholders]]' support for the work and [[Project Outcome]], thus improving performance.

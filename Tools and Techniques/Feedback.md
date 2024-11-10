@@ -7,7 +7,7 @@ PMBOK Section: "10.2.2.3"
 # Description
 Information about reactions to communications, a [[Deliverables|deliverable]], or a situation.
 
-[[Feedback]] supports [[Communication Models#Interactive communication model|interactive communication]] between the [[Project Manager]], [[Team]] and [[Stakeholders]].
+[[Feedback]] supports [[Communication Models#Interactive communication model|interactive communication]] between the [[Roles/Project Manager]], [[Team]] and [[Stakeholders]].
 ## May be Collected by
 - Conversations; both formal and informal
 - [[Issue]] identification and discussion

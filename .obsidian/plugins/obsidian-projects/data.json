@@ -6,13 +6,14 @@
         "Started By": {
           "richText": true
         },
-        "Description": {
-          "richText": true
-        },
         "SWEBOK_KA": {
           "richText": true
         },
         "SWEBOK_Topic": {
+          "richText": true
+        },
+        "PMBOK Section": {},
+        "Started By PMBOK Process": {
           "richText": true
         }
       },
@@ -91,150 +92,6 @@
           },
           "id": "3a5ebf03-0324-4dec-8f36-de1e87746160",
           "name": "All",
-          "type": "table"
-        },
-        {
-          "config": {
-            "fieldConfig": {
-              "tags": {
-                "hide": true
-              },
-              "path": {
-                "hide": true
-              },
-              "Category": {
-                "hide": true
-              },
-              "Categories": {
-                "hide": true
-              },
-              "Components": {
-                "hide": true
-              }
-            }
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "Categories",
-                "operator": "has-any-of",
-                "enabled": true,
-                "value": "[\"Project Document\"]"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "d5c58c26-a67e-4574-b540-983ee89c2979",
-          "name": "Project Documents",
-          "type": "table"
-        },
-        {
-          "config": {
-            "fieldConfig": {
-              "path": {
-                "hide": true
-              },
-              "Components": {
-                "hide": true
-              }
-            }
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "Categories",
-                "operator": "has-any-of",
-                "enabled": true,
-                "value": "[\"Business Document\"]"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "1b14ddbd-8e83-4a06-a6d9-c956704b63cb",
-          "name": "Business Documents",
-          "type": "table"
-        },
-        {
-          "config": {
-            "fieldConfig": {
-              "tags": {
-                "hide": true
-              },
-              "Category": {
-                "hide": true
-              },
-              "Categories": {
-                "hide": true
-              },
-              "path": {
-                "hide": true
-              },
-              "Components": {
-                "hide": true
-              },
-              "name": {
-                "width": 342
-              }
-            }
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "Categories",
-                "operator": "has-any-of",
-                "enabled": true,
-                "value": "[\"Management Plan\"]"
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "4c5d82cd-bfc0-4f65-bd48-3896760ae731",
-          "name": "Management Plans",
-          "type": "table"
-        },
-        {
-          "config": {
-            "fieldConfig": {
-              "path": {
-                "hide": true
-              },
-              "name": {
-                "width": 311
-              }
-            }
-          },
-          "filter": {
-            "conditions": [
-              {
-                "field": "Categories",
-                "operator": "is-empty",
-                "enabled": true
-              }
-            ]
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "8fda29b8-90f8-4389-a370-a37eb1053f22",
-          "name": "UNCATEGORIZED",
           "type": "table"
         }
       ],
@@ -364,6 +221,224 @@
       ],
       "id": "b2ad0310-39ec-4992-a7a6-19e7b2ead4d2",
       "name": "Chats"
+    },
+    {
+      "fieldConfig": {
+        "SWEBOK_Category": {},
+        "swebokNotationCategory": {}
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "BOKs/SWEBOK/Notations",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d6a307cd-5f0d-4dae-815e-40894ebd68f5",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "bd5dfc57-107e-4d2f-91f9-940edde772a9",
+      "name": "Notations"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Influences",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "Learn More": {
+                "hide": true
+              },
+              "name": {
+                "width": 274
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Category",
+                "operator": "is",
+                "enabled": true,
+                "value": "Internal"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "2ef4e631-f5ae-4809-abe6-09ef682d9ee5",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "07754f50-1478-427f-940b-7bc4bb1693dd",
+      "name": "Influences"
+    },
+    {
+      "fieldConfig": {
+        "Status": {
+          "options": [
+            "To be Processed",
+            "To Do",
+            "Waiting to Hear Back from",
+            "Waiting for Discussion",
+            "Done"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "_templates/_task.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "DW Configure/Notes",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "tags",
+              "Status",
+              "Due Date"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "Project": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "28eb6040-8d5b-43e2-a484-1a360e17277c",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "Status",
+            "includeFields": [
+              "tags",
+              "Due Date"
+            ],
+            "columns": {
+              "To be Processed": {
+                "weight": 0
+              },
+              "To Do": {
+                "weight": 1
+              },
+              "Waiting to Hear Back from": {
+                "weight": 2
+              },
+              "Waiting for Discussion": {
+                "weight": 3
+              },
+              "Done": {
+                "weight": 4
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "42fa7f77-32e6-400c-a05e-d8a306bd1b5f",
+          "name": "By Status",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "week"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "34571a31-d03a-454f-adad-08717893af13",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "de4f949b-6ad5-4c18-bfbb-8388f623d056",
+      "name": "DW Configure"
     }
   ],
   "archives": [],
@@ -374,9 +449,10 @@
     },
     "commands": [
       {
-        "project": "94e80f37-7bc9-4be4-86dc-3d9ff8e3d55c"
+        "project": "de4f949b-6ad5-4c18-bfbb-8388f623d056",
+        "view": "42fa7f77-32e6-400c-a05e-d8a306bd1b5f"
       }
     ],
-    "linkBehavior": "open-note"
+    "linkBehavior": "open-editor"
   }
 }

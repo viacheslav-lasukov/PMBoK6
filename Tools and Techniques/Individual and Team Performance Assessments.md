@@ -5,14 +5,14 @@ tags:
 Category: "Policies, Processes, Procedures"
 ---
 # Description
-Gives the [[Project Manager]] and the [[Team]] insight into areas of strengths and weaknesses.
+Gives the [[Roles/Project Manager]] and the [[Team]] insight into areas of strengths and weaknesses.
 
 Provides improved understanding, trust, commitment, and communications among [[Team]] members and facilitate more productive teams throughout the project.
 
-[[Project Management Team]] can identify the specific [[Training]], [[Coaching]], [[Mentoring]], assistance, or changes required to improve the [[Team]]'s performance.
+[[Project Management Team]] can identify the specific [[Tools and Techniques/Training]], [[Coaching]], [[Mentoring]], assistance, or changes required to improve the [[Team]]'s performance.
 
 Should also include identifying the appropriate or required [[Resource]]s necessary to achieve and implement the improvements identified in the assessment.
-## Helps [[Project Manager]]s
+## Helps [[Roles/Project Manager]]s
 - assess [[Team]] members’ preferences, aspirations
 - how [[Team]] members process and organize information
 - how [[Team]] members make decisions

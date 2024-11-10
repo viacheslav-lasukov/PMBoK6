@@ -1,8 +1,7 @@
 ---
 tags:
-  - artefact
-  - tool-technique
-Description: "[[RACI#Description|📝]]"
+  - "artefact"
+  - "tool-technique"
 ---
 # Description
 An example of [[Resource Assignment Matrix|RAM]].

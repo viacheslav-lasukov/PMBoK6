@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefact
+  - "artefact"
 ---
 The work performed to deliver [[Products, Services, Results]] with the specified features and functions.
 

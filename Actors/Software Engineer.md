@@ -1,6 +1,9 @@
 ---
 tags:
   - actor
+aliases:
+  - Developer
+  - Dev
 ---
 
 | #pmbok | #swebok                                                                                                                                                                                                                                                                                                                                                                  | #babok |

@@ -1,10 +1,9 @@
 ---
 tags:
   - "#project-document"
-Description: "[[Risk Register#Description|📝]]"
 Page: 417
-Section: 11.2.3.1
-Started By: "[[11.2 Identify Risks]]"
+PMBOK Section: "11.2.3.1"
+Started By PMBOK Process: "[[11.2 Identify Risks]]"
 ---
 Captures details of identified [[Individual Project Risk]]s.
 ## Consists of

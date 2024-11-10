@@ -1,8 +1,7 @@
 ---
-Section: 4.5.1.3
-Description: "[[Work Performance Information#Description|📝]]"
 tags:
-  - artefact
+  - "artefact"
+PMBOK Section: "4.5.1.3"
 ---
 # Description
 Gathered through work [[Executing|execution]] and passed to the [[Monitoring and Controlling]] processes.

@@ -4,9 +4,8 @@ tags:
 Employment Date: 
 Birthdate: 
 Manager: 
-Intranet: 
 Title: 
 Competency: 
 Image: "![|100](xxx)"
-Office:
+Location:
 ---

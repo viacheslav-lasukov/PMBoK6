@@ -1,5 +1,5 @@
 ---
 tags:
-  - artefact
-  - design
+  - "artefact"
+  - "design"
 ---

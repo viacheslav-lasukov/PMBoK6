@@ -1,12 +1,11 @@
 ---
 Page: 148
-Section: 5.2.3.2
 tags:
   - "#project-document"
-  - quality/document
-Description: "[[Requirements Traceability Matrix#Description|📝]]"
+  - "quality/document"
 aliases:
-  - RTM
+  - "RTM"
+PMBOK Section: "5.2.3.2"
 ---
 # Description
 A grid that links product requirements from their origin to the [[Deliverables]] that satisfy them. Helps ensure that each requirement adds business value by linking it to the business and project objectives.

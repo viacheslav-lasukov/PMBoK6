@@ -1,9 +1,8 @@
 ---
 tags:
-  - artefact
-Description: "[[Proposal#Description|📝]]"
+  - "artefact"
 aliases:
-  - Seller Proposal
+  - "Seller Proposal"
 ---
 # Description
 Prepared by a [[Seller|seller]] in response to a [[Procurement Documentation|Procurement Documents]] package.

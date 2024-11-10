@@ -4,6 +4,7 @@ tags:
   - agile/practice
 Description: "[[Retrospective#Description|📝]]"
 ---
+See [[Scrum#Events]]
 # #pmbok6 
 A meeting held by a [[Team]] to discuss:
 - Successful elements in the [[project]]/[[Phase]]

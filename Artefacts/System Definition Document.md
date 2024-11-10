@@ -1,11 +1,11 @@
 ---
 tags:
-  - document
-  - swebok/subtopic
+  - "document"
+  - "swebok/subtopic"
 SWEBOK_Topic: "[[Requirements Specification]]"
 aliases:
-  - User Requirements Document
-  - Concept of Operations Document
+  - "User Requirements Document"
+  - "Concept of Operations Document"
 ---
 Lists the [[system requirement]]s along with background information about the overall [[objective]]s for the system, its target [[environment]], and a statement of the [[Constraint]]s, [[assumption]]s, and [[Non-Functional Requirement]]s.
 

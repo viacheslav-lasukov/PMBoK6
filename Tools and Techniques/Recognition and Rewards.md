@@ -19,4 +19,4 @@ Generally, money is viewed as a tangible aspect of any reward system, but intang
 
 Most [[Team]] members are motivated by an opportunity to grow, accomplish, be appreciated, and apply their professional skills to meet new challenges.
 
-A good strategy for [[Project Manager]]s is to give the team recognition throughout the life cycle of the project rather than waiting until the project is completed.
+A good strategy for [[Roles/Project Manager]]s is to give the team recognition throughout the life cycle of the project rather than waiting until the project is completed.

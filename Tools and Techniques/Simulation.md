@@ -6,7 +6,6 @@ Learn More:
   - "[[Practice Standard for Scheduling]]"
 PMBOK Section: "11.4.2.5"
 ---
-# Description
 Simulation models the combined effects of [[Individual Project Risk]]s and other sources of uncertainty to evaluate their potential impact on achieving [[Objective]]s.
 
 Most common simulation technique — [[Monte Carlo Simulation]] analysis, in which risks and other sources of uncertainty are used to calculate possible schedule outcomes for the total project.

@@ -1,9 +1,7 @@
 ---
-Description: "[[Deliverables#Description|📝]]"
 tags:
-  - artefact
+  - "artefact"
 ---
-# Description
 Any unique and verifiable [[Product]], result, or capability to perform a service that is required to be produced to complete a [[process]], [[Phase]], or [[Project]].
 
 Include ancillary results, such as [[Disciplines/Project Management]] reports and documentation.
@@ -18,7 +16,7 @@ The [[Control]] of the multiple versions or editions is supported by [[Configura
 # Examples
 - Approved [[Product]] [[Requirements Specification|Specification]]s
 - Delivery receipts
-- Work performance documents
-- Documents
-- Software
-- Building blocks
+- Work performance documents (i.e., [[Work Performance Report]])
+- #document s
+- [[Software]] / Code
+- Building blocks / Modules

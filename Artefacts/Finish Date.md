@@ -1,3 +1,7 @@
+---
+{}
+---
+
 A point in time associated with a [[Schedule Activity]]'s completion.
 
 Usually qualified by one of the following:

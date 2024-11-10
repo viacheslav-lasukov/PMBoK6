@@ -1,13 +1,12 @@
 ---
 tags:
-  - artefact
-  - tool-technique/requirements-elicitation
-Description: "[[User Story#Description|📝]]"
+  - "artefact"
+  - "tool-technique/requirements-elicitation"
 aliases:
-  - User Stories
-  - stories
-  - story
-  - Story
+  - "User Stories"
+  - "stories"
+  - "story"
+  - "Story"
 ---
 Short, highlevel descriptions of required functionality expressed in customer terms: *“As a **role**, I want **goal/desire** so that **benefit**”*
 

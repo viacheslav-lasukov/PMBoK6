@@ -1,8 +1,7 @@
 ---
-Category: Knowledge Bases
+Category: "Knowledge Bases"
 tags:
-  - influence/opa
-Section: 
+  - "influence/opa"
 Description: "[[Historical Information#Description|📝]]"
 ---
 # Description

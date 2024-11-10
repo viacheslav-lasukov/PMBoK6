@@ -3,6 +3,7 @@ tags:
   - swebok/topic
 SWEBOK_KA: "[[Software Design]]"
 ---
+See [[Software Quality]] #swebok/ka.
 # Subtopics
 ```dataview
 LIST

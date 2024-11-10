@@ -3,7 +3,6 @@ tags:
   - "#project-document"
   - "diagram"
   - "scheduling"
-Description: "[[Schedule Network Diagram#Description|📝]]"
 ---
 # Description
 Graphical representation of the logical relationships, also referred to as dependencies, among the project schedule activities.

@@ -1,10 +1,9 @@
 ---
-Section: 10.1.3.1
-Page: 
+Page:
 tags:
   - "#project-management-plan"
-Description: "[[Communications Management Plan#Description|📝]]"
-Started By: "[[10.1 Plan Communications Management]]"
+PMBOK Section: "10.1.3.1"
+Started By PMBOK Process: "[[10.1 Plan Communications Management]]"
 ---
 # Description
 The component of the [[Project Management Plan]].

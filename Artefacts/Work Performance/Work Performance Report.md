@@ -1,7 +1,6 @@
 ---
-Description: "[[Work Performance Report#Description|📝]]"
 tags:
-  - artefact
+  - "artefact"
 ---
 # Description
 The physical or electronic representation of [[Work Performance Information]] intended to generate decisions, actions, or awareness.

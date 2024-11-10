@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefact
+  - "artefact"
 ---
 A condition or capability that will be used to assess [[Conformance]] by validating the acceptability of an attribute for the [[Quality]] of a result.
 

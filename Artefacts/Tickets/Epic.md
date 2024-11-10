@@ -1,7 +1,7 @@
 ---
 tags:
-  - artefact
-  - jira/ticket
+  - "artefact"
+  - "jira/ticket"
 aliases:
-  - Эпик
+  - "Эпик"
 ---

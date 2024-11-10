@@ -1,7 +1,7 @@
 ---
 tags:
-  - document
-  - swebok/subtopic
+  - "document"
+  - "swebok/subtopic"
 SWEBOK_Topic: "[[Requirements Specification]]"
 ---
 A [[Systems Engineering]] activity.

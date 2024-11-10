@@ -1,7 +1,6 @@
 ---
 tags:
   - "#project-document"
-Description: "[[Activity List#Description|📝]]"
 ---
 A documented tabulation of [[Schedule Activity|Schedule Activities]] that shows the [[activity]] description, activity identifier, and a sufficiently detailed [[Scope]] of work description so [[Team]] understands what work is to be performed.
 

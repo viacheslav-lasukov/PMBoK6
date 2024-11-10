@@ -1,9 +1,8 @@
 ---
-Section: 1.2.6.2
 Page: 33
 tags:
   - "#business-document"
-Description: "[[Benefits Management Plan#Description|📝]]"
+PMBOK Section: "1.2.6.2"
 ---
 # Description
 Describes how and when the [[Benefit]]s of the will be delivered, and describes the mechanisms that should be in place to measure those [[Benefit]]s.

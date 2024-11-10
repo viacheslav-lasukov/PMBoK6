@@ -1,11 +1,10 @@
 ---
-Page: 
-Section: 5.4.3.1
+Page:
 tags:
   - "#baseline"
-  - artefact
-Description: "[[Scope Baseline#Description|📝]]"
-Started By: "[[5.4 Create WBS]]"
+  - "artefact"
+PMBOK Section: "5.4.3.1"
+Started By PMBOK Process: "[[5.4 Create WBS]]"
 ---
 # Description
 The component of the [[Project Management Plan]].

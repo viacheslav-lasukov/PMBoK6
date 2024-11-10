@@ -1,11 +1,10 @@
 ---
-Section: "1.2.6.3"
 Page: 34
-Started By: "[[4.1 Develop Project Charter]]"
 tags:
   - "#project-document"
   - "business-document"
-Description: ""
+PMBOK Section: "1.2.6.3"
+Started By PMBOK Process: "[[4.1 Develop Project Charter]]"
 ---
 Document issued by the project sponsor that formally authorizes the existence of a project and provides the project manager with the [[Authority]] to apply organizational [[Resource]]s to project activities
 # Structure

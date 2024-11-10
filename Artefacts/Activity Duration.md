@@ -1,7 +1,7 @@
 ---
 tags:
-  - artefact
-  - scheduling
+  - "artefact"
+  - "scheduling"
 ---
 The time in calendar units between the start and finish of a [[Schedule Activity]].
 

@@ -1,8 +1,7 @@
 ---
 tags:
   - "#project-management-plan"
-Description: "[[Schedule Management Plan#Description|📝]]"
-Started By: "[[6.1 Plan Schedule Management]]"
+Started By PMBOK Process: "[[6.1 Plan Schedule Management]]"
 ---
 # Description
 Establishes the [[Criteria]] and the activities for developing, monitoring, and controlling the schedule. How will you do scheduling?

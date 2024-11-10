@@ -1,9 +1,8 @@
 ---
-Description: "[[Organizational Breakdown Structure#Description|📝]]"
 tags:
-  - artefact
+  - "artefact"
 aliases:
-  - OBS
+  - "OBS"
 ---
 # Description
 A hierarchical representation of the [[Project]] organization, which illustrates the relationship between [[activity|activities]] and the [[Organization]]al units that will perform those activities.

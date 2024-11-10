@@ -1,9 +1,9 @@
 ---
 aliases:
-  - TOR
+  - "TOR"
 tags:
-  - artefact
-  - procurement/document
+  - "artefact"
+  - "procurement/document"
 ---
 # Description
 One of the [[Procurement Documentation]].

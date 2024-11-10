@@ -1,7 +1,7 @@
 ---
-Category: Policies, Processes, Procedures
+Category: "Policies, Processes, Procedures"
 tags:
-  - influence/opa
+  - "influence/opa"
 Description: "[[Planning Policies, Procedures, Guidelines#Description|📝]]"
 ---
 # Description

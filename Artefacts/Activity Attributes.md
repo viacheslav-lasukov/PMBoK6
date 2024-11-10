@@ -1,7 +1,6 @@
 ---
 tags:
   - "#project-document"
-Description: "[[Activity Attributes#Description|📝]]"
 ---
 # Description
 Extend the description of the activity by identifying multiple components associated with each activity.

@@ -1,5 +1,5 @@
 ---
 tags:
-  - influence/opa
-Category: Policies, Processes, Procedures
+  - "influence/opa"
+Category: "Policies, Processes, Procedures"
 ---

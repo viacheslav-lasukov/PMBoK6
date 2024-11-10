@@ -1,9 +1,8 @@
 ---
 tags:
   - "#project-document/log"
-Description: "[[Issue Log#Description|📝]]"
-Started By: "[[4.3 Direct and Manage Project Work]]"
-Section: 4.3.3.3
+PMBOK Section: "4.3.3.3"
+Started By PMBOK Process: "[[4.3 Direct and Manage Project Work]]"
 ---
 Description
 ## Includes

@@ -1,9 +1,8 @@
 ---
-Section: 5.4.3.1
 tags:
-  - baseline/component
-  - artefact
-Description: "[[Work Package#Description|📝]]"
+  - "baseline/component"
+  - "artefact"
+PMBOK Section: "5.4.3.1"
 ---
 # Description
 The lowest level of the [[Work Breakdown Structure]].

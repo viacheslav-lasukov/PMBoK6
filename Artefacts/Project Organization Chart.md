@@ -1,6 +1,6 @@
 ---
 tags:
-  - artefact
+  - "artefact"
 ---
 # Description
 A graphic display of [[Team]] members and their reporting relationships.

@@ -1,9 +1,8 @@
 ---
 tags:
   - "#project-document"
-Description: "[[Basis of Estimates#Description|📝]]"
-Started By: "[[6.4 Estimate Activity Durations]]"
-Section: 6.4.3.2
+PMBOK Section: "6.4.3.2"
+Started By PMBOK Process: "[[6.4 Estimate Activity Durations]]"
 ---
 Regardless of the level of detail, the supporting documentation should provide a clear and complete understanding of how the [[Duration]]/cost/[[Resource]] [[Estimate]] was derived.
 ## May Include

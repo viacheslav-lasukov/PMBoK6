@@ -1,9 +1,8 @@
 ---
-Section: 9.1.3.2
 tags:
   - "#project-document"
-Description: "[[Team Charter#Description|📝]]"
-Started By: "[[9.1 Plan Resource Management]]"
+PMBOK Section: "9.1.3.2"
+Started By PMBOK Process: "[[9.1 Plan Resource Management]]"
 ---
 # Description
 A document that establishes:

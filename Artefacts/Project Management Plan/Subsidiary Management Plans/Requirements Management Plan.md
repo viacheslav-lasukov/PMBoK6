@@ -1,12 +1,11 @@
 ---
-Section: 5.1.3.2
-Page: 
+Page:
 tags:
   - "#project-management-plan"
-Description: "[[Requirements Management Plan#Description|📝]]"
 aliases:
-  - BA Plan
-Started By: "[[5.1 Plan Scope Management]]"
+  - "BA Plan"
+PMBOK Section: "5.1.3.2"
+Started By PMBOK Process: "[[5.1 Plan Scope Management]]"
 ---
 # #pmbok6
 The component of the [[Project Management Plan]].

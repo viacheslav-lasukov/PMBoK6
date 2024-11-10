@@ -1,9 +1,8 @@
 ---
-Section: 6.5.3.2
 tags:
   - "#project-document"
-  - scheduling
-Description: "[[Project Schedule#Description|📝]]"
+  - "scheduling"
+PMBOK Section: "6.5.3.2"
 ---
 # Description
 An output of a [[Schedule Model]] that presents linked activities with planned dates, durations, milestones, and [[Resource]]s.

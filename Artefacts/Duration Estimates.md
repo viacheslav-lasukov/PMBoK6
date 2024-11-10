@@ -1,9 +1,8 @@
 ---
 tags:
   - "#project-document"
-  - artefact
-Description: "[[Duration Estimates#Description|📝]]"
-Started By: "[[6.4 Estimate Activity Durations]]"
+  - "artefact"
+Started By PMBOK Process: "[[6.4 Estimate Activity Durations]]"
 ---
 # Description
 Quantitative assessments of the likely number of time periods that are required to complete an activity, a phase, or a project.

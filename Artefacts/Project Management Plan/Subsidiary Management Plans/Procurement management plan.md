@@ -1,11 +1,10 @@
 ---
-Section: 12.1.3.1
 Page: 475
 tags:
   - "#project-management-plan"
-  - procurement/document
-Description: "[[Procurement Management Plan#Description|📝]]"
-Started By: "[[12.1 Plan Procurement Management]]"
+  - "procurement/document"
+PMBOK Section: "12.1.3.1"
+Started By PMBOK Process: "[[12.1 Plan Procurement Management]]"
 ---
 # Description
 The component of the [[Project Management Plan]].

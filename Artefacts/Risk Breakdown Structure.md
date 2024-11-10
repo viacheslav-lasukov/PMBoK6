@@ -1,11 +1,10 @@
 ---
 tags:
-  - artefact
-  - influence/opa
-Description: "[[Risk Breakdown Structure#Description|📝]]"
+  - "artefact"
+  - "influence/opa"
 aliases:
-  - RBS
-Category: Knowledge Bases
+  - "RBS"
+Category: "Knowledge Bases"
 ---
 Hierarchical representation of potential sources of risk.
 

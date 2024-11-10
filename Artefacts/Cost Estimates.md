@@ -1,7 +1,6 @@
 ---
 tags:
   - "#project-document"
-Description: "[[Cost Estimates#Description|📝]]"
 ---
 # Description
 Quantitative assessments of the probable costs required to complete project work, as well as [[Contingency]] amounts to account for identified risks, and [[Management Reserves]] to cover unplanned work.

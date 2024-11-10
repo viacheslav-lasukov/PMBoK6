@@ -1,10 +1,9 @@
 ---
-Section: 4.2.3.1
 Page: 89
 tags:
   - "#project-document"
-  - procurement/document
-Description: "[[Source Selection Criteria#Description|📝]]"
+  - "procurement/document"
+PMBOK Section: "4.2.3.1"
 ---
 # Description
 One of the [[Procurement Documentation]].

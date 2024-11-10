@@ -1,10 +1,9 @@
 ---
 Page: 418
-Section: 11.2.3.2
 tags:
   - "#project-document"
-Description: "[[Risk Report#Description|📝]]"
-Started By: "[[11.2 Identify Risks]]"
+PMBOK Section: "11.2.3.2"
+Started By PMBOK Process: "[[11.2 Identify Risks]]"
 ---
 Presents [[Information]] on sources of [[Overall Project Risk]], together with summary [[Information]] on identified [[Individual Project Risk]]s.
 ## Result of [[11.2 Identify Risks]]
@@ -22,5 +21,5 @@ Presents [[Information]] on sources of [[Overall Project Risk]], together with s
 	- Identification of [[Individual Project Risk]]s or other sources of uncertainty that have the greatest effect on the project [[Critical Path]]
 	- Major drivers of [[Overall Project Risk]], with the greatest influence on uncertainty in [[Project Outcome]]s
 - Prioritized list of [[Individual Project Risk]]s. This list includes those [[Individual Project Risk]]s that pose the greatest [[Threat]] or present the greatest [[Opportunity]], as indicated by [[sensitivity analysis]].
-- Trends in [[11.4 Perform Quantitative risk analysis|Quantitative Risk Analysis]] results. As the analysis is repeated at different times during the [[Project Life Cycle]], trends may become apparent that inform the planning of [[risk responses]].
+- Trends in [[11.4 Perform Quantitative risk analysis|Quantitative Risk Analysis]] results. As the analysis is repeated at different times during the [[Life Cycle]], trends may become apparent that inform the planning of [[risk responses]].
 - Recommended [[risk responses]]. The[[Risk Report]] may present suggested [[Risk Responses]] to the level of [[Overall Project Risk]] exposure or key [[Individual Project Risk]]s, based on the results of the [[11.4 Perform Quantitative risk analysis|Quantitative Risk Analysis]]. These recommendations will form inputs to the [[11.5 Plan Risk Responses]] process.
